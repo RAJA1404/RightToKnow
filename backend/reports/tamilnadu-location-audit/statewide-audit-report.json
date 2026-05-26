@@ -1,0 +1,9116 @@
+{
+  "sourceCoverage": {
+    "expectedDistricts": 38,
+    "talukWorkbookDistricts": [
+      "Ariyalur",
+      "Chengalpattu",
+      "Coimbatore",
+      "Cuddalore",
+      "Dharmapuri",
+      "Dindigul",
+      "Erode",
+      "Kallakurichi",
+      "Kancheepuram",
+      "Kanniyakumari",
+      "Karur",
+      "Krishnagiri",
+      "Madurai",
+      "Mayiladuthurai",
+      "Nagapattinam",
+      "Namakkal",
+      "Perambalur",
+      "Pudukkottai",
+      "Ramanathapuram",
+      "Ranipet",
+      "Salem",
+      "Sivagangai",
+      "Tenkasi",
+      "Thanjavur",
+      "The Nilgiris",
+      "Theni",
+      "Thoothukkudi",
+      "Tiruchirappalli",
+      "Tirunelveli",
+      "Tirupathur",
+      "Tiruppur",
+      "Tiruvallur",
+      "Tiruvannamalai",
+      "Tiruvarur",
+      "Vellore",
+      "Villupuram",
+      "Virudhunagar"
+    ],
+    "blockWorkbookDistricts": [
+      "Ariyalur",
+      "Chengalpattu",
+      "Coimbatore",
+      "Cuddalore",
+      "Dharmapuri",
+      "Dindigul",
+      "Erode",
+      "Kallakurichi",
+      "Kancheepuram",
+      "Kanniyakumari",
+      "Karur",
+      "Krishnagiri",
+      "Madurai",
+      "Mayiladuthurai",
+      "Nagapattinam",
+      "Namakkal",
+      "Perambalur",
+      "Pudukkottai",
+      "Ramanathapuram",
+      "Ranipet",
+      "Salem",
+      "Sivagangai",
+      "Tenkasi",
+      "Thanjavur",
+      "The Nilgiris",
+      "Theni",
+      "Thoothukkudi",
+      "Tiruchirappalli",
+      "Tirunelveli",
+      "Tirupathur",
+      "Tiruppur",
+      "Tiruvallur",
+      "Tiruvannamalai",
+      "Tiruvarur",
+      "Vellore",
+      "Villupuram",
+      "Virudhunagar"
+    ],
+    "missingDistricts": [
+      "Chennai"
+    ]
+  },
+  "mergeStats": {
+    "totalTalukRows": 12524,
+    "totalBlockRows": 12525,
+    "mergedRows": 12501,
+    "unmatchedTalukRows": 0,
+    "unmatchedBlockRows": 0,
+    "ambiguousTalukRows": 23,
+    "unusedMatchedBlockRows": 36
+  },
+  "blockOwnership": {
+    "combinations": [
+      {
+        "district": "Ariyalur",
+        "taluk": "Ariyalur",
+        "block": "Andimadam",
+        "villageCount": 30
+      },
+      {
+        "district": "Ariyalur",
+        "taluk": "Ariyalur",
+        "block": "Ariyalur",
+        "villageCount": 37
+      },
+      {
+        "district": "Ariyalur",
+        "taluk": "Jayankondam",
+        "block": "Jayamkondam",
+        "villageCount": 35
+      },
+      {
+        "district": "Ariyalur",
+        "taluk": "Sendurai",
+        "block": "Sendurai",
+        "villageCount": 30
+      },
+      {
+        "district": "Ariyalur",
+        "taluk": "Udayarpalayam",
+        "block": "T.Palur",
+        "villageCount": 33
+      },
+      {
+        "district": "Ariyalur",
+        "taluk": "Udayarpalayam",
+        "block": "Thirumanur",
+        "villageCount": 36
+      },
+      {
+        "district": "Chengalpattu",
+        "taluk": "Chengalpattu",
+        "block": "Chithamur",
+        "villageCount": 43
+      },
+      {
+        "district": "Chengalpattu",
+        "taluk": "Chengalpattu",
+        "block": "Lathur",
+        "villageCount": 41
+      },
+      {
+        "district": "Chengalpattu",
+        "taluk": "Chengalpattu",
+        "block": "Kattankolathur",
+        "villageCount": 39
+      },
+      {
+        "district": "Chengalpattu",
+        "taluk": "Madurantakam",
+        "block": "Acharapakkam",
+        "villageCount": 59
+      },
+      {
+        "district": "Chengalpattu",
+        "taluk": "Madurantakam",
+        "block": "Madurantakam",
+        "villageCount": 58
+      },
+      {
+        "district": "Chengalpattu",
+        "taluk": "Thirukalukundram",
+        "block": "Thirukalukundram",
+        "villageCount": 54
+      },
+      {
+        "district": "Chengalpattu",
+        "taluk": "Thirukalukundram",
+        "block": "Thomas Malai",
+        "villageCount": 15
+      },
+      {
+        "district": "Chengalpattu",
+        "taluk": "Thiruporur",
+        "block": "Thiruporur",
+        "villageCount": 50
+      },
+      {
+        "district": "Coimbatore",
+        "taluk": "Annur",
+        "block": "Annur",
+        "villageCount": 19
+      },
+      {
+        "district": "Coimbatore",
+        "taluk": "Annur",
+        "block": "Sultanpet",
+        "villageCount": 18
+      },
+      {
+        "district": "Coimbatore",
+        "taluk": "Annur",
+        "block": "Thondamuthur",
+        "villageCount": 10
+      },
+      {
+        "district": "Coimbatore",
+        "taluk": "Coimbatore North",
+        "block": "P.N.Palayam",
+        "villageCount": 9
+      },
+      {
+        "district": "Coimbatore",
+        "taluk": "Coimbatore North",
+        "block": "S.S.Kulam",
+        "villageCount": 7
+      },
+      {
+        "district": "Coimbatore",
+        "taluk": "Coimbatore South",
+        "block": "Sulur",
+        "villageCount": 17
+      },
+      {
+        "district": "Coimbatore",
+        "taluk": "Mettupalayam",
+        "block": "Karamadai",
+        "villageCount": 17
+      },
+      {
+        "district": "Coimbatore",
+        "taluk": "Pollachi",
+        "block": "Pollachi(N)",
+        "villageCount": 39
+      },
+      {
+        "district": "Coimbatore",
+        "taluk": "Pollachi",
+        "block": "Pollachi(S)",
+        "villageCount": 26
+      },
+      {
+        "district": "Coimbatore",
+        "taluk": "Pollachi",
+        "block": "Kinathukadavu",
+        "villageCount": 34
+      },
+      {
+        "district": "Coimbatore",
+        "taluk": "Pollachi",
+        "block": "Anaimalai",
+        "villageCount": 19
+      },
+      {
+        "district": "Coimbatore",
+        "taluk": "Pollachi",
+        "block": "Madukkarai",
+        "villageCount": 9
+      },
+      {
+        "district": "Cuddalore",
+        "taluk": "Bhuvanagiri",
+        "block": "Parangipettai",
+        "villageCount": 41
+      },
+      {
+        "district": "Cuddalore",
+        "taluk": "Bhuvanagiri",
+        "block": "Melbhuvanagiri",
+        "villageCount": 47
+      },
+      {
+        "district": "Cuddalore",
+        "taluk": "Chidambaram",
+        "block": "Srimushnam",
+        "villageCount": 41
+      },
+      {
+        "district": "Cuddalore",
+        "taluk": "Chidambaram",
+        "block": "Kumaratchi",
+        "villageCount": 57
+      },
+      {
+        "district": "Cuddalore",
+        "taluk": "Cuddalore",
+        "block": "Mangalur",
+        "villageCount": 66
+      },
+      {
+        "district": "Cuddalore",
+        "taluk": "Cuddalore",
+        "block": "Annagramam",
+        "villageCount": 42
+      },
+      {
+        "district": "Cuddalore",
+        "taluk": "Cuddalore",
+        "block": "Cuddalore",
+        "villageCount": 51
+      },
+      {
+        "district": "Cuddalore",
+        "taluk": "Kattumannarkoil",
+        "block": "Kattumannar Koil",
+        "villageCount": 42
+      },
+      {
+        "district": "Cuddalore",
+        "taluk": "Kurinjipadi",
+        "block": "Kurinjipadi",
+        "villageCount": 51
+      },
+      {
+        "district": "Cuddalore",
+        "taluk": "Kurinjipadi",
+        "block": "Keerapalayam",
+        "villageCount": 45
+      },
+      {
+        "district": "Cuddalore",
+        "taluk": "Panruti",
+        "block": "Panruti",
+        "villageCount": 42
+      },
+      {
+        "district": "Cuddalore",
+        "taluk": "Tittakudi",
+        "block": "Nallur",
+        "villageCount": 64
+      },
+      {
+        "district": "Cuddalore",
+        "taluk": "Vriddhachalam",
+        "block": "Vridhachalam",
+        "villageCount": 51
+      },
+      {
+        "district": "Cuddalore",
+        "taluk": "Vriddhachalam",
+        "block": "Kammapuram",
+        "villageCount": 43
+      },
+      {
+        "district": "Dharmapuri",
+        "taluk": "Dharmapuri",
+        "block": "Pappireddipatti",
+        "villageCount": 19
+      },
+      {
+        "district": "Dharmapuri",
+        "taluk": "Dharmapuri",
+        "block": "Dharmapuri",
+        "villageCount": 28
+      },
+      {
+        "district": "Dharmapuri",
+        "taluk": "Harur",
+        "block": "Harur",
+        "villageCount": 34
+      },
+      {
+        "district": "Dharmapuri",
+        "taluk": "Harur",
+        "block": "Eriyur",
+        "villageCount": 10
+      },
+      {
+        "district": "Dharmapuri",
+        "taluk": "Karimangalam",
+        "block": "Karimangalam",
+        "villageCount": 30
+      },
+      {
+        "district": "Dharmapuri",
+        "taluk": "Nallampalli",
+        "block": "Nallampalli",
+        "villageCount": 32
+      },
+      {
+        "district": "Dharmapuri",
+        "taluk": "Palacode",
+        "block": "Palacode",
+        "villageCount": 32
+      },
+      {
+        "district": "Dharmapuri",
+        "taluk": "Palacode",
+        "block": "Morappur",
+        "villageCount": 18
+      },
+      {
+        "district": "Dharmapuri",
+        "taluk": "Pennagaram",
+        "block": "Pennagaram",
+        "villageCount": 23
+      },
+      {
+        "district": "Dharmapuri",
+        "taluk": "Pennagaram",
+        "block": "Kadathur",
+        "villageCount": 25
+      },
+      {
+        "district": "Dindigul",
+        "taluk": "Dindigul",
+        "block": "Dindigul",
+        "villageCount": 14
+      },
+      {
+        "district": "Dindigul",
+        "taluk": "Dindigul",
+        "block": "Natham",
+        "villageCount": 23
+      },
+      {
+        "district": "Dindigul",
+        "taluk": "Gujiliamparai",
+        "block": "Guziliamparai",
+        "villageCount": 17
+      },
+      {
+        "district": "Dindigul",
+        "taluk": "Gujiliamparai",
+        "block": "Shanarpatti",
+        "villageCount": 21
+      },
+      {
+        "district": "Dindigul",
+        "taluk": "Kodaikanal",
+        "block": "Kodaikanal",
+        "villageCount": 15
+      },
+      {
+        "district": "Dindigul",
+        "taluk": "Natham",
+        "block": "Thoppampatty",
+        "villageCount": 37
+      },
+      {
+        "district": "Dindigul",
+        "taluk": "Natham",
+        "block": "Athoor",
+        "villageCount": 21
+      },
+      {
+        "district": "Dindigul",
+        "taluk": "Nilakottai",
+        "block": "Reddiarchatram",
+        "villageCount": 24
+      },
+      {
+        "district": "Dindigul",
+        "taluk": "Nilakottai",
+        "block": "Nilakottai",
+        "villageCount": 23
+      },
+      {
+        "district": "Dindigul",
+        "taluk": "Oddanchatram",
+        "block": "Oddanchatram",
+        "villageCount": 35
+      },
+      {
+        "district": "Dindigul",
+        "taluk": "Oddanchatram",
+        "block": "Batlagundu",
+        "villageCount": 17
+      },
+      {
+        "district": "Dindigul",
+        "taluk": "Palani",
+        "block": "Palani",
+        "villageCount": 20
+      },
+      {
+        "district": "Dindigul",
+        "taluk": "Palani",
+        "block": "Vadamadurai",
+        "villageCount": 15
+      },
+      {
+        "district": "Dindigul",
+        "taluk": "Vedasandur",
+        "block": "Vedasandur",
+        "villageCount": 22
+      },
+      {
+        "district": "Erode",
+        "taluk": "Anthiyur",
+        "block": "Thookanaickanpalayam",
+        "villageCount": 10
+      },
+      {
+        "district": "Erode",
+        "taluk": "Anthiyur",
+        "block": "Anthiyur",
+        "villageCount": 14
+      },
+      {
+        "district": "Erode",
+        "taluk": "Bhavani",
+        "block": "Bhavani",
+        "villageCount": 15
+      },
+      {
+        "district": "Erode",
+        "taluk": "Bhavani",
+        "block": "Ammapet",
+        "villageCount": 20
+      },
+      {
+        "district": "Erode",
+        "taluk": "Bhavani",
+        "block": "Bhavanisagar",
+        "villageCount": 15
+      },
+      {
+        "district": "Erode",
+        "taluk": "Erode",
+        "block": "Chennimalai",
+        "villageCount": 22
+      },
+      {
+        "district": "Erode",
+        "taluk": "Erode",
+        "block": "Erode",
+        "villageCount": 6
+      },
+      {
+        "district": "Erode",
+        "taluk": "Gobichettipalayam",
+        "block": "Gobi",
+        "villageCount": 21
+      },
+      {
+        "district": "Erode",
+        "taluk": "Gobichettipalayam",
+        "block": "Nambiyur",
+        "villageCount": 15
+      },
+      {
+        "district": "Erode",
+        "taluk": "Kodumudi",
+        "block": "Kodumudi",
+        "villageCount": 10
+      },
+      {
+        "district": "Erode",
+        "taluk": "Modakurichi",
+        "block": "Modakkuruchi",
+        "villageCount": 23
+      },
+      {
+        "district": "Erode",
+        "taluk": "Perundurai",
+        "block": "Perundurai",
+        "villageCount": 29
+      },
+      {
+        "district": "Erode",
+        "taluk": "Sathyamangalam",
+        "block": "Sathyamangalam",
+        "villageCount": 15
+      },
+      {
+        "district": "Erode",
+        "taluk": "Sathyamangalam",
+        "block": "Talavadi",
+        "villageCount": 10
+      },
+      {
+        "district": "Kallakurichi",
+        "taluk": "Chinnasalem",
+        "block": "Chinnasalem",
+        "villageCount": 50
+      },
+      {
+        "district": "Kallakurichi",
+        "taluk": "Kallakurichi",
+        "block": "Kallakurichi",
+        "villageCount": 46
+      },
+      {
+        "district": "Kallakurichi",
+        "taluk": "Kalrayan Hills",
+        "block": "Kalrayan Hills",
+        "villageCount": 15
+      },
+      {
+        "district": "Kallakurichi",
+        "taluk": "Sankarapuram",
+        "block": "Sankarapuram",
+        "villageCount": 44
+      },
+      {
+        "district": "Kallakurichi",
+        "taluk": "Tirukkoilur",
+        "block": "Tirunavalur",
+        "villageCount": 44
+      },
+      {
+        "district": "Kallakurichi",
+        "taluk": "Tirukkoilur",
+        "block": "Tirukoilur",
+        "villageCount": 60
+      },
+      {
+        "district": "Kallakurichi",
+        "taluk": "Tirukkoilur",
+        "block": "Thiyagadurgam",
+        "villageCount": 40
+      },
+      {
+        "district": "Kallakurichi",
+        "taluk": "Ulundurpet",
+        "block": "Ulundurpet",
+        "villageCount": 53
+      },
+      {
+        "district": "Kallakurichi",
+        "taluk": "Ulundurpet",
+        "block": "Rishivandiyam",
+        "villageCount": 60
+      },
+      {
+        "district": "Kancheepuram",
+        "taluk": "Kancheepuram",
+        "block": "Kancheepuram",
+        "villageCount": 40
+      },
+      {
+        "district": "Kancheepuram",
+        "taluk": "Sriperumbudur",
+        "block": "Kundrathur",
+        "villageCount": 41
+      },
+      {
+        "district": "Kancheepuram",
+        "taluk": "Sriperumbudur",
+        "block": "Sriperumbudur",
+        "villageCount": 57
+      },
+      {
+        "district": "Kancheepuram",
+        "taluk": "Uthiramerur",
+        "block": "Uthiramerur",
+        "villageCount": 73
+      },
+      {
+        "district": "Kancheepuram",
+        "taluk": "Walajabad",
+        "block": "Walajabad",
+        "villageCount": 61
+      },
+      {
+        "district": "Kanniyakumari",
+        "taluk": "Agastheeswaram",
+        "block": "Rajakkamangalam",
+        "villageCount": 12
+      },
+      {
+        "district": "Kanniyakumari",
+        "taluk": "Agastheeswaram",
+        "block": "Agastheeswaram",
+        "villageCount": 12
+      },
+      {
+        "district": "Kanniyakumari",
+        "taluk": "Kalkulam",
+        "block": "Munchirai",
+        "villageCount": 11
+      },
+      {
+        "district": "Kanniyakumari",
+        "taluk": "Kalkulam",
+        "block": "Thuckalay",
+        "villageCount": 7
+      },
+      {
+        "district": "Kanniyakumari",
+        "taluk": "Killiyur",
+        "block": "Thiruvattar",
+        "villageCount": 10
+      },
+      {
+        "district": "Kanniyakumari",
+        "taluk": "Killiyur",
+        "block": "Killiyoor",
+        "villageCount": 8
+      },
+      {
+        "district": "Kanniyakumari",
+        "taluk": "Thovalai",
+        "block": "Thovalai",
+        "villageCount": 16
+      },
+      {
+        "district": "Kanniyakumari",
+        "taluk": "Thovalai",
+        "block": "Melpuram",
+        "villageCount": 10
+      },
+      {
+        "district": "Kanniyakumari",
+        "taluk": "Vilavancode",
+        "block": "Kurunthancode",
+        "villageCount": 9
+      },
+      {
+        "district": "Karur",
+        "taluk": "Aravakurichi",
+        "block": "Aravakurichi",
+        "villageCount": 20
+      },
+      {
+        "district": "Karur",
+        "taluk": "Kadavur",
+        "block": "Kadavur",
+        "villageCount": 20
+      },
+      {
+        "district": "Karur",
+        "taluk": "Kadavur",
+        "block": "Thogamalai",
+        "villageCount": 20
+      },
+      {
+        "district": "Karur",
+        "taluk": "Karur",
+        "block": "Karur",
+        "villageCount": 14
+      },
+      {
+        "district": "Karur",
+        "taluk": "Krishnarayapuram",
+        "block": "Krishnarayapuram",
+        "villageCount": 23
+      },
+      {
+        "district": "Karur",
+        "taluk": "Kulithalai",
+        "block": "K.Paramathi",
+        "villageCount": 30
+      },
+      {
+        "district": "Karur",
+        "taluk": "Kulithalai",
+        "block": "Kulithalai",
+        "villageCount": 13
+      },
+      {
+        "district": "Karur",
+        "taluk": "Punjaipugalur",
+        "block": "Thanthoni",
+        "villageCount": 17
+      },
+      {
+        "district": "Krishnagiri",
+        "taluk": "Bargur",
+        "block": "Bargur",
+        "villageCount": 36
+      },
+      {
+        "district": "Krishnagiri",
+        "taluk": "Denkanikottai",
+        "block": "Mathur",
+        "villageCount": 24
+      },
+      {
+        "district": "Krishnagiri",
+        "taluk": "Hosur",
+        "block": "Hosur",
+        "villageCount": 26
+      },
+      {
+        "district": "Krishnagiri",
+        "taluk": "Hosur",
+        "block": "Thally",
+        "villageCount": 50
+      },
+      {
+        "district": "Krishnagiri",
+        "taluk": "Krishnagiri",
+        "block": "Kaveripattanam",
+        "villageCount": 36
+      },
+      {
+        "district": "Krishnagiri",
+        "taluk": "Krishnagiri",
+        "block": "Krishnagiri",
+        "villageCount": 30
+      },
+      {
+        "district": "Krishnagiri",
+        "taluk": "Pochampalli",
+        "block": "Kelamangalam",
+        "villageCount": 28
+      },
+      {
+        "district": "Krishnagiri",
+        "taluk": "Shoolagiri",
+        "block": "Shoolagiri",
+        "villageCount": 42
+      },
+      {
+        "district": "Krishnagiri",
+        "taluk": "Uthangarai",
+        "block": "Uthangarai",
+        "villageCount": 34
+      },
+      {
+        "district": "Krishnagiri",
+        "taluk": "Veppanahalli",
+        "block": "Veppanapalli",
+        "villageCount": 27
+      },
+      {
+        "district": "Madurai",
+        "taluk": "Kallupatti",
+        "block": "T.Kallupatti",
+        "villageCount": 42
+      },
+      {
+        "district": "Madurai",
+        "taluk": "Kallupatti",
+        "block": "Kallikudi",
+        "villageCount": 36
+      },
+      {
+        "district": "Madurai",
+        "taluk": "Madurai North",
+        "block": "Madurai East",
+        "villageCount": 36
+      },
+      {
+        "district": "Madurai",
+        "taluk": "Madurai North",
+        "block": "Madurai West",
+        "villageCount": 29
+      },
+      {
+        "district": "Madurai",
+        "taluk": "Madurai South",
+        "block": "Thirupparankundram",
+        "villageCount": 38
+      },
+      {
+        "district": "Madurai",
+        "taluk": "Melur",
+        "block": "Kottampatti",
+        "villageCount": 27
+      },
+      {
+        "district": "Madurai",
+        "taluk": "Melur",
+        "block": "Melur",
+        "villageCount": 36
+      },
+      {
+        "district": "Madurai",
+        "taluk": "Melur",
+        "block": "Sedapatti",
+        "villageCount": 31
+      },
+      {
+        "district": "Madurai",
+        "taluk": "Peraiyur",
+        "block": "Chellampatti",
+        "villageCount": 29
+      },
+      {
+        "district": "Madurai",
+        "taluk": "Thirumangalam",
+        "block": "Alanganallur",
+        "villageCount": 37
+      },
+      {
+        "district": "Madurai",
+        "taluk": "Thirumangalam",
+        "block": "Thirumangalam",
+        "villageCount": 38
+      },
+      {
+        "district": "Madurai",
+        "taluk": "Usilampatti",
+        "block": "Usilampatti",
+        "villageCount": 18
+      },
+      {
+        "district": "Madurai",
+        "taluk": "Vadipatti",
+        "block": "Vadipatti",
+        "villageCount": 23
+      },
+      {
+        "district": "Mayiladuthurai",
+        "taluk": "Kuthalam",
+        "block": "Kuthalam",
+        "villageCount": 51
+      },
+      {
+        "district": "Mayiladuthurai",
+        "taluk": "Mayiladuthurai",
+        "block": "Mayiladuthurai",
+        "villageCount": 53
+      },
+      {
+        "district": "Mayiladuthurai",
+        "taluk": "Mayiladuthurai",
+        "block": "Kollidam",
+        "villageCount": 41
+      },
+      {
+        "district": "Mayiladuthurai",
+        "taluk": "Sirkazhi",
+        "block": "Sirkali",
+        "villageCount": 37
+      },
+      {
+        "district": "Mayiladuthurai",
+        "taluk": "Sirkazhi",
+        "block": "Sembanarkoil",
+        "villageCount": 57
+      },
+      {
+        "district": "Nagapattinam",
+        "taluk": "Kilvelur",
+        "block": "Kilvelur",
+        "villageCount": 38
+      },
+      {
+        "district": "Nagapattinam",
+        "taluk": "Kilvelur",
+        "block": "Keelaiyur",
+        "villageCount": 27
+      },
+      {
+        "district": "Nagapattinam",
+        "taluk": "Nagapattinam",
+        "block": "Nagapattinam",
+        "villageCount": 29
+      },
+      {
+        "district": "Nagapattinam",
+        "taluk": "Nagapattinam",
+        "block": "Thalainayar",
+        "villageCount": 24
+      },
+      {
+        "district": "Nagapattinam",
+        "taluk": "Vedaranyam",
+        "block": "Thirumarugal",
+        "villageCount": 39
+      },
+      {
+        "district": "Nagapattinam",
+        "taluk": "Vedaranyam",
+        "block": "Vedaranyam",
+        "villageCount": 36
+      },
+      {
+        "district": "Namakkal",
+        "taluk": "Kolli Hills",
+        "block": "Kabilarmalai",
+        "villageCount": 20
+      },
+      {
+        "district": "Namakkal",
+        "taluk": "Kolli Hills",
+        "block": "Kollihills",
+        "villageCount": 14
+      },
+      {
+        "district": "Namakkal",
+        "taluk": "Kumarapalayam",
+        "block": "Elachipalayam",
+        "villageCount": 28
+      },
+      {
+        "district": "Namakkal",
+        "taluk": "Kumarapalayam",
+        "block": "Pallipalayam",
+        "villageCount": 14
+      },
+      {
+        "district": "Namakkal",
+        "taluk": "Mohanur",
+        "block": "Mohanur",
+        "villageCount": 25
+      },
+      {
+        "district": "Namakkal",
+        "taluk": "Mohanur",
+        "block": "Mallasamudram",
+        "villageCount": 27
+      },
+      {
+        "district": "Namakkal",
+        "taluk": "Namakkal",
+        "block": "Namakkal",
+        "villageCount": 25
+      },
+      {
+        "district": "Namakkal",
+        "taluk": "Namakkal",
+        "block": "Namagiripet",
+        "villageCount": 18
+      },
+      {
+        "district": "Namakkal",
+        "taluk": "Paramathi-Velur",
+        "block": "Puduchatram",
+        "villageCount": 21
+      },
+      {
+        "district": "Namakkal",
+        "taluk": "Paramathi-Velur",
+        "block": "Paramathy",
+        "villageCount": 20
+      },
+      {
+        "district": "Namakkal",
+        "taluk": "Rasipuram",
+        "block": "Rasipuram",
+        "villageCount": 20
+      },
+      {
+        "district": "Namakkal",
+        "taluk": "Sendamangalam",
+        "block": "Erumapatty",
+        "villageCount": 24
+      },
+      {
+        "district": "Namakkal",
+        "taluk": "Sendamangalam",
+        "block": "Sendamangalam",
+        "villageCount": 14
+      },
+      {
+        "district": "Namakkal",
+        "taluk": "Tiruchengode",
+        "block": "Tiruchengode",
+        "villageCount": 26
+      },
+      {
+        "district": "Namakkal",
+        "taluk": "Tiruchengode",
+        "block": "Vennandur",
+        "villageCount": 24
+      },
+      {
+        "district": "Perambalur",
+        "taluk": "Alathur",
+        "block": "Alathur",
+        "villageCount": 39
+      },
+      {
+        "district": "Perambalur",
+        "taluk": "Kunnam",
+        "block": "Veppur",
+        "villageCount": 33
+      },
+      {
+        "district": "Perambalur",
+        "taluk": "Perambalur",
+        "block": "Perambalur",
+        "villageCount": 20
+      },
+      {
+        "district": "Perambalur",
+        "taluk": "Veppanthattai",
+        "block": "Veppanthattai",
+        "villageCount": 29
+      },
+      {
+        "district": "Pudukkottai",
+        "taluk": "Alangudi",
+        "block": "Annavasal",
+        "villageCount": 43
+      },
+      {
+        "district": "Pudukkottai",
+        "taluk": "Alangudi",
+        "block": "Kunnandarkoil",
+        "villageCount": 37
+      },
+      {
+        "district": "Pudukkottai",
+        "taluk": "Aranthangi",
+        "block": "Arantangi",
+        "villageCount": 51
+      },
+      {
+        "district": "Pudukkottai",
+        "taluk": "Aranthangi",
+        "block": "Manamelkudi",
+        "villageCount": 27
+      },
+      {
+        "district": "Pudukkottai",
+        "taluk": "Avudaiyarkoil",
+        "block": "Avudayarkoil",
+        "villageCount": 35
+      },
+      {
+        "district": "Pudukkottai",
+        "taluk": "Gandarvakottai",
+        "block": "Gandarvakottai",
+        "villageCount": 36
+      },
+      {
+        "district": "Pudukkottai",
+        "taluk": "Illuppur",
+        "block": "Arimalam",
+        "villageCount": 32
+      },
+      {
+        "district": "Pudukkottai",
+        "taluk": "Karambakudi",
+        "block": "Karambakkudi",
+        "villageCount": 39
+      },
+      {
+        "district": "Pudukkottai",
+        "taluk": "Karambakudi",
+        "block": "Ponnamaravathi",
+        "villageCount": 42
+      },
+      {
+        "district": "Pudukkottai",
+        "taluk": "Kulathur",
+        "block": "Thiruvarankulam",
+        "villageCount": 48
+      },
+      {
+        "district": "Pudukkottai",
+        "taluk": "Thirumayam",
+        "block": "Thirumayam",
+        "villageCount": 33
+      },
+      {
+        "district": "Pudukkottai",
+        "taluk": "Viralimalai",
+        "block": "Pudukkottai",
+        "villageCount": 27
+      },
+      {
+        "district": "Pudukkottai",
+        "taluk": "Viralimalai",
+        "block": "Viralimalai",
+        "villageCount": 45
+      },
+      {
+        "district": "Ramanathapuram",
+        "taluk": "Kadaladi",
+        "block": "R.S. Mangalam",
+        "villageCount": 35
+      },
+      {
+        "district": "Ramanathapuram",
+        "taluk": "Kadaladi",
+        "block": "Kadaladi",
+        "villageCount": 60
+      },
+      {
+        "district": "Ramanathapuram",
+        "taluk": "Kamudhi",
+        "block": "Bogalur",
+        "villageCount": 26
+      },
+      {
+        "district": "Ramanathapuram",
+        "taluk": "Kamudhi",
+        "block": "Kamuthi",
+        "villageCount": 53
+      },
+      {
+        "district": "Ramanathapuram",
+        "taluk": "Mudukulathur",
+        "block": "Mudukulathur",
+        "villageCount": 46
+      },
+      {
+        "district": "Ramanathapuram",
+        "taluk": "Paramakudi",
+        "block": "Nainarkoil",
+        "villageCount": 37
+      },
+      {
+        "district": "Ramanathapuram",
+        "taluk": "Paramakudi",
+        "block": "Paramakudi",
+        "villageCount": 39
+      },
+      {
+        "district": "Ramanathapuram",
+        "taluk": "Ramanathapuram",
+        "block": "Ramanathapuram",
+        "villageCount": 25
+      },
+      {
+        "district": "Ramanathapuram",
+        "taluk": "Rameswaram",
+        "block": "Mandapam",
+        "villageCount": 28
+      },
+      {
+        "district": "Ramanathapuram",
+        "taluk": "Rameswaram",
+        "block": "Thiruppullani",
+        "villageCount": 33
+      },
+      {
+        "district": "Ramanathapuram",
+        "taluk": "Tiruvadanai",
+        "block": "Thiruvadanai",
+        "villageCount": 47
+      },
+      {
+        "district": "Ranipet",
+        "taluk": "Arakkonam",
+        "block": "Kaveripakkam",
+        "villageCount": 29
+      },
+      {
+        "district": "Ranipet",
+        "taluk": "Arakkonam",
+        "block": "Arakonam",
+        "villageCount": 42
+      },
+      {
+        "district": "Ranipet",
+        "taluk": "Arcot",
+        "block": "Thimiri",
+        "villageCount": 55
+      },
+      {
+        "district": "Ranipet",
+        "taluk": "Arcot",
+        "block": "Arcot",
+        "villageCount": 39
+      },
+      {
+        "district": "Ranipet",
+        "taluk": "Nemili",
+        "block": "Nemili",
+        "villageCount": 47
+      },
+      {
+        "district": "Ranipet",
+        "taluk": "Sholinghur",
+        "block": "Sholinghur",
+        "villageCount": 40
+      },
+      {
+        "district": "Ranipet",
+        "taluk": "Walajah",
+        "block": "Walajah",
+        "villageCount": 36
+      },
+      {
+        "district": "Salem",
+        "taluk": "Attur",
+        "block": "Gangavalli",
+        "villageCount": 14
+      },
+      {
+        "district": "Salem",
+        "taluk": "Attur",
+        "block": "Peddanaickenpalayam",
+        "villageCount": 36
+      },
+      {
+        "district": "Salem",
+        "taluk": "Attur",
+        "block": "Attur",
+        "villageCount": 20
+      },
+      {
+        "district": "Salem",
+        "taluk": "Attur",
+        "block": "Thalaivasal",
+        "villageCount": 35
+      },
+      {
+        "district": "Salem",
+        "taluk": "Edappadi",
+        "block": "Idappady",
+        "villageCount": 10
+      },
+      {
+        "district": "Salem",
+        "taluk": "Edappadi",
+        "block": "Konganapuram",
+        "villageCount": 9
+      },
+      {
+        "district": "Salem",
+        "taluk": "Mettur",
+        "block": "Nangavalli",
+        "villageCount": 9
+      },
+      {
+        "district": "Salem",
+        "taluk": "Mettur",
+        "block": "Mecheri",
+        "villageCount": 17
+      },
+      {
+        "district": "Salem",
+        "taluk": "Omalur",
+        "block": "Tharamangalam",
+        "villageCount": 17
+      },
+      {
+        "district": "Salem",
+        "taluk": "Omalur",
+        "block": "Kolathur",
+        "villageCount": 14
+      },
+      {
+        "district": "Salem",
+        "taluk": "Omalur",
+        "block": "Omalur",
+        "villageCount": 33
+      },
+      {
+        "district": "Salem",
+        "taluk": "Salem",
+        "block": "Ayothiyapattinam",
+        "villageCount": 31
+      },
+      {
+        "district": "Salem",
+        "taluk": "Salem",
+        "block": "Mac. Choultry",
+        "villageCount": 12
+      },
+      {
+        "district": "Salem",
+        "taluk": "Salem",
+        "block": "Veerapandy",
+        "villageCount": 25
+      },
+      {
+        "district": "Salem",
+        "taluk": "Salem",
+        "block": "Panamarathupatti",
+        "villageCount": 19
+      },
+      {
+        "district": "Salem",
+        "taluk": "Salem",
+        "block": "Salem",
+        "villageCount": 14
+      },
+      {
+        "district": "Salem",
+        "taluk": "Sangagiri",
+        "block": "Sankari",
+        "villageCount": 22
+      },
+      {
+        "district": "Salem",
+        "taluk": "Valapady",
+        "block": "Valapady",
+        "villageCount": 20
+      },
+      {
+        "district": "Salem",
+        "taluk": "Valapady",
+        "block": "Kadayaampatti",
+        "villageCount": 17
+      },
+      {
+        "district": "Salem",
+        "taluk": "Yercaud",
+        "block": "Yercaud",
+        "villageCount": 9
+      },
+      {
+        "district": "Sivagangai",
+        "taluk": "Devakottai",
+        "block": "Devakottai",
+        "villageCount": 42
+      },
+      {
+        "district": "Sivagangai",
+        "taluk": "Devakottai",
+        "block": "Sakkottai",
+        "villageCount": 26
+      },
+      {
+        "district": "Sivagangai",
+        "taluk": "Ilayangudi",
+        "block": "Ilayangudi",
+        "villageCount": 55
+      },
+      {
+        "district": "Sivagangai",
+        "taluk": "Ilayangudi",
+        "block": "Kallal",
+        "villageCount": 44
+      },
+      {
+        "district": "Sivagangai",
+        "taluk": "Karaikudi",
+        "block": "Kannangudi",
+        "villageCount": 17
+      },
+      {
+        "district": "Sivagangai",
+        "taluk": "Karaikudi",
+        "block": "S.Pudur",
+        "villageCount": 21
+      },
+      {
+        "district": "Sivagangai",
+        "taluk": "Manamadurai",
+        "block": "Thiruppuvanam",
+        "villageCount": 45
+      },
+      {
+        "district": "Sivagangai",
+        "taluk": "Manamadurai",
+        "block": "Manamadurai",
+        "villageCount": 39
+      },
+      {
+        "district": "Sivagangai",
+        "taluk": "Sivagangai",
+        "block": "Kalaiyarkovil",
+        "villageCount": 43
+      },
+      {
+        "district": "Sivagangai",
+        "taluk": "Sivagangai",
+        "block": "Sivaganga",
+        "villageCount": 43
+      },
+      {
+        "district": "Sivagangai",
+        "taluk": "Tiruppattur",
+        "block": "Thiruppathur",
+        "villageCount": 40
+      },
+      {
+        "district": "Sivagangai",
+        "taluk": "Tiruppattur",
+        "block": "Singampunari",
+        "villageCount": 30
+      },
+      {
+        "district": "Tenkasi",
+        "taluk": "Alangulam",
+        "block": "Kuruvikulam",
+        "villageCount": 39
+      },
+      {
+        "district": "Tenkasi",
+        "taluk": "Alangulam",
+        "block": "Alankulam",
+        "villageCount": 32
+      },
+      {
+        "district": "Tenkasi",
+        "taluk": "Kadayanallur",
+        "block": "Kadayanallur",
+        "villageCount": 16
+      },
+      {
+        "district": "Tenkasi",
+        "taluk": "Kadayanallur",
+        "block": "Vasudevanallur",
+        "villageCount": 22
+      },
+      {
+        "district": "Tenkasi",
+        "taluk": "Sankarankovil",
+        "block": "Sankarankoil",
+        "villageCount": 28
+      },
+      {
+        "district": "Tenkasi",
+        "taluk": "Sankarankovil",
+        "block": "Melaneelithanallur",
+        "villageCount": 20
+      },
+      {
+        "district": "Tenkasi",
+        "taluk": "Shencottah",
+        "block": "Shencottai",
+        "villageCount": 6
+      },
+      {
+        "district": "Tenkasi",
+        "taluk": "Tenkasi",
+        "block": "Keelapavoor",
+        "villageCount": 21
+      },
+      {
+        "district": "Tenkasi",
+        "taluk": "Tenkasi",
+        "block": "Tenkasi",
+        "villageCount": 14
+      },
+      {
+        "district": "Tenkasi",
+        "taluk": "Veerakeralampudur",
+        "block": "Kadayam",
+        "villageCount": 23
+      },
+      {
+        "district": "Thanjavur",
+        "taluk": "Kumbakonam",
+        "block": "Papanasam",
+        "villageCount": 32
+      },
+      {
+        "district": "Thanjavur",
+        "taluk": "Kumbakonam",
+        "block": "Ammapet",
+        "villageCount": 46
+      },
+      {
+        "district": "Thanjavur",
+        "taluk": "Kumbakonam",
+        "block": "Kumbakonam",
+        "villageCount": 46
+      },
+      {
+        "district": "Thanjavur",
+        "taluk": "Kumbakonam",
+        "block": "Thiruppanandal",
+        "villageCount": 41
+      },
+      {
+        "district": "Thanjavur",
+        "taluk": "Orathanadu",
+        "block": "Thiruvonam",
+        "villageCount": 30
+      },
+      {
+        "district": "Thanjavur",
+        "taluk": "Orathanadu",
+        "block": "Budalur",
+        "villageCount": 42
+      },
+      {
+        "district": "Thanjavur",
+        "taluk": "Orathanadu",
+        "block": "Orathanadu",
+        "villageCount": 58
+      },
+      {
+        "district": "Thanjavur",
+        "taluk": "Pattukkottai",
+        "block": "Pattukkottai",
+        "villageCount": 43
+      },
+      {
+        "district": "Thanjavur",
+        "taluk": "Pattukkottai",
+        "block": "Madukkur",
+        "villageCount": 33
+      },
+      {
+        "district": "Thanjavur",
+        "taluk": "Peravurani",
+        "block": "Peravurani",
+        "villageCount": 26
+      },
+      {
+        "district": "Thanjavur",
+        "taluk": "Peravurani",
+        "block": "Sethubavachatram",
+        "villageCount": 37
+      },
+      {
+        "district": "Thanjavur",
+        "taluk": "Thanjavur",
+        "block": "Thanjavur",
+        "villageCount": 61
+      },
+      {
+        "district": "Thanjavur",
+        "taluk": "Thiruvaiyaru",
+        "block": "Thiruvaiyaru",
+        "villageCount": 40
+      },
+      {
+        "district": "Thanjavur",
+        "taluk": "Thiruvidaimarudur",
+        "block": "Thiruvidaimarudur",
+        "villageCount": 48
+      },
+      {
+        "district": "The Nilgiris",
+        "taluk": "Coonoor",
+        "block": "Coonoor",
+        "villageCount": 6
+      },
+      {
+        "district": "The Nilgiris",
+        "taluk": "Gudalur",
+        "block": "Gudalur",
+        "villageCount": 5
+      },
+      {
+        "district": "The Nilgiris",
+        "taluk": "Kotagiri",
+        "block": "Kotagiri",
+        "villageCount": 11
+      },
+      {
+        "district": "The Nilgiris",
+        "taluk": "Ooty",
+        "block": "Udhagai",
+        "villageCount": 13
+      },
+      {
+        "district": "Theni",
+        "taluk": "Andipatti",
+        "block": "Andipatti",
+        "villageCount": 30
+      },
+      {
+        "district": "Theni",
+        "taluk": "Andipatti",
+        "block": "K Myladumparai",
+        "villageCount": 18
+      },
+      {
+        "district": "Theni",
+        "taluk": "Bodinayakanur",
+        "block": "Bodinaickanur",
+        "villageCount": 15
+      },
+      {
+        "district": "Theni",
+        "taluk": "Bodinayakanur",
+        "block": "Chinnamanur",
+        "villageCount": 14
+      },
+      {
+        "district": "Theni",
+        "taluk": "Periyakulam",
+        "block": "Periyakulam",
+        "villageCount": 17
+      },
+      {
+        "district": "Theni",
+        "taluk": "Theni",
+        "block": "Theni",
+        "villageCount": 18
+      },
+      {
+        "district": "Theni",
+        "taluk": "Uthamapalayam",
+        "block": "Uthamapalayam",
+        "villageCount": 13
+      },
+      {
+        "district": "Theni",
+        "taluk": "Uthamapalayam",
+        "block": "Cumbum",
+        "villageCount": 5
+      },
+      {
+        "district": "Thoothukkudi",
+        "taluk": "Ettayapuram",
+        "block": "Karungulam",
+        "villageCount": 31
+      },
+      {
+        "district": "Thoothukkudi",
+        "taluk": "Ettayapuram",
+        "block": "Kayathar",
+        "villageCount": 45
+      },
+      {
+        "district": "Thoothukkudi",
+        "taluk": "Kovilpatti",
+        "block": "Vilathikulam",
+        "villageCount": 51
+      },
+      {
+        "district": "Thoothukkudi",
+        "taluk": "Kovilpatti",
+        "block": "Kovilpatti",
+        "villageCount": 38
+      },
+      {
+        "district": "Thoothukkudi",
+        "taluk": "Kovilpatti",
+        "block": "Pudur",
+        "villageCount": 44
+      },
+      {
+        "district": "Thoothukkudi",
+        "taluk": "Ottapidaram",
+        "block": "Ottapidaram",
+        "villageCount": 61
+      },
+      {
+        "district": "Thoothukkudi",
+        "taluk": "Ottapidaram",
+        "block": "Udangudi",
+        "villageCount": 17
+      },
+      {
+        "district": "Thoothukkudi",
+        "taluk": "Sathankulam",
+        "block": "Sattankulam",
+        "villageCount": 23
+      },
+      {
+        "district": "Thoothukkudi",
+        "taluk": "Sathankulam",
+        "block": "Alwarthirunagari",
+        "villageCount": 29
+      },
+      {
+        "district": "Thoothukkudi",
+        "taluk": "Thoothukkudi",
+        "block": "Thoothukudi",
+        "villageCount": 20
+      },
+      {
+        "district": "Thoothukkudi",
+        "taluk": "Tiruchendur",
+        "block": "Tiruchendur",
+        "villageCount": 11
+      },
+      {
+        "district": "Thoothukkudi",
+        "taluk": "Tiruvaikuntam",
+        "block": "Srivaikundam",
+        "villageCount": 31
+      },
+      {
+        "district": "Tiruchirappalli",
+        "taluk": "Lalgudi",
+        "block": "Manachanallur",
+        "villageCount": 35
+      },
+      {
+        "district": "Tiruchirappalli",
+        "taluk": "Lalgudi",
+        "block": "Lalgudi",
+        "villageCount": 45
+      },
+      {
+        "district": "Tiruchirappalli",
+        "taluk": "Manapparai",
+        "block": "Vaiyampatty",
+        "villageCount": 18
+      },
+      {
+        "district": "Tiruchirappalli",
+        "taluk": "Manapparai",
+        "block": "Manapparai",
+        "villageCount": 21
+      },
+      {
+        "district": "Tiruchirappalli",
+        "taluk": "Musiri",
+        "block": "Musiri",
+        "villageCount": 33
+      },
+      {
+        "district": "Tiruchirappalli",
+        "taluk": "Musiri",
+        "block": "Thottiam",
+        "villageCount": 26
+      },
+      {
+        "district": "Tiruchirappalli",
+        "taluk": "Musiri",
+        "block": "Pullampady",
+        "villageCount": 33
+      },
+      {
+        "district": "Tiruchirappalli",
+        "taluk": "Srirangam",
+        "block": "Manikandam",
+        "villageCount": 22
+      },
+      {
+        "district": "Tiruchirappalli",
+        "taluk": "Srirangam",
+        "block": "Thiruverambur",
+        "villageCount": 20
+      },
+      {
+        "district": "Tiruchirappalli",
+        "taluk": "Thuraiyur",
+        "block": "Marungapuri",
+        "villageCount": 49
+      },
+      {
+        "district": "Tiruchirappalli",
+        "taluk": "Thuraiyur",
+        "block": "Thuraiyur",
+        "villageCount": 34
+      },
+      {
+        "district": "Tiruchirappalli",
+        "taluk": "Thuraiyur",
+        "block": "Uppiliyapuram",
+        "villageCount": 18
+      },
+      {
+        "district": "Tiruchirappalli",
+        "taluk": "Tiruchirappalli",
+        "block": "Andhanallur",
+        "villageCount": 25
+      },
+      {
+        "district": "Tiruchirappalli",
+        "taluk": "Tiruchirappalli",
+        "block": "Thanthaiyangarpet",
+        "villageCount": 25
+      },
+      {
+        "district": "Tirunelveli",
+        "taluk": "Ambasamudram",
+        "block": "Ambasamudram",
+        "villageCount": 13
+      },
+      {
+        "district": "Tirunelveli",
+        "taluk": "Cheranmahadevi",
+        "block": "Pappakudi",
+        "villageCount": 17
+      },
+      {
+        "district": "Tirunelveli",
+        "taluk": "Cheranmahadevi",
+        "block": "Cheranmahadevi",
+        "villageCount": 12
+      },
+      {
+        "district": "Tirunelveli",
+        "taluk": "Tirunelveli",
+        "block": "Cheranmahadevi",
+        "villageCount": 12
+      },
+      {
+        "district": "Tirunelveli",
+        "taluk": "Manur",
+        "block": "Manur",
+        "villageCount": 43
+      },
+      {
+        "district": "Tirunelveli",
+        "taluk": "Nanguneri",
+        "block": "Nanguneri",
+        "villageCount": 27
+      },
+      {
+        "district": "Tirunelveli",
+        "taluk": "Nanguneri",
+        "block": "Valliyoor",
+        "villageCount": 18
+      },
+      {
+        "district": "Tirunelveli",
+        "taluk": "Palayamkottai",
+        "block": "Palayamkottai",
+        "villageCount": 30
+      },
+      {
+        "district": "Tirunelveli",
+        "taluk": "Radhapuram",
+        "block": "Radhapuram",
+        "villageCount": 27
+      },
+      {
+        "district": "Tirunelveli",
+        "taluk": "Radhapuram",
+        "block": "Kalakadu",
+        "villageCount": 17
+      },
+      {
+        "district": "Tirupathur",
+        "taluk": "Ambur",
+        "block": "Kandhili",
+        "villageCount": 39
+      },
+      {
+        "district": "Tirupathur",
+        "taluk": "Ambur",
+        "block": "Madhanur",
+        "villageCount": 44
+      },
+      {
+        "district": "Tirupathur",
+        "taluk": "Jolarpet",
+        "block": "Jolarpet",
+        "villageCount": 38
+      },
+      {
+        "district": "Tirupathur",
+        "taluk": "Natrampalli",
+        "block": "Natrampalli",
+        "villageCount": 26
+      },
+      {
+        "district": "Tirupathur",
+        "taluk": "Natrampalli",
+        "block": "Alangayam",
+        "villageCount": 27
+      },
+      {
+        "district": "Tirupathur",
+        "taluk": "Tirupathur",
+        "block": "Thirupathur",
+        "villageCount": 34
+      },
+      {
+        "district": "Tiruppur",
+        "taluk": "Avinashi",
+        "block": "Avinashi",
+        "villageCount": 31
+      },
+      {
+        "district": "Tiruppur",
+        "taluk": "Dharapuram",
+        "block": "Dharapuram",
+        "villageCount": 16
+      },
+      {
+        "district": "Tiruppur",
+        "taluk": "Dharapuram",
+        "block": "Kundadam",
+        "villageCount": 24
+      },
+      {
+        "district": "Tiruppur",
+        "taluk": "Dharapuram",
+        "block": "Mulanur",
+        "villageCount": 12
+      },
+      {
+        "district": "Tiruppur",
+        "taluk": "Gudimangalam",
+        "block": "Pongalur",
+        "villageCount": 16
+      },
+      {
+        "district": "Tiruppur",
+        "taluk": "Gudimangalam",
+        "block": "Gudimangalam",
+        "villageCount": 23
+      },
+      {
+        "district": "Tiruppur",
+        "taluk": "Kangeyam",
+        "block": "Kangayam",
+        "villageCount": 15
+      },
+      {
+        "district": "Tiruppur",
+        "taluk": "Kangeyam",
+        "block": "Vellakoil",
+        "villageCount": 9
+      },
+      {
+        "district": "Tiruppur",
+        "taluk": "Madathukulam",
+        "block": "Madathukulam",
+        "villageCount": 11
+      },
+      {
+        "district": "Tiruppur",
+        "taluk": "Palladam",
+        "block": "Palladam",
+        "villageCount": 20
+      },
+      {
+        "district": "Tiruppur",
+        "taluk": "Tiruppur",
+        "block": "Tiruppur",
+        "villageCount": 13
+      },
+      {
+        "district": "Tiruppur",
+        "taluk": "Udumalaipettai",
+        "block": "Udumalpet",
+        "villageCount": 38
+      },
+      {
+        "district": "Tiruppur",
+        "taluk": "Uthukuli",
+        "block": "Uthukuli",
+        "villageCount": 37
+      },
+      {
+        "district": "Tiruvallur",
+        "taluk": "Ambattur",
+        "block": "Villivakkam",
+        "villageCount": 13
+      },
+      {
+        "district": "Tiruvallur",
+        "taluk": "Ambattur",
+        "block": "Puzhal",
+        "villageCount": 7
+      },
+      {
+        "district": "Tiruvallur",
+        "taluk": "Avadi",
+        "block": "Poonamallee",
+        "villageCount": 28
+      },
+      {
+        "district": "Tiruvallur",
+        "taluk": "Avadi",
+        "block": "Sholavaram",
+        "villageCount": 39
+      },
+      {
+        "district": "Tiruvallur",
+        "taluk": "Gummidipoondi",
+        "block": "Gummidipoondi",
+        "villageCount": 61
+      },
+      {
+        "district": "Tiruvallur",
+        "taluk": "Minjur",
+        "block": "Minjur",
+        "villageCount": 55
+      },
+      {
+        "district": "Tiruvallur",
+        "taluk": "Pallipattu",
+        "block": "Pallipet",
+        "villageCount": 33
+      },
+      {
+        "district": "Tiruvallur",
+        "taluk": "Ponneri",
+        "block": "Ellapuram",
+        "villageCount": 52
+      },
+      {
+        "district": "Tiruvallur",
+        "taluk": "Ponneri",
+        "block": "Poondi",
+        "villageCount": 48
+      },
+      {
+        "district": "Tiruvallur",
+        "taluk": "Tiruttani",
+        "block": "Tiruttani",
+        "villageCount": 27
+      },
+      {
+        "district": "Tiruvallur",
+        "taluk": "Tiruvallur",
+        "block": "Tiruvallur",
+        "villageCount": 36
+      },
+      {
+        "district": "Tiruvallur",
+        "taluk": "Tiruvallur",
+        "block": "Kadambathur",
+        "villageCount": 42
+      },
+      {
+        "district": "Tiruvallur",
+        "taluk": "Tiruvallur",
+        "block": "Tiruvalangadu",
+        "villageCount": 39
+      },
+      {
+        "district": "Tiruvallur",
+        "taluk": "Uthukottai",
+        "block": "R.K.Pet",
+        "villageCount": 38
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Arni",
+        "block": "Arni",
+        "villageCount": 38
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Arni",
+        "block": "Arni West",
+        "villageCount": 37
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Arni",
+        "block": "Anakkavoor",
+        "villageCount": 55
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Chengam",
+        "block": "Chengam",
+        "villageCount": 44
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Chengam",
+        "block": "Jawadhu Hills",
+        "villageCount": 11
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Chetpet",
+        "block": "Thandarampet",
+        "villageCount": 47
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Chetpet",
+        "block": "Chetpet",
+        "villageCount": 49
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Cheyyar",
+        "block": "Pudupalayam",
+        "villageCount": 36
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Cheyyar",
+        "block": "Cheyyar",
+        "villageCount": 52
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Kalasapakkam",
+        "block": "Kalasapakkam",
+        "villageCount": 45
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Kalasapakkam",
+        "block": "Pernamallur",
+        "villageCount": 57
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Kilpennathur",
+        "block": "Kilpennathur",
+        "villageCount": 45
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Kilpennathur",
+        "block": "Thurinjapuram",
+        "villageCount": 47
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Polur",
+        "block": "Thellar",
+        "villageCount": 61
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Polur",
+        "block": "Polur",
+        "villageCount": 40
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Tiruvannamalai",
+        "block": "Tiruvannamalai",
+        "villageCount": 69
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Vandavasi",
+        "block": "Vandavasi",
+        "villageCount": 61
+      },
+      {
+        "district": "Tiruvannamalai",
+        "taluk": "Vembakkam",
+        "block": "Vembakkam",
+        "villageCount": 64
+      },
+      {
+        "district": "Tiruvarur",
+        "taluk": "Kodavasal",
+        "block": "Koradacheri",
+        "villageCount": 44
+      },
+      {
+        "district": "Tiruvarur",
+        "taluk": "Kudavasal",
+        "block": "Kudavaasal",
+        "villageCount": 49
+      },
+      {
+        "district": "Tiruvarur",
+        "taluk": "Mannargudi",
+        "block": "Mannargudi",
+        "villageCount": 51
+      },
+      {
+        "district": "Tiruvarur",
+        "taluk": "Mannargudi",
+        "block": "Muthupettai",
+        "villageCount": 29
+      },
+      {
+        "district": "Tiruvarur",
+        "taluk": "Nannilam",
+        "block": "Nannilam",
+        "villageCount": 48
+      },
+      {
+        "district": "Tiruvarur",
+        "taluk": "Needamangalam",
+        "block": "Needamangalam",
+        "villageCount": 44
+      },
+      {
+        "district": "Tiruvarur",
+        "taluk": "Thiruthuraipoondi",
+        "block": "Kottur",
+        "villageCount": 48
+      },
+      {
+        "district": "Tiruvarur",
+        "taluk": "Thiruthuraipoondi",
+        "block": "Thiruthuraipoondi",
+        "villageCount": 31
+      },
+      {
+        "district": "Tiruvarur",
+        "taluk": "Tiruvarur",
+        "block": "Thiruvarur",
+        "villageCount": 34
+      },
+      {
+        "district": "Tiruvarur",
+        "taluk": "Valangaiman",
+        "block": "Valangaiman",
+        "villageCount": 50
+      },
+      {
+        "district": "Vellore",
+        "taluk": "Anaicut",
+        "block": "Anaicut",
+        "villageCount": 51
+      },
+      {
+        "district": "Vellore",
+        "taluk": "Gudiyatham",
+        "block": "Gudiyatham",
+        "villageCount": 50
+      },
+      {
+        "district": "Vellore",
+        "taluk": "Gudiyatham",
+        "block": "K.V. Kuppam",
+        "villageCount": 39
+      },
+      {
+        "district": "Vellore",
+        "taluk": "Katpadi",
+        "block": "Katpadi",
+        "villageCount": 41
+      },
+      {
+        "district": "Vellore",
+        "taluk": "Pernambut",
+        "block": "Pernambet",
+        "villageCount": 24
+      },
+      {
+        "district": "Vellore",
+        "taluk": "Vaniyambadi",
+        "block": "Kaniyambadi",
+        "villageCount": 24
+      },
+      {
+        "district": "Vellore",
+        "taluk": "Vellore",
+        "block": "Vellore",
+        "villageCount": 18
+      },
+      {
+        "district": "Villupuram",
+        "taluk": "Gingee",
+        "block": "Olakkur",
+        "villageCount": 52
+      },
+      {
+        "district": "Villupuram",
+        "taluk": "Gingee",
+        "block": "Gingee",
+        "villageCount": 60
+      },
+      {
+        "district": "Villupuram",
+        "taluk": "Marakanam",
+        "block": "Kandamangalam",
+        "villageCount": 46
+      },
+      {
+        "district": "Villupuram",
+        "taluk": "Marakanam",
+        "block": "Merkanam",
+        "villageCount": 56
+      },
+      {
+        "district": "Villupuram",
+        "taluk": "Mugaiyur",
+        "block": "Mugaiyur",
+        "villageCount": 48
+      },
+      {
+        "district": "Villupuram",
+        "taluk": "Mugaiyur",
+        "block": "Mailam",
+        "villageCount": 47
+      },
+      {
+        "district": "Villupuram",
+        "taluk": "Rishivandiyam",
+        "block": "Koliyanur",
+        "villageCount": 42
+      },
+      {
+        "district": "Villupuram",
+        "taluk": "Rishivandiyam",
+        "block": "Melmalayanur",
+        "villageCount": 55
+      },
+      {
+        "district": "Villupuram",
+        "taluk": "Tindivanam",
+        "block": "Vallam",
+        "villageCount": 66
+      },
+      {
+        "district": "Villupuram",
+        "taluk": "Tindivanam",
+        "block": "Kanai",
+        "villageCount": 50
+      },
+      {
+        "district": "Villupuram",
+        "taluk": "Tirukkoyilur",
+        "block": "Thiruvennainallur",
+        "villageCount": 50
+      },
+      {
+        "district": "Villupuram",
+        "taluk": "Vanur",
+        "block": "Vanur",
+        "villageCount": 65
+      },
+      {
+        "district": "Villupuram",
+        "taluk": "Vikravandi",
+        "block": "Vikkiravandi",
+        "villageCount": 51
+      },
+      {
+        "district": "Virudhunagar",
+        "taluk": "Aruppukkottai",
+        "block": "Narikudi",
+        "villageCount": 44
+      },
+      {
+        "district": "Virudhunagar",
+        "taluk": "Aruppukkottai",
+        "block": "Aruppukottai",
+        "villageCount": 32
+      },
+      {
+        "district": "Virudhunagar",
+        "taluk": "Kariapatti",
+        "block": "Kariapatti",
+        "villageCount": 36
+      },
+      {
+        "district": "Virudhunagar",
+        "taluk": "Rajapalayam",
+        "block": "Vembakottai",
+        "villageCount": 48
+      },
+      {
+        "district": "Virudhunagar",
+        "taluk": "Rajapalayam",
+        "block": "Rajapalayam",
+        "villageCount": 36
+      },
+      {
+        "district": "Virudhunagar",
+        "taluk": "Sattur",
+        "block": "Sattur",
+        "villageCount": 46
+      },
+      {
+        "district": "Virudhunagar",
+        "taluk": "Sivakasi",
+        "block": "Sivakasi",
+        "villageCount": 54
+      },
+      {
+        "district": "Virudhunagar",
+        "taluk": "Srivilliputhur",
+        "block": "Srivilliputhur",
+        "villageCount": 29
+      },
+      {
+        "district": "Virudhunagar",
+        "taluk": "Tiruchuli",
+        "block": "Tiruchuli",
+        "villageCount": 40
+      },
+      {
+        "district": "Virudhunagar",
+        "taluk": "Virudhunagar",
+        "block": "Virudhunagar",
+        "villageCount": 58
+      },
+      {
+        "district": "Virudhunagar",
+        "taluk": "Watrap",
+        "block": "Watrap",
+        "villageCount": 27
+      }
+    ],
+    "conflicts": [
+      {
+        "district": "Tirunelveli",
+        "block": "Cheranmahadevi",
+        "taluks": [
+          "Cheranmahadevi",
+          "Tirunelveli"
+        ],
+        "counts": [
+          {
+            "taluk": "Cheranmahadevi",
+            "count": 12
+          },
+          {
+            "taluk": "Tirunelveli",
+            "count": 12
+          }
+        ]
+      }
+    ]
+  },
+  "duplicates": [
+    {
+      "village": "Alapakkam",
+      "district": "Chengalpattu",
+      "taluk1": "Madurantakam",
+      "block1": "Kattankolathur",
+      "taluk2": "Chengalpattu",
+      "block2": "Acharapakkam",
+      "verdict": "error",
+      "villageCodes": [
+        "224034",
+        "223893"
+      ],
+      "taluks": [
+        "Madurantakam",
+        "Chengalpattu"
+      ],
+      "blocks": [
+        "Kattankolathur",
+        "Acharapakkam"
+      ]
+    },
+    {
+      "village": "Athur",
+      "district": "Chengalpattu",
+      "taluk1": "Madurantakam",
+      "block1": "Kattankolathur",
+      "taluk2": "Chengalpattu",
+      "block2": "Acharapakkam",
+      "verdict": "error",
+      "villageCodes": [
+        "224037",
+        "223898"
+      ],
+      "taluks": [
+        "Madurantakam",
+        "Chengalpattu"
+      ],
+      "blocks": [
+        "Kattankolathur",
+        "Acharapakkam"
+      ]
+    },
+    {
+      "village": "Kolathur",
+      "district": "Chengalpattu",
+      "taluk1": "Thiruporur",
+      "block1": "Thiruporur",
+      "taluk2": "Chengalpattu",
+      "block2": "Kattankolathur",
+      "verdict": "error",
+      "villageCodes": [
+        "224301",
+        "224045"
+      ],
+      "taluks": [
+        "Thiruporur",
+        "Chengalpattu"
+      ],
+      "blocks": [
+        "Thiruporur",
+        "Kattankolathur"
+      ]
+    },
+    {
+      "village": "Kunnathur",
+      "district": "Chengalpattu",
+      "taluk1": "Thirukalukundram",
+      "block1": "Thirukalukundram",
+      "taluk2": "Madurantakam",
+      "block2": "Madurantakam",
+      "verdict": "error",
+      "villageCodes": [
+        "224353",
+        "224178"
+      ],
+      "taluks": [
+        "Thirukalukundram",
+        "Madurantakam"
+      ],
+      "blocks": [
+        "Thirukalukundram",
+        "Madurantakam"
+      ]
+    },
+    {
+      "village": "Mambakkam",
+      "district": "Chengalpattu",
+      "taluk1": "Thiruporur",
+      "block1": "Thiruporur",
+      "taluk2": "Thirukalukundram",
+      "block2": "Thirukalukundram",
+      "verdict": "error",
+      "villageCodes": [
+        "224307",
+        "224356",
+        "223968"
+      ],
+      "taluks": [
+        "Thiruporur",
+        "Thirukalukundram",
+        "Chengalpattu"
+      ],
+      "blocks": [
+        "Thiruporur",
+        "Thirukalukundram",
+        "Chithamur"
+      ]
+    },
+    {
+      "village": "Nallur",
+      "district": "Chengalpattu",
+      "taluk1": "Thirukalukundram",
+      "block1": "Thirukalukundram",
+      "taluk2": "Madurantakam",
+      "block2": "Madurantakam",
+      "verdict": "error",
+      "villageCodes": [
+        "224364",
+        "224186"
+      ],
+      "taluks": [
+        "Thirukalukundram",
+        "Madurantakam"
+      ],
+      "blocks": [
+        "Thirukalukundram",
+        "Madurantakam"
+      ]
+    },
+    {
+      "village": "Nelvoy",
+      "district": "Chengalpattu",
+      "taluk1": "Madurantakam",
+      "block1": "Madurantakam",
+      "taluk2": "Chengalpattu",
+      "block2": "Lathur",
+      "verdict": "error",
+      "villageCodes": [
+        "224189",
+        "224134"
+      ],
+      "taluks": [
+        "Madurantakam",
+        "Chengalpattu"
+      ],
+      "blocks": [
+        "Madurantakam",
+        "Lathur"
+      ]
+    },
+    {
+      "village": "Perumbakkam",
+      "district": "Chengalpattu",
+      "taluk1": "Thirukalukundram",
+      "block1": "Thomas Malai",
+      "taluk2": "Chengalpattu",
+      "block2": "Lathur",
+      "verdict": "error",
+      "villageCodes": [
+        "224284",
+        "224143"
+      ],
+      "taluks": [
+        "Thirukalukundram",
+        "Chengalpattu"
+      ],
+      "blocks": [
+        "Thomas Malai",
+        "Lathur"
+      ]
+    },
+    {
+      "village": "Thandalam",
+      "district": "Chengalpattu",
+      "taluk1": "Thiruporur",
+      "block1": "Thiruporur",
+      "taluk2": "Chengalpattu",
+      "block2": "Chithamur",
+      "verdict": "error",
+      "villageCodes": [
+        "224332",
+        "223989"
+      ],
+      "taluks": [
+        "Thiruporur",
+        "Chengalpattu"
+      ],
+      "blocks": [
+        "Thiruporur",
+        "Chithamur"
+      ]
+    },
+    {
+      "village": "Thandarai",
+      "district": "Chengalpattu",
+      "taluk1": "Thiruporur",
+      "block1": "Thiruporur",
+      "taluk2": "Chengalpattu",
+      "block2": "Lathur",
+      "verdict": "error",
+      "villageCodes": [
+        "224333",
+        "224149"
+      ],
+      "taluks": [
+        "Thiruporur",
+        "Chengalpattu"
+      ],
+      "blocks": [
+        "Thiruporur",
+        "Lathur"
+      ]
+    },
+    {
+      "village": "Vilangadu",
+      "district": "Chengalpattu",
+      "taluk1": "Madurantakam",
+      "block1": "Acharapakkam",
+      "taluk2": "Chengalpattu",
+      "block2": "Chithamur",
+      "verdict": "error",
+      "villageCodes": [
+        "223949",
+        "223993"
+      ],
+      "taluks": [
+        "Madurantakam",
+        "Chengalpattu"
+      ],
+      "blocks": [
+        "Acharapakkam",
+        "Chithamur"
+      ]
+    },
+    {
+      "village": "DEVARAYAPURAM",
+      "district": "Coimbatore",
+      "taluk1": "Pollachi",
+      "block1": "Thondamuthur",
+      "taluk2": "Annur",
+      "block2": "Kinathukadavu",
+      "verdict": "error",
+      "villageCodes": [
+        "222256",
+        "222053"
+      ],
+      "taluks": [
+        "Pollachi",
+        "Annur"
+      ],
+      "blocks": [
+        "Thondamuthur",
+        "Kinathukadavu"
+      ]
+    },
+    {
+      "village": "Jallipatti",
+      "district": "Coimbatore",
+      "taluk1": "Pollachi",
+      "block1": "Anaimalai",
+      "taluk2": "Annur",
+      "block2": "Sultanpet",
+      "verdict": "error",
+      "villageCodes": [
+        "221941",
+        "222223"
+      ],
+      "taluks": [
+        "Pollachi",
+        "Annur"
+      ],
+      "blocks": [
+        "Anaimalai",
+        "Sultanpet"
+      ]
+    },
+    {
+      "village": "KATTAMPATTI",
+      "district": "Coimbatore",
+      "taluk1": "Pollachi",
+      "block1": "Kinathukadavu",
+      "taluk2": "Annur",
+      "block2": "Annur",
+      "verdict": "error",
+      "villageCodes": [
+        "222058",
+        "221964"
+      ],
+      "taluks": [
+        "Pollachi",
+        "Annur"
+      ],
+      "blocks": [
+        "Kinathukadavu",
+        "Annur"
+      ]
+    },
+    {
+      "village": "NAICKENPALAYAM",
+      "district": "Coimbatore",
+      "taluk1": "Pollachi",
+      "block1": "P.N.Palayam",
+      "taluk2": "Coimbatore North",
+      "block2": "Pollachi(S)",
+      "verdict": "error",
+      "villageCodes": [
+        "222127",
+        "222179"
+      ],
+      "taluks": [
+        "Pollachi",
+        "Coimbatore North"
+      ],
+      "blocks": [
+        "P.N.Palayam",
+        "Pollachi(S)"
+      ]
+    },
+    {
+      "village": "THALAKKARAI",
+      "district": "Coimbatore",
+      "taluk1": "Pollachi",
+      "block1": "Pollachi(N)",
+      "taluk2": "Annur",
+      "block2": "Sultanpet",
+      "verdict": "error",
+      "villageCodes": [
+        "222164",
+        "222234"
+      ],
+      "taluks": [
+        "Pollachi",
+        "Annur"
+      ],
+      "blocks": [
+        "Pollachi(N)",
+        "Sultanpet"
+      ]
+    },
+    {
+      "village": "Agaram",
+      "district": "Cuddalore",
+      "taluk1": "Kurinjipadi",
+      "block1": "Annagramam",
+      "taluk2": "Cuddalore",
+      "block2": "Kurinjipadi",
+      "verdict": "error",
+      "villageCodes": [
+        "222317",
+        "222638"
+      ],
+      "taluks": [
+        "Kurinjipadi",
+        "Cuddalore"
+      ],
+      "blocks": [
+        "Annagramam",
+        "Kurinjipadi"
+      ]
+    },
+    {
+      "village": "Devangudi",
+      "district": "Cuddalore",
+      "taluk1": "Kurinjipadi",
+      "block1": "Keerapalayam",
+      "taluk2": "Chidambaram",
+      "block2": "Srimushnam",
+      "verdict": "error",
+      "villageCodes": [
+        "222523",
+        "222413"
+      ],
+      "taluks": [
+        "Kurinjipadi",
+        "Chidambaram"
+      ],
+      "blocks": [
+        "Keerapalayam",
+        "Srimushnam"
+      ]
+    },
+    {
+      "village": "Gunamangalam",
+      "district": "Cuddalore",
+      "taluk1": "Cuddalore",
+      "block1": "Cuddalore",
+      "taluk2": "Chidambaram",
+      "block2": "Srimushnam",
+      "verdict": "error",
+      "villageCodes": [
+        "222365",
+        "222472"
+      ],
+      "taluks": [
+        "Cuddalore",
+        "Chidambaram"
+      ],
+      "blocks": [
+        "Cuddalore",
+        "Srimushnam"
+      ]
+    },
+    {
+      "village": "Karaimedu",
+      "district": "Cuddalore",
+      "taluk1": "Cuddalore",
+      "block1": "Cuddalore",
+      "taluk2": "Bhuvanagiri",
+      "block2": "Melbhuvanagiri",
+      "verdict": "error",
+      "villageCodes": [
+        "222369",
+        "222766"
+      ],
+      "taluks": [
+        "Cuddalore",
+        "Bhuvanagiri"
+      ],
+      "blocks": [
+        "Cuddalore",
+        "Melbhuvanagiri"
+      ]
+    },
+    {
+      "village": "Kattukudalur",
+      "district": "Cuddalore",
+      "taluk1": "Panruti",
+      "block1": "Panruti",
+      "taluk2": "Chidambaram",
+      "block2": "Kumaratchi",
+      "verdict": "error",
+      "villageCodes": [
+        "222869",
+        "222594"
+      ],
+      "taluks": [
+        "Panruti",
+        "Chidambaram"
+      ],
+      "blocks": [
+        "Panruti",
+        "Kumaratchi"
+      ]
+    },
+    {
+      "village": "Kothattai",
+      "district": "Cuddalore",
+      "taluk1": "Tittakudi",
+      "block1": "Parangipettai",
+      "taluk2": "Bhuvanagiri",
+      "block2": "Nallur",
+      "verdict": "error",
+      "villageCodes": [
+        "222920",
+        "222820"
+      ],
+      "taluks": [
+        "Tittakudi",
+        "Bhuvanagiri"
+      ],
+      "blocks": [
+        "Parangipettai",
+        "Nallur"
+      ]
+    },
+    {
+      "village": "Maligaimedu",
+      "district": "Cuddalore",
+      "taluk1": "Tittakudi",
+      "block1": "Annagramam",
+      "taluk2": "Cuddalore",
+      "block2": "Nallur",
+      "verdict": "error",
+      "villageCodes": [
+        "222339",
+        "222825"
+      ],
+      "taluks": [
+        "Tittakudi",
+        "Cuddalore"
+      ],
+      "blocks": [
+        "Annagramam",
+        "Nallur"
+      ]
+    },
+    {
+      "village": "Natham",
+      "district": "Cuddalore",
+      "taluk1": "Panruti",
+      "block1": "Annagramam",
+      "taluk2": "Cuddalore",
+      "block2": "Panruti",
+      "verdict": "error",
+      "villageCodes": [
+        "222342",
+        "222885"
+      ],
+      "taluks": [
+        "Panruti",
+        "Cuddalore"
+      ],
+      "blocks": [
+        "Annagramam",
+        "Panruti"
+      ]
+    },
+    {
+      "village": "Puliyur",
+      "district": "Cuddalore",
+      "taluk1": "Vriddhachalam",
+      "block1": "Kurinjipadi",
+      "taluk2": "Kurinjipadi",
+      "block2": "Vridhachalam",
+      "verdict": "error",
+      "villageCodes": [
+        "222667",
+        "222978"
+      ],
+      "taluks": [
+        "Vriddhachalam",
+        "Kurinjipadi"
+      ],
+      "blocks": [
+        "Kurinjipadi",
+        "Vridhachalam"
+      ]
+    },
+    {
+      "village": "Ramapuram",
+      "district": "Cuddalore",
+      "taluk1": "Cuddalore",
+      "block1": "Cuddalore",
+      "taluk2": "Chidambaram",
+      "block2": "Srimushnam",
+      "verdict": "error",
+      "villageCodes": [
+        "222393",
+        "222557"
+      ],
+      "taluks": [
+        "Cuddalore",
+        "Chidambaram"
+      ],
+      "blocks": [
+        "Cuddalore",
+        "Srimushnam"
+      ]
+    },
+    {
+      "village": "Sathapadi",
+      "district": "Cuddalore",
+      "taluk1": "Vriddhachalam",
+      "block1": "Melbhuvanagiri",
+      "taluk2": "Bhuvanagiri",
+      "block2": "Kammapuram",
+      "verdict": "error",
+      "villageCodes": [
+        "222787",
+        "222449"
+      ],
+      "taluks": [
+        "Vriddhachalam",
+        "Bhuvanagiri"
+      ],
+      "blocks": [
+        "Melbhuvanagiri",
+        "Kammapuram"
+      ]
+    },
+    {
+      "village": "Vanamadevi",
+      "district": "Cuddalore",
+      "taluk1": "Kattumannarkoil",
+      "block1": "Cuddalore",
+      "taluk2": "Cuddalore",
+      "block2": "Kattumannar Koil",
+      "verdict": "error",
+      "villageCodes": [
+        "222405",
+        "222514"
+      ],
+      "taluks": [
+        "Kattumannarkoil",
+        "Cuddalore"
+      ],
+      "blocks": [
+        "Cuddalore",
+        "Kattumannar Koil"
+      ]
+    },
+    {
+      "village": "Gopinathampatti",
+      "district": "Dharmapuri",
+      "taluk1": "Palacode",
+      "block1": "Harur",
+      "taluk2": "Harur",
+      "block2": "Morappur",
+      "verdict": "error",
+      "villageCodes": [
+        "223033",
+        "223094"
+      ],
+      "taluks": [
+        "Palacode",
+        "Harur"
+      ],
+      "blocks": [
+        "Harur",
+        "Morappur"
+      ]
+    },
+    {
+      "village": "Keragodahalli",
+      "district": "Dharmapuri",
+      "taluk1": "Palacode",
+      "block1": "Morappur",
+      "taluk2": "Karimangalam",
+      "block2": "Karimangalam",
+      "verdict": "error",
+      "villageCodes": [
+        "223101",
+        "223074"
+      ],
+      "taluks": [
+        "Palacode",
+        "Karimangalam"
+      ],
+      "blocks": [
+        "Morappur",
+        "Karimangalam"
+      ]
+    },
+    {
+      "village": "Ammapatti",
+      "district": "Dindigul",
+      "taluk1": "Vedasandur",
+      "block1": "Reddiarchatram",
+      "taluk2": "Nilakottai",
+      "block2": "Vedasandur",
+      "verdict": "error",
+      "villageCodes": [
+        "223419",
+        "223532"
+      ],
+      "taluks": [
+        "Vedasandur",
+        "Nilakottai"
+      ],
+      "blocks": [
+        "Reddiarchatram",
+        "Vedasandur"
+      ]
+    },
+    {
+      "village": "Kanavaipatti",
+      "district": "Dindigul",
+      "taluk1": "Oddanchatram",
+      "block1": "Shanarpatti",
+      "taluk2": "Gujiliamparai",
+      "block2": "Batlagundu",
+      "verdict": "error",
+      "villageCodes": [
+        "223445",
+        "223517"
+      ],
+      "taluks": [
+        "Oddanchatram",
+        "Gujiliamparai"
+      ],
+      "blocks": [
+        "Shanarpatti",
+        "Batlagundu"
+      ]
+    },
+    {
+      "village": "Kombaipatti",
+      "district": "Dindigul",
+      "taluk1": "Oddanchatram",
+      "block1": "Shanarpatti",
+      "taluk2": "Gujiliamparai",
+      "block2": "Batlagundu",
+      "verdict": "error",
+      "villageCodes": [
+        "223446",
+        "223519"
+      ],
+      "taluks": [
+        "Oddanchatram",
+        "Gujiliamparai"
+      ],
+      "blocks": [
+        "Shanarpatti",
+        "Batlagundu"
+      ]
+    },
+    {
+      "village": "Koovanuthu",
+      "district": "Dindigul",
+      "taluk1": "Nilakottai",
+      "block1": "Shanarpatti",
+      "taluk2": "Gujiliamparai",
+      "block2": "Nilakottai",
+      "verdict": "error",
+      "villageCodes": [
+        "223447",
+        "223344"
+      ],
+      "taluks": [
+        "Nilakottai",
+        "Gujiliamparai"
+      ],
+      "blocks": [
+        "Shanarpatti",
+        "Nilakottai"
+      ]
+    },
+    {
+      "village": "PALLAPATTI",
+      "district": "Dindigul",
+      "taluk1": "Nilakottai",
+      "block1": "Dindigul",
+      "taluk2": "Dindigul",
+      "block2": "Nilakottai",
+      "verdict": "error",
+      "villageCodes": [
+        "223278",
+        "223353"
+      ],
+      "taluks": [
+        "Nilakottai",
+        "Dindigul"
+      ],
+      "blocks": [
+        "Dindigul",
+        "Nilakottai"
+      ]
+    },
+    {
+      "village": "PERIAKOTTAI",
+      "district": "Dindigul",
+      "taluk1": "Oddanchatram",
+      "block1": "Dindigul",
+      "taluk2": "Dindigul",
+      "block2": "Oddanchatram",
+      "verdict": "error",
+      "villageCodes": [
+        "223279",
+        "223384"
+      ],
+      "taluks": [
+        "Oddanchatram",
+        "Dindigul"
+      ],
+      "blocks": [
+        "Dindigul",
+        "Oddanchatram"
+      ]
+    },
+    {
+      "village": "Pillaiyarnatham",
+      "district": "Dindigul",
+      "taluk1": "Nilakottai",
+      "block1": "Athoor",
+      "taluk2": "Natham",
+      "block2": "Natham",
+      "verdict": "error",
+      "villageCodes": [
+        "223264",
+        "223327",
+        "223354"
+      ],
+      "taluks": [
+        "Nilakottai",
+        "Natham",
+        "Dindigul"
+      ],
+      "blocks": [
+        "Athoor",
+        "Natham",
+        "Nilakottai"
+      ]
+    },
+    {
+      "village": "Reddiapatti",
+      "district": "Dindigul",
+      "taluk1": "Oddanchatram",
+      "block1": "Natham",
+      "taluk2": "Dindigul",
+      "block2": "Oddanchatram",
+      "verdict": "error",
+      "villageCodes": [
+        "223330",
+        "223387"
+      ],
+      "taluks": [
+        "Oddanchatram",
+        "Dindigul"
+      ],
+      "blocks": [
+        "Natham",
+        "Oddanchatram"
+      ]
+    },
+    {
+      "village": "Velampatti",
+      "district": "Dindigul",
+      "taluk1": "Natham",
+      "block1": "Natham",
+      "taluk2": "Dindigul",
+      "block2": "Thoppampatty",
+      "verdict": "error",
+      "villageCodes": [
+        "223338",
+        "223498"
+      ],
+      "taluks": [
+        "Natham",
+        "Dindigul"
+      ],
+      "blocks": [
+        "Natham",
+        "Thoppampatty"
+      ]
+    },
+    {
+      "village": "Koothampalayam",
+      "district": "Erode",
+      "taluk1": "Sathyamangalam",
+      "block1": "Chennimalai",
+      "taluk2": "Erode",
+      "block2": "Sathyamangalam",
+      "verdict": "error",
+      "villageCodes": [
+        "223624",
+        "223819"
+      ],
+      "taluks": [
+        "Sathyamangalam",
+        "Erode"
+      ],
+      "blocks": [
+        "Chennimalai",
+        "Sathyamangalam"
+      ]
+    },
+    {
+      "village": "Kullampalayam",
+      "district": "Erode",
+      "taluk1": "Perundurai",
+      "block1": "Perundurai",
+      "taluk2": "Gobichettipalayam",
+      "block2": "Gobi",
+      "verdict": "error",
+      "villageCodes": [
+        "223788",
+        "223670"
+      ],
+      "taluks": [
+        "Perundurai",
+        "Gobichettipalayam"
+      ],
+      "blocks": [
+        "Perundurai",
+        "Gobi"
+      ]
+    },
+    {
+      "village": "Nedumanur",
+      "district": "Kallakurichi",
+      "taluk1": "Ulundurpet",
+      "block1": "Ulundurpet",
+      "taluk2": "Sankarapuram",
+      "block2": "Sankarapuram",
+      "verdict": "error",
+      "villageCodes": [
+        "233805",
+        "233570"
+      ],
+      "taluks": [
+        "Ulundurpet",
+        "Sankarapuram"
+      ],
+      "blocks": [
+        "Ulundurpet",
+        "Sankarapuram"
+      ]
+    },
+    {
+      "village": "Kunnavakkam",
+      "district": "Kancheepuram",
+      "taluk1": "Walajabad",
+      "block1": "Walajabad",
+      "taluk2": "Uthiramerur",
+      "block2": "Uthiramerur",
+      "verdict": "error",
+      "villageCodes": [
+        "224487",
+        "224421"
+      ],
+      "taluks": [
+        "Walajabad",
+        "Uthiramerur"
+      ],
+      "blocks": [
+        "Walajabad",
+        "Uthiramerur"
+      ]
+    },
+    {
+      "village": "Pennalur",
+      "district": "Kancheepuram",
+      "taluk1": "Uthiramerur",
+      "block1": "Uthiramerur",
+      "taluk2": "Sriperumbudur",
+      "block2": "Sriperumbudur",
+      "verdict": "error",
+      "villageCodes": [
+        "224439",
+        "224250"
+      ],
+      "taluks": [
+        "Uthiramerur",
+        "Sriperumbudur"
+      ],
+      "blocks": [
+        "Uthiramerur",
+        "Sriperumbudur"
+      ]
+    },
+    {
+      "village": "Chennasandiram",
+      "district": "Krishnagiri",
+      "taluk1": "Veppanahalli",
+      "block1": "Veppanapalli",
+      "taluk2": "Hosur",
+      "block2": "Hosur",
+      "verdict": "error",
+      "villageCodes": [
+        "225091",
+        "224823"
+      ],
+      "taluks": [
+        "Veppanahalli",
+        "Hosur"
+      ],
+      "blocks": [
+        "Veppanapalli",
+        "Hosur"
+      ]
+    },
+    {
+      "village": "Keelkuppam",
+      "district": "Krishnagiri",
+      "taluk1": "Uthangarai",
+      "block1": "Kaveripattanam",
+      "taluk2": "Krishnagiri",
+      "block2": "Uthangarai",
+      "verdict": "error",
+      "villageCodes": [
+        "224858",
+        "225064"
+      ],
+      "taluks": [
+        "Uthangarai",
+        "Krishnagiri"
+      ],
+      "blocks": [
+        "Kaveripattanam",
+        "Uthangarai"
+      ]
+    },
+    {
+      "village": "KALLANAI",
+      "district": "Madurai",
+      "taluk1": "Thirumangalam",
+      "block1": "Alanganallur",
+      "taluk2": "Kallupatti",
+      "block2": "Kallikudi",
+      "verdict": "error",
+      "villageCodes": [
+        "225124",
+        "225182"
+      ],
+      "taluks": [
+        "Thirumangalam",
+        "Kallupatti"
+      ],
+      "blocks": [
+        "Alanganallur",
+        "Kallikudi"
+      ]
+    },
+    {
+      "village": "KODIKULAM",
+      "district": "Madurai",
+      "taluk1": "Peraiyur",
+      "block1": "Madurai East",
+      "taluk2": "Madurai North",
+      "block2": "Chellampatti",
+      "verdict": "error",
+      "villageCodes": [
+        "225256",
+        "225157"
+      ],
+      "taluks": [
+        "Peraiyur",
+        "Madurai North"
+      ],
+      "blocks": [
+        "Madurai East",
+        "Chellampatti"
+      ]
+    },
+    {
+      "village": "Kodimangalam",
+      "district": "Madurai",
+      "taluk1": "Madurai South",
+      "block1": "Madurai West",
+      "taluk2": "Madurai North",
+      "block2": "Thirupparankundram",
+      "verdict": "error",
+      "villageCodes": [
+        "225290",
+        "225463"
+      ],
+      "taluks": [
+        "Madurai South",
+        "Madurai North"
+      ],
+      "blocks": [
+        "Madurai West",
+        "Thirupparankundram"
+      ]
+    },
+    {
+      "village": "Nedunkulam",
+      "district": "Madurai",
+      "taluk1": "Vadipatti",
+      "block1": "Vadipatti",
+      "taluk2": "Kallupatti",
+      "block2": "Kallikudi",
+      "verdict": "error",
+      "villageCodes": [
+        "225526",
+        "225195"
+      ],
+      "taluks": [
+        "Vadipatti",
+        "Kallupatti"
+      ],
+      "blocks": [
+        "Vadipatti",
+        "Kallikudi"
+      ]
+    },
+    {
+      "village": "VADUGAPATTI",
+      "district": "Madurai",
+      "taluk1": "Usilampatti",
+      "block1": "Alanganallur",
+      "taluk2": "Thirumangalam",
+      "block2": "Usilampatti",
+      "verdict": "error",
+      "villageCodes": [
+        "225146",
+        "225511"
+      ],
+      "taluks": [
+        "Usilampatti",
+        "Thirumangalam"
+      ],
+      "blocks": [
+        "Alanganallur",
+        "Usilampatti"
+      ]
+    },
+    {
+      "village": "Vagaikulam",
+      "district": "Madurai",
+      "taluk1": "Thirumangalam",
+      "block1": "Madurai West",
+      "taluk2": "Madurai North",
+      "block2": "Thirumangalam",
+      "verdict": "error",
+      "villageCodes": [
+        "225305",
+        "225454"
+      ],
+      "taluks": [
+        "Thirumangalam",
+        "Madurai North"
+      ],
+      "blocks": [
+        "Madurai West",
+        "Thirumangalam"
+      ]
+    },
+    {
+      "village": "Valaiyankulam",
+      "district": "Madurai",
+      "taluk1": "Madurai South",
+      "block1": "Thirupparankundram",
+      "taluk2": "Kallupatti",
+      "block2": "Kallikudi",
+      "verdict": "error",
+      "villageCodes": [
+        "225490",
+        "225211"
+      ],
+      "taluks": [
+        "Madurai South",
+        "Kallupatti"
+      ],
+      "blocks": [
+        "Thirupparankundram",
+        "Kallikudi"
+      ]
+    },
+    {
+      "village": "Valayapatti",
+      "district": "Madurai",
+      "taluk1": "Thirumangalam",
+      "block1": "Thirupparankundram",
+      "taluk2": "Madurai South",
+      "block2": "Alanganallur",
+      "verdict": "error",
+      "villageCodes": [
+        "225489",
+        "225147"
+      ],
+      "taluks": [
+        "Thirumangalam",
+        "Madurai South"
+      ],
+      "blocks": [
+        "Thirupparankundram",
+        "Alanganallur"
+      ]
+    },
+    {
+      "village": "ARASUR",
+      "district": "Mayiladuthurai",
+      "taluk1": "Sirkazhi",
+      "block1": "Sembanarkoil",
+      "taluk2": "Mayiladuthurai",
+      "block2": "Kollidam",
+      "verdict": "error",
+      "villageCodes": [
+        "225780",
+        "225609"
+      ],
+      "taluks": [
+        "Sirkazhi",
+        "Mayiladuthurai"
+      ],
+      "blocks": [
+        "Sembanarkoil",
+        "Kollidam"
+      ]
+    },
+    {
+      "village": "KADAKKAM",
+      "district": "Mayiladuthurai",
+      "taluk1": "Mayiladuthurai",
+      "block1": "Mayiladuthurai",
+      "taluk2": "Kuthalam",
+      "block2": "Kuthalam",
+      "verdict": "error",
+      "villageCodes": [
+        "225704",
+        "225650"
+      ],
+      "taluks": [
+        "Mayiladuthurai",
+        "Kuthalam"
+      ],
+      "blocks": [
+        "Mayiladuthurai",
+        "Kuthalam"
+      ]
+    },
+    {
+      "village": "KADALANGUDI",
+      "district": "Mayiladuthurai",
+      "taluk1": "Mayiladuthurai",
+      "block1": "Mayiladuthurai",
+      "taluk2": "Kuthalam",
+      "block2": "Kuthalam",
+      "verdict": "error",
+      "villageCodes": [
+        "225705",
+        "225651"
+      ],
+      "taluks": [
+        "Mayiladuthurai",
+        "Kuthalam"
+      ],
+      "blocks": [
+        "Mayiladuthurai",
+        "Kuthalam"
+      ]
+    },
+    {
+      "village": "Kothangudi",
+      "district": "Mayiladuthurai",
+      "taluk1": "Sirkazhi",
+      "block1": "Kuthalam",
+      "taluk2": "Kuthalam",
+      "block2": "Sembanarkoil",
+      "verdict": "error",
+      "villageCodes": [
+        "225662",
+        "225802"
+      ],
+      "taluks": [
+        "Sirkazhi",
+        "Kuthalam"
+      ],
+      "blocks": [
+        "Kuthalam",
+        "Sembanarkoil"
+      ]
+    },
+    {
+      "village": "Melaiyur",
+      "district": "Mayiladuthurai",
+      "taluk1": "Sirkazhi",
+      "block1": "Kuthalam",
+      "taluk2": "Kuthalam",
+      "block2": "Sembanarkoil",
+      "verdict": "error",
+      "villageCodes": [
+        "225669",
+        "225808"
+      ],
+      "taluks": [
+        "Sirkazhi",
+        "Kuthalam"
+      ],
+      "blocks": [
+        "Kuthalam",
+        "Sembanarkoil"
+      ]
+    },
+    {
+      "village": "MUDIKANDANALLUR",
+      "district": "Mayiladuthurai",
+      "taluk1": "Sirkazhi",
+      "block1": "Mayiladuthurai",
+      "taluk2": "Mayiladuthurai",
+      "block2": "Sembanarkoil",
+      "verdict": "error",
+      "villageCodes": [
+        "225725",
+        "225811"
+      ],
+      "taluks": [
+        "Sirkazhi",
+        "Mayiladuthurai"
+      ],
+      "blocks": [
+        "Mayiladuthurai",
+        "Sembanarkoil"
+      ]
+    },
+    {
+      "village": "SETHUR",
+      "district": "Mayiladuthurai",
+      "taluk1": "Mayiladuthurai",
+      "block1": "Mayiladuthurai",
+      "taluk2": "Kuthalam",
+      "block2": "Kuthalam",
+      "verdict": "error",
+      "villageCodes": [
+        "225735",
+        "225683"
+      ],
+      "taluks": [
+        "Mayiladuthurai",
+        "Kuthalam"
+      ],
+      "blocks": [
+        "Mayiladuthurai",
+        "Kuthalam"
+      ]
+    },
+    {
+      "village": "VILLIYANALLUR",
+      "district": "Mayiladuthurai",
+      "taluk1": "Mayiladuthurai",
+      "block1": "Mayiladuthurai",
+      "taluk2": "Kuthalam",
+      "block2": "Kuthalam",
+      "verdict": "error",
+      "villageCodes": [
+        "225747",
+        "225693"
+      ],
+      "taluks": [
+        "Mayiladuthurai",
+        "Kuthalam"
+      ],
+      "blocks": [
+        "Mayiladuthurai",
+        "Kuthalam"
+      ]
+    },
+    {
+      "village": "VADAKARAI",
+      "district": "Nagapattinam",
+      "taluk1": "Vedaranyam",
+      "block1": "Kilvelur",
+      "taluk2": "Kilvelur",
+      "block2": "Thirumarugal",
+      "verdict": "error",
+      "villageCodes": [
+        "225595",
+        "225931"
+      ],
+      "taluks": [
+        "Vedaranyam",
+        "Kilvelur"
+      ],
+      "blocks": [
+        "Kilvelur",
+        "Thirumarugal"
+      ]
+    },
+    {
+      "village": "BODINAICKENPATTI",
+      "district": "Namakkal",
+      "taluk1": "Sendamangalam",
+      "block1": "Erumapatty",
+      "taluk2": "Rasipuram",
+      "block2": "Rasipuram",
+      "verdict": "error",
+      "villageCodes": [
+        "226000",
+        "226212"
+      ],
+      "taluks": [
+        "Sendamangalam",
+        "Rasipuram"
+      ],
+      "blocks": [
+        "Erumapatty",
+        "Rasipuram"
+      ]
+    },
+    {
+      "village": "Lathuvadi",
+      "district": "Namakkal",
+      "taluk1": "Mohanur",
+      "block1": "Elachipalayam",
+      "taluk2": "Kumarapalayam",
+      "block2": "Mohanur",
+      "verdict": "error",
+      "villageCodes": [
+        "225983",
+        "226094"
+      ],
+      "taluks": [
+        "Mohanur",
+        "Kumarapalayam"
+      ],
+      "blocks": [
+        "Elachipalayam",
+        "Mohanur"
+      ]
+    },
+    {
+      "village": "Minnampalli",
+      "district": "Namakkal",
+      "taluk1": "Paramathi-Velur",
+      "block1": "Mallasamudram",
+      "taluk2": "Mohanur",
+      "block2": "Puduchatram",
+      "verdict": "error",
+      "villageCodes": [
+        "226072",
+        "226198"
+      ],
+      "taluks": [
+        "Paramathi-Velur",
+        "Mohanur"
+      ],
+      "blocks": [
+        "Mallasamudram",
+        "Puduchatram"
+      ]
+    },
+    {
+      "village": "T Goundampalayam",
+      "district": "Namakkal",
+      "taluk1": "Tiruchengode",
+      "block1": "Kabilarmalai",
+      "taluk2": "Kolli Hills",
+      "block2": "Tiruchengode",
+      "verdict": "error",
+      "villageCodes": [
+        "226039",
+        "226261"
+      ],
+      "taluks": [
+        "Tiruchengode",
+        "Kolli Hills"
+      ],
+      "blocks": [
+        "Kabilarmalai",
+        "Tiruchengode"
+      ]
+    },
+    {
+      "village": "Periyammapalayam",
+      "district": "Perambalur",
+      "taluk1": "Veppanthattai",
+      "block1": "Veppanthattai",
+      "taluk2": "Kunnam",
+      "block2": "Veppur",
+      "verdict": "error",
+      "villageCodes": [
+        "226567",
+        "226605"
+      ],
+      "taluks": [
+        "Veppanthattai",
+        "Kunnam"
+      ],
+      "blocks": [
+        "Veppanthattai",
+        "Veppur"
+      ]
+    },
+    {
+      "village": "Ayingudi",
+      "district": "Pudukkottai",
+      "taluk1": "Illuppur",
+      "block1": "Arimalam",
+      "taluk2": "Aranthangi",
+      "block2": "Arantangi",
+      "verdict": "error",
+      "villageCodes": [
+        "226710",
+        "226667"
+      ],
+      "taluks": [
+        "Illuppur",
+        "Aranthangi"
+      ],
+      "blocks": [
+        "Arimalam",
+        "Arantangi"
+      ]
+    },
+    {
+      "village": "Kalabam",
+      "district": "Pudukkottai",
+      "taluk1": "Karambakudi",
+      "block1": "Avudayarkoil",
+      "taluk2": "Avudaiyarkoil",
+      "block2": "Karambakkudi",
+      "verdict": "error",
+      "villageCodes": [
+        "226743",
+        "226817"
+      ],
+      "taluks": [
+        "Karambakudi",
+        "Avudaiyarkoil"
+      ],
+      "blocks": [
+        "Avudayarkoil",
+        "Karambakkudi"
+      ]
+    },
+    {
+      "village": "KULATHUR",
+      "district": "Pudukkottai",
+      "taluk1": "Gandarvakottai",
+      "block1": "Kunnandarkoil",
+      "taluk2": "Aranthangi",
+      "block2": "Arantangi",
+      "verdict": "error",
+      "villageCodes": [
+        "226859",
+        "226675",
+        "226786"
+      ],
+      "taluks": [
+        "Gandarvakottai",
+        "Aranthangi",
+        "Alangudi"
+      ],
+      "blocks": [
+        "Kunnandarkoil",
+        "Arantangi",
+        "Gandarvakottai"
+      ]
+    },
+    {
+      "village": "MANGUDI",
+      "district": "Pudukkottai",
+      "taluk1": "Aranthangi",
+      "block1": "Annavasal",
+      "taluk2": "Alangudi",
+      "block2": "Arantangi",
+      "verdict": "error",
+      "villageCodes": [
+        "226632",
+        "226678"
+      ],
+      "taluks": [
+        "Aranthangi",
+        "Alangudi"
+      ],
+      "blocks": [
+        "Annavasal",
+        "Arantangi"
+      ]
+    },
+    {
+      "village": "MELUR",
+      "district": "Pudukkottai",
+      "taluk1": "Thirumayam",
+      "block1": "Annavasal",
+      "taluk2": "Alangudi",
+      "block2": "Thirumayam",
+      "verdict": "error",
+      "villageCodes": [
+        "226634",
+        "227049"
+      ],
+      "taluks": [
+        "Thirumayam",
+        "Alangudi"
+      ],
+      "blocks": [
+        "Annavasal",
+        "Thirumayam"
+      ]
+    },
+    {
+      "village": "Nadupatti",
+      "district": "Pudukkottai",
+      "taluk1": "Viralimalai",
+      "block1": "Viralimalai",
+      "taluk2": "Gandarvakottai",
+      "block2": "Gandarvakottai",
+      "verdict": "error",
+      "villageCodes": [
+        "227088",
+        "226792"
+      ],
+      "taluks": [
+        "Viralimalai",
+        "Gandarvakottai"
+      ],
+      "blocks": [
+        "Viralimalai",
+        "Gandarvakottai"
+      ]
+    },
+    {
+      "village": "PERAMBUR",
+      "district": "Pudukkottai",
+      "taluk1": "Viralimalai",
+      "block1": "Kunnandarkoil",
+      "taluk2": "Alangudi",
+      "block2": "Viralimalai",
+      "verdict": "error",
+      "villageCodes": [
+        "226870",
+        "227094"
+      ],
+      "taluks": [
+        "Viralimalai",
+        "Alangudi"
+      ],
+      "blocks": [
+        "Kunnandarkoil",
+        "Viralimalai"
+      ]
+    },
+    {
+      "village": "Puthambur",
+      "district": "Pudukkottai",
+      "taluk1": "Viralimalai",
+      "block1": "Pudukkottai",
+      "taluk2": "Avudaiyarkoil",
+      "block2": "Avudayarkoil",
+      "verdict": "error",
+      "villageCodes": [
+        "226975",
+        "226761"
+      ],
+      "taluks": [
+        "Viralimalai",
+        "Avudaiyarkoil"
+      ],
+      "blocks": [
+        "Pudukkottai",
+        "Avudayarkoil"
+      ]
+    },
+    {
+      "village": "THIRUNALLUR",
+      "district": "Pudukkottai",
+      "taluk1": "Aranthangi",
+      "block1": "Annavasal",
+      "taluk2": "Alangudi",
+      "block2": "Arantangi",
+      "verdict": "error",
+      "villageCodes": [
+        "226649",
+        "226703"
+      ],
+      "taluks": [
+        "Aranthangi",
+        "Alangudi"
+      ],
+      "blocks": [
+        "Annavasal",
+        "Arantangi"
+      ]
+    },
+    {
+      "village": "Vadugapatti",
+      "district": "Pudukkottai",
+      "taluk1": "Viralimalai",
+      "block1": "Viralimalai",
+      "taluk2": "Gandarvakottai",
+      "block2": "Gandarvakottai",
+      "verdict": "error",
+      "villageCodes": [
+        "227104",
+        "226809"
+      ],
+      "taluks": [
+        "Viralimalai",
+        "Gandarvakottai"
+      ],
+      "blocks": [
+        "Viralimalai",
+        "Gandarvakottai"
+      ]
+    },
+    {
+      "village": "Vellalaviduthi",
+      "district": "Pudukkottai",
+      "taluk1": "Karambakudi",
+      "block1": "Gandarvakottai",
+      "taluk2": "Gandarvakottai",
+      "block2": "Karambakkudi",
+      "verdict": "error",
+      "villageCodes": [
+        "226811",
+        "226851"
+      ],
+      "taluks": [
+        "Karambakudi",
+        "Gandarvakottai"
+      ],
+      "blocks": [
+        "Gandarvakottai",
+        "Karambakkudi"
+      ]
+    },
+    {
+      "village": "Kavanoor",
+      "district": "Ramanathapuram",
+      "taluk1": "Ramanathapuram",
+      "block1": "Ramanathapuram",
+      "taluk2": "Kadaladi",
+      "block2": "R.S. Mangalam",
+      "verdict": "error",
+      "villageCodes": [
+        "227446",
+        "227415"
+      ],
+      "taluks": [
+        "Ramanathapuram",
+        "Kadaladi"
+      ],
+      "blocks": [
+        "Ramanathapuram",
+        "R.S. Mangalam"
+      ]
+    },
+    {
+      "village": "Komboothi",
+      "district": "Ramanathapuram",
+      "taluk1": "Rameswaram",
+      "block1": "Thiruppullani",
+      "taluk2": "Kamudhi",
+      "block2": "Kamuthi",
+      "verdict": "error",
+      "villageCodes": [
+        "227467",
+        "227214"
+      ],
+      "taluks": [
+        "Rameswaram",
+        "Kamudhi"
+      ],
+      "blocks": [
+        "Thiruppullani",
+        "Kamuthi"
+      ]
+    },
+    {
+      "village": "Kottakudi",
+      "district": "Ramanathapuram",
+      "taluk1": "Paramakudi",
+      "block1": "R.S. Mangalam",
+      "taluk2": "Kadaladi",
+      "block2": "Nainarkoil",
+      "verdict": "error",
+      "villageCodes": [
+        "227417",
+        "227336"
+      ],
+      "taluks": [
+        "Paramakudi",
+        "Kadaladi"
+      ],
+      "blocks": [
+        "R.S. Mangalam",
+        "Nainarkoil"
+      ]
+    },
+    {
+      "village": "Arumbakkam",
+      "district": "Ranipet",
+      "taluk1": "Nemili",
+      "block1": "Nemili",
+      "taluk2": "Arcot",
+      "block2": "Arcot",
+      "verdict": "error",
+      "villageCodes": [
+        "232627",
+        "232268"
+      ],
+      "taluks": [
+        "Nemili",
+        "Arcot"
+      ],
+      "blocks": [
+        "Nemili",
+        "Arcot"
+      ]
+    },
+    {
+      "village": "Chennasamudram",
+      "district": "Ranipet",
+      "taluk1": "Walajah",
+      "block1": "Walajah",
+      "taluk2": "Arcot",
+      "block2": "Thimiri",
+      "verdict": "error",
+      "villageCodes": [
+        "232882",
+        "232816"
+      ],
+      "taluks": [
+        "Walajah",
+        "Arcot"
+      ],
+      "blocks": [
+        "Walajah",
+        "Thimiri"
+      ]
+    },
+    {
+      "village": "Karivedu",
+      "district": "Ranipet",
+      "taluk1": "Arcot",
+      "block1": "Kaveripakkam",
+      "taluk2": "Arakkonam",
+      "block2": "Arcot",
+      "verdict": "error",
+      "villageCodes": [
+        "232525",
+        "232275"
+      ],
+      "taluks": [
+        "Arcot",
+        "Arakkonam"
+      ],
+      "blocks": [
+        "Kaveripakkam",
+        "Arcot"
+      ]
+    },
+    {
+      "village": "Kilkuppam",
+      "district": "Ranipet",
+      "taluk1": "Arcot",
+      "block1": "Arakonam",
+      "taluk2": "Arakkonam",
+      "block2": "Arcot",
+      "verdict": "error",
+      "villageCodes": [
+        "232248",
+        "232278"
+      ],
+      "taluks": [
+        "Arcot",
+        "Arakkonam"
+      ],
+      "blocks": [
+        "Arakonam",
+        "Arcot"
+      ]
+    },
+    {
+      "village": "Manthangal",
+      "district": "Ranipet",
+      "taluk1": "Walajah",
+      "block1": "Walajah",
+      "taluk2": "Arcot",
+      "block2": "Thimiri",
+      "verdict": "error",
+      "villageCodes": [
+        "232892",
+        "232791"
+      ],
+      "taluks": [
+        "Walajah",
+        "Arcot"
+      ],
+      "blocks": [
+        "Walajah",
+        "Thimiri"
+      ]
+    },
+    {
+      "village": "Mosur",
+      "district": "Ranipet",
+      "taluk1": "Arcot",
+      "block1": "Arakonam",
+      "taluk2": "Arakkonam",
+      "block2": "Thimiri",
+      "verdict": "error",
+      "villageCodes": [
+        "232252",
+        "232798"
+      ],
+      "taluks": [
+        "Arcot",
+        "Arakkonam"
+      ],
+      "blocks": [
+        "Arakonam",
+        "Thimiri"
+      ]
+    },
+    {
+      "village": "Pudur",
+      "district": "Ranipet",
+      "taluk1": "Arcot",
+      "block1": "Kaveripakkam",
+      "taluk2": "Arakkonam",
+      "block2": "Thimiri",
+      "verdict": "error",
+      "villageCodes": [
+        "232548",
+        "232813"
+      ],
+      "taluks": [
+        "Arcot",
+        "Arakkonam"
+      ],
+      "blocks": [
+        "Kaveripakkam",
+        "Thimiri"
+      ]
+    },
+    {
+      "village": "Sembedu",
+      "district": "Ranipet",
+      "taluk1": "Arcot",
+      "block1": "Arakonam",
+      "taluk2": "Arakkonam",
+      "block2": "Arcot",
+      "verdict": "error",
+      "villageCodes": [
+        "232549",
+        "232299"
+      ],
+      "taluks": [
+        "Arcot",
+        "Arakkonam"
+      ],
+      "blocks": [
+        "Arakonam",
+        "Arcot"
+      ]
+    },
+    {
+      "village": "Thagarakuppam",
+      "district": "Ranipet",
+      "taluk1": "Walajah",
+      "block1": "Walajah",
+      "taluk2": "Sholinghur",
+      "block2": "Sholinghur",
+      "verdict": "error",
+      "villageCodes": [
+        "232906",
+        "232763"
+      ],
+      "taluks": [
+        "Walajah",
+        "Sholinghur"
+      ],
+      "blocks": [
+        "Walajah",
+        "Sholinghur"
+      ]
+    },
+    {
+      "village": "Pallipatti",
+      "district": "Salem",
+      "taluk1": "Salem",
+      "block1": "Ayothiyapattinam",
+      "taluk2": "Mettur",
+      "block2": "Mecheri",
+      "verdict": "error",
+      "villageCodes": [
+        "227582",
+        "227680"
+      ],
+      "taluks": [
+        "Salem",
+        "Mettur"
+      ],
+      "blocks": [
+        "Ayothiyapattinam",
+        "Mecheri"
+      ]
+    },
+    {
+      "village": "ILANGUDI",
+      "district": "Sivagangai",
+      "taluk1": "Ilayangudi",
+      "block1": "Kallal",
+      "taluk2": "Devakottai",
+      "block2": "Devakottai",
+      "verdict": "error",
+      "villageCodes": [
+        "228073",
+        "227928"
+      ],
+      "taluks": [
+        "Ilayangudi",
+        "Devakottai"
+      ],
+      "blocks": [
+        "Kallal",
+        "Devakottai"
+      ]
+    },
+    {
+      "village": "Kalathur",
+      "district": "Sivagangai",
+      "taluk1": "Karaikudi",
+      "block1": "Sakkottai",
+      "taluk2": "Devakottai",
+      "block2": "Kannangudi",
+      "verdict": "error",
+      "villageCodes": [
+        "228194",
+        "228113"
+      ],
+      "taluks": [
+        "Karaikudi",
+        "Devakottai"
+      ],
+      "blocks": [
+        "Sakkottai",
+        "Kannangudi"
+      ]
+    },
+    {
+      "village": "Keelapoongudi",
+      "district": "Sivagangai",
+      "taluk1": "Sivagangai",
+      "block1": "Sivaganga",
+      "taluk2": "Ilayangudi",
+      "block2": "Kallal",
+      "verdict": "error",
+      "villageCodes": [
+        "228257",
+        "228082"
+      ],
+      "taluks": [
+        "Sivagangai",
+        "Ilayangudi"
+      ],
+      "blocks": [
+        "Sivaganga",
+        "Kallal"
+      ]
+    },
+    {
+      "village": "MANALOOR",
+      "district": "Sivagangai",
+      "taluk1": "Manamadurai",
+      "block1": "Thiruppuvanam",
+      "taluk2": "Karaikudi",
+      "block2": "S.Pudur",
+      "verdict": "error",
+      "villageCodes": [
+        "228345",
+        "228174"
+      ],
+      "taluks": [
+        "Manamadurai",
+        "Karaikudi"
+      ],
+      "blocks": [
+        "Thiruppuvanam",
+        "S.Pudur"
+      ]
+    },
+    {
+      "village": "Mathur",
+      "district": "Sivagangai",
+      "taluk1": "Sivagangai",
+      "block1": "Sivaganga",
+      "taluk2": "Devakottai",
+      "block2": "Sakkottai",
+      "verdict": "error",
+      "villageCodes": [
+        "228265",
+        "228196"
+      ],
+      "taluks": [
+        "Sivagangai",
+        "Devakottai"
+      ],
+      "blocks": [
+        "Sivaganga",
+        "Sakkottai"
+      ]
+    },
+    {
+      "village": "PERUMPATCHERI",
+      "district": "Sivagangai",
+      "taluk1": "Manamadurai",
+      "block1": "Manamadurai",
+      "taluk2": "Ilayangudi",
+      "block2": "Ilayangudi",
+      "verdict": "error",
+      "villageCodes": [
+        "228150",
+        "227998"
+      ],
+      "taluks": [
+        "Manamadurai",
+        "Ilayangudi"
+      ],
+      "blocks": [
+        "Manamadurai",
+        "Ilayangudi"
+      ]
+    },
+    {
+      "village": "Naranapuram",
+      "district": "Tenkasi",
+      "taluk1": "Kadayanallur",
+      "block1": "Alankulam",
+      "taluk2": "Alangulam",
+      "block2": "Vasudevanallur",
+      "verdict": "error",
+      "villageCodes": [
+        "230505",
+        "230898"
+      ],
+      "taluks": [
+        "Kadayanallur",
+        "Alangulam"
+      ],
+      "blocks": [
+        "Alankulam",
+        "Vasudevanallur"
+      ]
+    },
+    {
+      "village": "Poigai",
+      "district": "Tenkasi",
+      "taluk1": "Sankarankovil",
+      "block1": "Sankarankoil",
+      "taluk2": "Kadayanallur",
+      "block2": "Kadayanallur",
+      "verdict": "error",
+      "villageCodes": [
+        "230837",
+        "230547"
+      ],
+      "taluks": [
+        "Sankarankovil",
+        "Kadayanallur"
+      ],
+      "blocks": [
+        "Sankarankoil",
+        "Kadayanallur"
+      ]
+    },
+    {
+      "village": "Ramanathapuram",
+      "district": "Tenkasi",
+      "taluk1": "Sankarankovil",
+      "block1": "Sankarankoil",
+      "taluk2": "Kadayanallur",
+      "block2": "Vasudevanallur",
+      "verdict": "error",
+      "villageCodes": [
+        "230839",
+        "230900"
+      ],
+      "taluks": [
+        "Sankarankovil",
+        "Kadayanallur"
+      ],
+      "blocks": [
+        "Sankarankoil",
+        "Vasudevanallur"
+      ]
+    },
+    {
+      "village": "AMMANGUDI",
+      "district": "Thanjavur",
+      "taluk1": "Thiruvidaimarudur",
+      "block1": "Thiruvonam",
+      "taluk2": "Orathanadu",
+      "block2": "Thiruvidaimarudur",
+      "verdict": "error",
+      "villageCodes": [
+        "228884",
+        "228912"
+      ],
+      "taluks": [
+        "Thiruvidaimarudur",
+        "Orathanadu"
+      ],
+      "blocks": [
+        "Thiruvonam",
+        "Thiruvidaimarudur"
+      ]
+    },
+    {
+      "village": "Karuppur",
+      "district": "Thanjavur",
+      "taluk1": "Thiruvaiyaru",
+      "block1": "Thiruvaiyaru",
+      "taluk2": "Pattukkottai",
+      "block2": "Thiruppanandal",
+      "verdict": "error",
+      "villageCodes": [
+        "228854",
+        "228806",
+        "228518"
+      ],
+      "taluks": [
+        "Thiruvaiyaru",
+        "Pattukkottai",
+        "Kumbakonam"
+      ],
+      "blocks": [
+        "Thiruvaiyaru",
+        "Thiruppanandal",
+        "Madukkur"
+      ]
+    },
+    {
+      "village": "Kothankudi",
+      "district": "Thanjavur",
+      "taluk1": "Thiruvidaimarudur",
+      "block1": "Kumbakonam",
+      "taluk2": "Kumbakonam",
+      "block2": "Thiruvidaimarudur",
+      "verdict": "error",
+      "villageCodes": [
+        "228477",
+        "228921"
+      ],
+      "taluks": [
+        "Thiruvidaimarudur",
+        "Kumbakonam"
+      ],
+      "blocks": [
+        "Kumbakonam",
+        "Thiruvidaimarudur"
+      ]
+    },
+    {
+      "village": "Kuruchi",
+      "district": "Thanjavur",
+      "taluk1": "Peravurani",
+      "block1": "Thiruppanandal",
+      "taluk2": "Kumbakonam",
+      "block2": "Peravurani",
+      "verdict": "error",
+      "villageCodes": [
+        "228816",
+        "228680"
+      ],
+      "taluks": [
+        "Peravurani",
+        "Kumbakonam"
+      ],
+      "blocks": [
+        "Thiruppanandal",
+        "Peravurani"
+      ]
+    },
+    {
+      "village": "Puliyakkudi",
+      "district": "Thanjavur",
+      "taluk1": "Pattukkottai",
+      "block1": "Ammapet",
+      "taluk2": "Kumbakonam",
+      "block2": "Madukkur",
+      "verdict": "error",
+      "villageCodes": [
+        "228402",
+        "228531"
+      ],
+      "taluks": [
+        "Pattukkottai",
+        "Kumbakonam"
+      ],
+      "blocks": [
+        "Ammapet",
+        "Madukkur"
+      ]
+    },
+    {
+      "village": "Rajagiri",
+      "district": "Thanjavur",
+      "taluk1": "Orathanadu",
+      "block1": "Budalur",
+      "taluk2": "Kumbakonam",
+      "block2": "Papanasam",
+      "verdict": "error",
+      "villageCodes": [
+        "228446",
+        "228614"
+      ],
+      "taluks": [
+        "Orathanadu",
+        "Kumbakonam"
+      ],
+      "blocks": [
+        "Budalur",
+        "Papanasam"
+      ]
+    },
+    {
+      "village": "Sathanur",
+      "district": "Thanjavur",
+      "taluk1": "Thiruvidaimarudur",
+      "block1": "Thiruvaiyaru",
+      "taluk2": "Thiruvaiyaru",
+      "block2": "Thiruvidaimarudur",
+      "verdict": "error",
+      "villageCodes": [
+        "228866",
+        "228939"
+      ],
+      "taluks": [
+        "Thiruvidaimarudur",
+        "Thiruvaiyaru"
+      ],
+      "blocks": [
+        "Thiruvaiyaru",
+        "Thiruvidaimarudur"
+      ]
+    },
+    {
+      "village": "Semmangudi",
+      "district": "Thanjavur",
+      "taluk1": "Thiruvidaimarudur",
+      "block1": "Thiruvaiyaru",
+      "taluk2": "Thiruvaiyaru",
+      "block2": "Thiruvidaimarudur",
+      "verdict": "error",
+      "villageCodes": [
+        "228867",
+        "228941"
+      ],
+      "taluks": [
+        "Thiruvidaimarudur",
+        "Thiruvaiyaru"
+      ],
+      "blocks": [
+        "Thiruvaiyaru",
+        "Thiruvidaimarudur"
+      ]
+    },
+    {
+      "village": "THIRUNALLUR",
+      "district": "Thanjavur",
+      "taluk1": "Orathanadu",
+      "block1": "Thiruvonam",
+      "taluk2": "Kumbakonam",
+      "block2": "Kumbakonam",
+      "verdict": "error",
+      "villageCodes": [
+        "228905",
+        "228496"
+      ],
+      "taluks": [
+        "Orathanadu",
+        "Kumbakonam"
+      ],
+      "blocks": [
+        "Thiruvonam",
+        "Kumbakonam"
+      ]
+    },
+    {
+      "village": "Vilangudi",
+      "district": "Thanjavur",
+      "taluk1": "Thiruvidaimarudur",
+      "block1": "Thiruvaiyaru",
+      "taluk2": "Thiruvaiyaru",
+      "block2": "Thiruvidaimarudur",
+      "verdict": "error",
+      "villageCodes": [
+        "228880",
+        "228956"
+      ],
+      "taluks": [
+        "Thiruvidaimarudur",
+        "Thiruvaiyaru"
+      ],
+      "blocks": [
+        "Thiruvaiyaru",
+        "Thiruvidaimarudur"
+      ]
+    },
+    {
+      "village": "Nagalapuram",
+      "district": "Theni",
+      "taluk1": "Theni",
+      "block1": "Theni",
+      "taluk2": "Bodinayakanur",
+      "block2": "Bodinaickanur",
+      "verdict": "error",
+      "villageCodes": [
+        "229103",
+        "229035"
+      ],
+      "taluks": [
+        "Theni",
+        "Bodinayakanur"
+      ],
+      "blocks": [
+        "Theni",
+        "Bodinaickanur"
+      ]
+    },
+    {
+      "village": "Ahilandapuram",
+      "district": "Thoothukkudi",
+      "taluk1": "Ottapidaram",
+      "block1": "Kayathar",
+      "taluk2": "Ettayapuram",
+      "block2": "Ottapidaram",
+      "verdict": "error",
+      "villageCodes": [
+        "231832",
+        "231915"
+      ],
+      "taluks": [
+        "Ottapidaram",
+        "Ettayapuram"
+      ],
+      "blocks": [
+        "Kayathar",
+        "Ottapidaram"
+      ]
+    },
+    {
+      "village": "K. Duraisamypuram",
+      "district": "Thoothukkudi",
+      "taluk1": "Kovilpatti",
+      "block1": "Kayathar",
+      "taluk2": "Ettayapuram",
+      "block2": "Pudur",
+      "verdict": "error",
+      "villageCodes": [
+        "231839",
+        "231980"
+      ],
+      "taluks": [
+        "Kovilpatti",
+        "Ettayapuram"
+      ],
+      "blocks": [
+        "Kayathar",
+        "Pudur"
+      ]
+    },
+    {
+      "village": "Kattalankulam",
+      "district": "Thoothukkudi",
+      "taluk1": "Thoothukkudi",
+      "block1": "Thoothukudi",
+      "taluk2": "Ettayapuram",
+      "block2": "Kayathar",
+      "verdict": "error",
+      "villageCodes": [
+        "232077",
+        "231849"
+      ],
+      "taluks": [
+        "Thoothukkudi",
+        "Ettayapuram"
+      ],
+      "blocks": [
+        "Thoothukudi",
+        "Kayathar"
+      ]
+    },
+    {
+      "village": "THEETHAMPATTI",
+      "district": "Thoothukkudi",
+      "taluk1": "Kovilpatti",
+      "block1": "Kovilpatti",
+      "taluk2": "Ettayapuram",
+      "block2": "Kayathar",
+      "verdict": "error",
+      "villageCodes": [
+        "231906",
+        "231863"
+      ],
+      "taluks": [
+        "Kovilpatti",
+        "Ettayapuram"
+      ],
+      "blocks": [
+        "Kovilpatti",
+        "Kayathar"
+      ]
+    },
+    {
+      "village": "VALLINAYAGIPURAM",
+      "district": "Thoothukkudi",
+      "taluk1": "Ottapidaram",
+      "block1": "Ottapidaram",
+      "taluk2": "Kovilpatti",
+      "block2": "Vilathikulam",
+      "verdict": "error",
+      "villageCodes": [
+        "231971",
+        "232162"
+      ],
+      "taluks": [
+        "Ottapidaram",
+        "Kovilpatti"
+      ],
+      "blocks": [
+        "Ottapidaram",
+        "Vilathikulam"
+      ]
+    },
+    {
+      "village": "Ayyampalayam",
+      "district": "Tiruchirappalli",
+      "taluk1": "Musiri",
+      "block1": "Manachanallur",
+      "taluk2": "Lalgudi",
+      "block2": "Musiri",
+      "verdict": "error",
+      "villageCodes": [
+        "230154",
+        "230280"
+      ],
+      "taluks": [
+        "Musiri",
+        "Lalgudi"
+      ],
+      "blocks": [
+        "Manachanallur",
+        "Musiri"
+      ]
+    },
+    {
+      "village": "Mekkudi",
+      "district": "Tiruchirappalli",
+      "taluk1": "Tiruchirappalli",
+      "block1": "Andhanallur",
+      "taluk2": "Srirangam",
+      "block2": "Manikandam",
+      "verdict": "error",
+      "villageCodes": [
+        "230091",
+        "230217"
+      ],
+      "taluks": [
+        "Tiruchirappalli",
+        "Srirangam"
+      ],
+      "blocks": [
+        "Andhanallur",
+        "Manikandam"
+      ]
+    },
+    {
+      "village": "Natham",
+      "district": "Tiruchirappalli",
+      "taluk1": "Musiri",
+      "block1": "Lalgudi",
+      "taluk2": "Lalgudi",
+      "block2": "Thottiam",
+      "verdict": "error",
+      "villageCodes": [
+        "230129",
+        "230405"
+      ],
+      "taluks": [
+        "Musiri",
+        "Lalgudi"
+      ],
+      "blocks": [
+        "Lalgudi",
+        "Thottiam"
+      ]
+    },
+    {
+      "village": "Perur",
+      "district": "Tiruchirappalli",
+      "taluk1": "Tiruchirappalli",
+      "block1": "Andhanallur",
+      "taluk2": "Musiri",
+      "block2": "Musiri",
+      "verdict": "error",
+      "villageCodes": [
+        "230098",
+        "230294"
+      ],
+      "taluks": [
+        "Tiruchirappalli",
+        "Musiri"
+      ],
+      "blocks": [
+        "Andhanallur",
+        "Musiri"
+      ]
+    },
+    {
+      "village": "Venkatachalapuram",
+      "district": "Tiruchirappalli",
+      "taluk1": "Thuraiyur",
+      "block1": "Pullampady",
+      "taluk2": "Musiri",
+      "block2": "Uppiliyapuram",
+      "verdict": "error",
+      "villageCodes": [
+        "230342",
+        "230466"
+      ],
+      "taluks": [
+        "Thuraiyur",
+        "Musiri"
+      ],
+      "blocks": [
+        "Pullampady",
+        "Uppiliyapuram"
+      ]
+    },
+    {
+      "village": "Ariyakulam",
+      "district": "Tirunelveli",
+      "taluk1": "Palayamkottai",
+      "block1": "Palayamkottai",
+      "taluk2": "Nanguneri",
+      "block2": "Nanguneri",
+      "verdict": "error",
+      "villageCodes": [
+        "230750",
+        "230726"
+      ],
+      "taluks": [
+        "Palayamkottai",
+        "Nanguneri"
+      ],
+      "blocks": [
+        "Palayamkottai",
+        "Nanguneri"
+      ]
+    },
+    {
+      "village": "Palavoor",
+      "district": "Tirunelveli",
+      "taluk1": "Nanguneri",
+      "block1": "Pappakudi",
+      "taluk2": "Cheranmahadevi",
+      "block2": "Valliyoor",
+      "verdict": "error",
+      "villageCodes": [
+        "230677",
+        "230883"
+      ],
+      "taluks": [
+        "Nanguneri",
+        "Cheranmahadevi"
+      ],
+      "blocks": [
+        "Pappakudi",
+        "Valliyoor"
+      ]
+    },
+    {
+      "village": "Vagaikulam",
+      "district": "Tirunelveli",
+      "taluk1": "Manur",
+      "block1": "Manur",
+      "taluk2": "Ambasamudram",
+      "block2": "Ambasamudram",
+      "verdict": "error",
+      "villageCodes": [
+        "230695",
+        "230521"
+      ],
+      "taluks": [
+        "Manur",
+        "Ambasamudram"
+      ],
+      "blocks": [
+        "Manur",
+        "Ambasamudram"
+      ]
+    },
+    {
+      "village": "REDDIYUR",
+      "district": "Tirupathur",
+      "taluk1": "Natrampalli",
+      "block1": "Jolarpet",
+      "taluk2": "Jolarpet",
+      "block2": "Alangayam",
+      "verdict": "error",
+      "villageCodes": [
+        "232380",
+        "232195"
+      ],
+      "taluks": [
+        "Natrampalli",
+        "Jolarpet"
+      ],
+      "blocks": [
+        "Jolarpet",
+        "Alangayam"
+      ]
+    },
+    {
+      "village": "Ganapathipalayam",
+      "district": "Tiruppur",
+      "taluk1": "Uthukuli",
+      "block1": "Uthukuli",
+      "taluk2": "Udumalaipettai",
+      "block2": "Udumalpet",
+      "verdict": "error",
+      "villageCodes": [
+        "223850",
+        "222289",
+        "223685"
+      ],
+      "taluks": [
+        "Uthukuli",
+        "Udumalaipettai",
+        "Kangeyam"
+      ],
+      "blocks": [
+        "Uthukuli",
+        "Udumalpet",
+        "Kangayam"
+      ]
+    },
+    {
+      "village": "KALIPALAYAM",
+      "district": "Tiruppur",
+      "taluk1": "Tiruppur",
+      "block1": "Mulanur",
+      "taluk2": "Dharapuram",
+      "block2": "Tiruppur",
+      "verdict": "error",
+      "villageCodes": [
+        "223757",
+        "222268"
+      ],
+      "taluks": [
+        "Tiruppur",
+        "Dharapuram"
+      ],
+      "blocks": [
+        "Mulanur",
+        "Tiruppur"
+      ]
+    },
+    {
+      "village": "KANAKKAMPALAYAM",
+      "district": "Tiruppur",
+      "taluk1": "Udumalaipettai",
+      "block1": "Udumalpet",
+      "taluk2": "Tiruppur",
+      "block2": "Tiruppur",
+      "verdict": "error",
+      "villageCodes": [
+        "222294",
+        "222269"
+      ],
+      "taluks": [
+        "Udumalaipettai",
+        "Tiruppur"
+      ],
+      "blocks": [
+        "Udumalpet",
+        "Tiruppur"
+      ]
+    },
+    {
+      "village": "PAPPANKULAM",
+      "district": "Tiruppur",
+      "taluk1": "Madathukulam",
+      "block1": "Madathukulam",
+      "taluk2": "Avinashi",
+      "block2": "Avinashi",
+      "verdict": "error",
+      "villageCodes": [
+        "222088",
+        "221992"
+      ],
+      "taluks": [
+        "Madathukulam",
+        "Avinashi"
+      ],
+      "blocks": [
+        "Madathukulam",
+        "Avinashi"
+      ]
+    },
+    {
+      "village": "PONGALUR",
+      "district": "Tiruppur",
+      "taluk1": "Gudimangalam",
+      "block1": "Avinashi",
+      "taluk2": "Avinashi",
+      "block2": "Pongalur",
+      "verdict": "error",
+      "villageCodes": [
+        "221993",
+        "222205"
+      ],
+      "taluks": [
+        "Gudimangalam",
+        "Avinashi"
+      ],
+      "blocks": [
+        "Avinashi",
+        "Pongalur"
+      ]
+    },
+    {
+      "village": "Pudupalayam",
+      "district": "Tiruppur",
+      "taluk1": "Uthukuli",
+      "block1": "Uthukuli",
+      "taluk2": "Gudimangalam",
+      "block2": "Gudimangalam",
+      "verdict": "error",
+      "villageCodes": [
+        "223866",
+        "222024",
+        "221995"
+      ],
+      "taluks": [
+        "Uthukuli",
+        "Gudimangalam",
+        "Avinashi"
+      ],
+      "blocks": [
+        "Uthukuli",
+        "Gudimangalam",
+        "Avinashi"
+      ]
+    },
+    {
+      "village": "Reddipalayam",
+      "district": "Tiruppur",
+      "taluk1": "Uthukuli",
+      "block1": "Uthukuli",
+      "taluk2": "Udumalaipettai",
+      "block2": "Udumalpet",
+      "verdict": "error",
+      "villageCodes": [
+        "223869",
+        "222311"
+      ],
+      "taluks": [
+        "Uthukuli",
+        "Udumalaipettai"
+      ],
+      "blocks": [
+        "Uthukuli",
+        "Udumalpet"
+      ]
+    },
+    {
+      "village": "Vadugapalayam",
+      "district": "Tiruppur",
+      "taluk1": "Uthukuli",
+      "block1": "Uthukuli",
+      "taluk2": "Gudimangalam",
+      "block2": "Gudimangalam",
+      "verdict": "error",
+      "villageCodes": [
+        "223877",
+        "222027",
+        "222005"
+      ],
+      "taluks": [
+        "Uthukuli",
+        "Gudimangalam",
+        "Avinashi"
+      ],
+      "blocks": [
+        "Uthukuli",
+        "Gudimangalam",
+        "Avinashi"
+      ]
+    },
+    {
+      "village": "Velampalayam",
+      "district": "Tiruppur",
+      "taluk1": "Uthukuli",
+      "block1": "Uthukuli",
+      "taluk2": "Palladam",
+      "block2": "Vellakoil",
+      "verdict": "error",
+      "villageCodes": [
+        "223879",
+        "223890",
+        "222121"
+      ],
+      "taluks": [
+        "Uthukuli",
+        "Palladam",
+        "Kangeyam"
+      ],
+      "blocks": [
+        "Uthukuli",
+        "Vellakoil",
+        "Palladam"
+      ]
+    },
+    {
+      "village": "Velayuthampalayam",
+      "district": "Tiruppur",
+      "taluk1": "Dharapuram",
+      "block1": "Kundadam",
+      "taluk2": "Avinashi",
+      "block2": "Avinashi",
+      "verdict": "error",
+      "villageCodes": [
+        "223731",
+        "222006"
+      ],
+      "taluks": [
+        "Dharapuram",
+        "Avinashi"
+      ],
+      "blocks": [
+        "Kundadam",
+        "Avinashi"
+      ]
+    },
+    {
+      "village": "Alinjivakkam",
+      "district": "Tiruvallur",
+      "taluk1": "Avadi",
+      "block1": "Puzhal",
+      "taluk2": "Ambattur",
+      "block2": "Sholavaram",
+      "verdict": "error",
+      "villageCodes": [
+        "229447",
+        "229493"
+      ],
+      "taluks": [
+        "Avadi",
+        "Ambattur"
+      ],
+      "blocks": [
+        "Puzhal",
+        "Sholavaram"
+      ]
+    },
+    {
+      "village": "Athipattu",
+      "district": "Tiruvallur",
+      "taluk1": "Tiruvallur",
+      "block1": "Minjur",
+      "taluk2": "Minjur",
+      "block2": "Tiruvalangadu",
+      "verdict": "error",
+      "villageCodes": [
+        "229287",
+        "229599"
+      ],
+      "taluks": [
+        "Tiruvallur",
+        "Minjur"
+      ],
+      "blocks": [
+        "Minjur",
+        "Tiruvalangadu"
+      ]
+    },
+    {
+      "village": "Athupakkam",
+      "district": "Tiruvallur",
+      "taluk1": "Ponneri",
+      "block1": "Gummidipoondi",
+      "taluk2": "Gummidipoondi",
+      "block2": "Ellapuram",
+      "verdict": "error",
+      "villageCodes": [
+        "229180",
+        "229133"
+      ],
+      "taluks": [
+        "Ponneri",
+        "Gummidipoondi"
+      ],
+      "blocks": [
+        "Gummidipoondi",
+        "Ellapuram"
+      ]
+    },
+    {
+      "village": "Kakkalur",
+      "district": "Tiruvallur",
+      "taluk1": "Tiruvallur",
+      "block1": "Pallipet",
+      "taluk2": "Pallipattu",
+      "block2": "Tiruvallur",
+      "verdict": "error",
+      "villageCodes": [
+        "229340",
+        "229566"
+      ],
+      "taluks": [
+        "Tiruvallur",
+        "Pallipattu"
+      ],
+      "blocks": [
+        "Pallipet",
+        "Tiruvallur"
+      ]
+    },
+    {
+      "village": "Kannigapuram",
+      "district": "Tiruvallur",
+      "taluk1": "Tiruttani",
+      "block1": "Tiruttani",
+      "taluk2": "Ponneri",
+      "block2": "Ellapuram",
+      "verdict": "error",
+      "villageCodes": [
+        "229539",
+        "229140"
+      ],
+      "taluks": [
+        "Tiruttani",
+        "Ponneri"
+      ],
+      "blocks": [
+        "Tiruttani",
+        "Ellapuram"
+      ]
+    },
+    {
+      "village": "Kilambakkam",
+      "district": "Tiruvallur",
+      "taluk1": "Tiruvallur",
+      "block1": "Tiruvallur",
+      "taluk2": "Ponneri",
+      "block2": "Ellapuram",
+      "verdict": "error",
+      "villageCodes": [
+        "229570",
+        "229141"
+      ],
+      "taluks": [
+        "Tiruvallur",
+        "Ponneri"
+      ],
+      "blocks": [
+        "Tiruvallur",
+        "Ellapuram"
+      ]
+    },
+    {
+      "village": "Mamandur",
+      "district": "Tiruvallur",
+      "taluk1": "Tiruvallur",
+      "block1": "Tiruvalangadu",
+      "taluk2": "Ponneri",
+      "block2": "Poondi",
+      "verdict": "error",
+      "villageCodes": [
+        "229615",
+        "229413"
+      ],
+      "taluks": [
+        "Tiruvallur",
+        "Ponneri"
+      ],
+      "blocks": [
+        "Tiruvalangadu",
+        "Poondi"
+      ]
+    },
+    {
+      "village": "Mambakkam",
+      "district": "Tiruvallur",
+      "taluk1": "Tiruttani",
+      "block1": "Tiruttani",
+      "taluk2": "Ponneri",
+      "block2": "Poondi",
+      "verdict": "error",
+      "villageCodes": [
+        "229543",
+        "229414"
+      ],
+      "taluks": [
+        "Tiruttani",
+        "Ponneri"
+      ],
+      "blocks": [
+        "Tiruttani",
+        "Poondi"
+      ]
+    },
+    {
+      "village": "Narasingapuram",
+      "district": "Tiruvallur",
+      "taluk1": "Tiruvallur",
+      "block1": "Gummidipoondi",
+      "taluk2": "Gummidipoondi",
+      "block2": "Kadambathur",
+      "verdict": "error",
+      "villageCodes": [
+        "229207",
+        "229259"
+      ],
+      "taluks": [
+        "Tiruvallur",
+        "Gummidipoondi"
+      ],
+      "blocks": [
+        "Gummidipoondi",
+        "Kadambathur"
+      ]
+    },
+    {
+      "village": "Nelvoy",
+      "district": "Tiruvallur",
+      "taluk1": "Ponneri",
+      "block1": "Gummidipoondi",
+      "taluk2": "Gummidipoondi",
+      "block2": "Poondi",
+      "verdict": "error",
+      "villageCodes": [
+        "229209",
+        "229422"
+      ],
+      "taluks": [
+        "Ponneri",
+        "Gummidipoondi"
+      ],
+      "blocks": [
+        "Gummidipoondi",
+        "Poondi"
+      ]
+    },
+    {
+      "village": "Palavakkam",
+      "district": "Tiruvallur",
+      "taluk1": "Ponneri",
+      "block1": "Gummidipoondi",
+      "taluk2": "Gummidipoondi",
+      "block2": "Ellapuram",
+      "verdict": "error",
+      "villageCodes": [
+        "229213",
+        "229153"
+      ],
+      "taluks": [
+        "Ponneri",
+        "Gummidipoondi"
+      ],
+      "blocks": [
+        "Gummidipoondi",
+        "Ellapuram"
+      ]
+    },
+    {
+      "village": "Panapakkam",
+      "district": "Tiruvallur",
+      "taluk1": "Tiruvallur",
+      "block1": "Minjur",
+      "taluk2": "Minjur",
+      "block2": "Tiruvalangadu",
+      "verdict": "error",
+      "villageCodes": [
+        "229314",
+        "229627"
+      ],
+      "taluks": [
+        "Tiruvallur",
+        "Minjur"
+      ],
+      "blocks": [
+        "Minjur",
+        "Tiruvalangadu"
+      ]
+    },
+    {
+      "village": "Pondavakkam",
+      "district": "Tiruvallur",
+      "taluk1": "Ponneri",
+      "block1": "Sholavaram",
+      "taluk2": "Gummidipoondi",
+      "block2": "Gummidipoondi",
+      "verdict": "error",
+      "villageCodes": [
+        "229522",
+        "229221",
+        "229431"
+      ],
+      "taluks": [
+        "Ponneri",
+        "Gummidipoondi",
+        "Avadi"
+      ],
+      "blocks": [
+        "Sholavaram",
+        "Gummidipoondi",
+        "Poondi"
+      ]
+    },
+    {
+      "village": "Punnapakkam",
+      "district": "Tiruvallur",
+      "taluk1": "Tiruvallur",
+      "block1": "Tiruvallur",
+      "taluk2": "Ponneri",
+      "block2": "Ellapuram",
+      "verdict": "error",
+      "villageCodes": [
+        "229581",
+        "229160"
+      ],
+      "taluks": [
+        "Tiruvallur",
+        "Ponneri"
+      ],
+      "blocks": [
+        "Tiruvallur",
+        "Ellapuram"
+      ]
+    },
+    {
+      "village": "Ramapuram",
+      "district": "Tiruvallur",
+      "taluk1": "Tiruvallur",
+      "block1": "Tiruvalangadu",
+      "taluk2": "Pallipattu",
+      "block2": "Pallipet",
+      "verdict": "error",
+      "villageCodes": [
+        "229631",
+        "229361"
+      ],
+      "taluks": [
+        "Tiruvallur",
+        "Pallipattu"
+      ],
+      "blocks": [
+        "Tiruvalangadu",
+        "Pallipet"
+      ]
+    },
+    {
+      "village": "Thandalam",
+      "district": "Tiruvallur",
+      "taluk1": "Tiruvallur",
+      "block1": "Kadambathur",
+      "taluk2": "Ponneri",
+      "block2": "Ellapuram",
+      "verdict": "error",
+      "villageCodes": [
+        "229272",
+        "229169"
+      ],
+      "taluks": [
+        "Tiruvallur",
+        "Ponneri"
+      ],
+      "blocks": [
+        "Kadambathur",
+        "Ellapuram"
+      ]
+    },
+    {
+      "village": "Thirunilai",
+      "district": "Tiruvallur",
+      "taluk1": "Ponneri",
+      "block1": "Sholavaram",
+      "taluk2": "Avadi",
+      "block2": "Ellapuram",
+      "verdict": "error",
+      "villageCodes": [
+        "229526",
+        "229172"
+      ],
+      "taluks": [
+        "Ponneri",
+        "Avadi"
+      ],
+      "blocks": [
+        "Sholavaram",
+        "Ellapuram"
+      ]
+    },
+    {
+      "village": "Voyalur",
+      "district": "Tiruvallur",
+      "taluk1": "Tiruvallur",
+      "block1": "Minjur",
+      "taluk2": "Minjur",
+      "block2": "Kadambathur",
+      "verdict": "error",
+      "villageCodes": [
+        "229334",
+        "229281"
+      ],
+      "taluks": [
+        "Tiruvallur",
+        "Minjur"
+      ],
+      "blocks": [
+        "Minjur",
+        "Kadambathur"
+      ]
+    },
+    {
+      "village": "Agaram",
+      "district": "Tiruvannamalai",
+      "taluk1": "Kilpennathur",
+      "block1": "Kilpennathur",
+      "taluk2": "Arni",
+      "block2": "Arni West",
+      "verdict": "error",
+      "villageCodes": [
+        "231205",
+        "231734"
+      ],
+      "taluks": [
+        "Kilpennathur",
+        "Arni"
+      ],
+      "blocks": [
+        "Kilpennathur",
+        "Arni West"
+      ]
+    },
+    {
+      "village": "Alliyandal",
+      "district": "Tiruvannamalai",
+      "taluk1": "Kalasapakkam",
+      "block1": "Pudupalayam",
+      "taluk2": "Cheyyar",
+      "block2": "Pernamallur",
+      "verdict": "error",
+      "villageCodes": [
+        "231347",
+        "231251"
+      ],
+      "taluks": [
+        "Kalasapakkam",
+        "Cheyyar"
+      ],
+      "blocks": [
+        "Pudupalayam",
+        "Pernamallur"
+      ]
+    },
+    {
+      "village": "Arasur",
+      "district": "Tiruvannamalai",
+      "taluk1": "Vandavasi",
+      "block1": "Anakkavoor",
+      "taluk2": "Arni",
+      "block2": "Vandavasi",
+      "verdict": "error",
+      "villageCodes": [
+        "230915",
+        "231612"
+      ],
+      "taluks": [
+        "Vandavasi",
+        "Arni"
+      ],
+      "blocks": [
+        "Anakkavoor",
+        "Vandavasi"
+      ]
+    },
+    {
+      "village": "Ariyapadi",
+      "district": "Tiruvannamalai",
+      "taluk1": "Kalasapakkam",
+      "block1": "Pernamallur",
+      "taluk2": "Arni",
+      "block2": "Arni",
+      "verdict": "error",
+      "villageCodes": [
+        "231256",
+        "230969"
+      ],
+      "taluks": [
+        "Kalasapakkam",
+        "Arni"
+      ],
+      "blocks": [
+        "Pernamallur",
+        "Arni"
+      ]
+    },
+    {
+      "village": "Ariyathur",
+      "district": "Tiruvannamalai",
+      "taluk1": "Vandavasi",
+      "block1": "Chetpet",
+      "taluk2": "Chetpet",
+      "block2": "Vandavasi",
+      "verdict": "error",
+      "villageCodes": [
+        "231050",
+        "231613"
+      ],
+      "taluks": [
+        "Vandavasi",
+        "Chetpet"
+      ],
+      "blocks": [
+        "Chetpet",
+        "Vandavasi"
+      ]
+    },
+    {
+      "village": "Ayyampalayam",
+      "district": "Tiruvannamalai",
+      "taluk1": "Tiruvannamalai",
+      "block1": "Tiruvannamalai",
+      "taluk2": "Arni",
+      "block2": "Arni West",
+      "verdict": "error",
+      "villageCodes": [
+        "231549",
+        "231740"
+      ],
+      "taluks": [
+        "Tiruvannamalai",
+        "Arni"
+      ],
+      "blocks": [
+        "Tiruvannamalai",
+        "Arni West"
+      ]
+    },
+    {
+      "village": "Devanandal",
+      "district": "Tiruvannamalai",
+      "taluk1": "Tiruvannamalai",
+      "block1": "Tiruvannamalai",
+      "taluk2": "Cheyyar",
+      "block2": "Pudupalayam",
+      "verdict": "error",
+      "villageCodes": [
+        "231552",
+        "231352"
+      ],
+      "taluks": [
+        "Tiruvannamalai",
+        "Cheyyar"
+      ],
+      "blocks": [
+        "Tiruvannamalai",
+        "Pudupalayam"
+      ]
+    },
+    {
+      "village": "Endal",
+      "district": "Tiruvannamalai",
+      "taluk1": "Tiruvannamalai",
+      "block1": "Tiruvannamalai",
+      "taluk2": "Kalasapakkam",
+      "block2": "Pernamallur",
+      "verdict": "error",
+      "villageCodes": [
+        "231554",
+        "231260"
+      ],
+      "taluks": [
+        "Tiruvannamalai",
+        "Kalasapakkam"
+      ],
+      "blocks": [
+        "Tiruvannamalai",
+        "Pernamallur"
+      ]
+    },
+    {
+      "village": "Irumbedu",
+      "district": "Tiruvannamalai",
+      "taluk1": "Vandavasi",
+      "block1": "Vandavasi",
+      "taluk2": "Arni",
+      "block2": "Arni",
+      "verdict": "error",
+      "villageCodes": [
+        "231620",
+        "230971"
+      ],
+      "taluks": [
+        "Vandavasi",
+        "Arni"
+      ],
+      "blocks": [
+        "Vandavasi",
+        "Arni"
+      ]
+    },
+    {
+      "village": "Kadambai",
+      "district": "Tiruvannamalai",
+      "taluk1": "Polur",
+      "block1": "Kilpennathur",
+      "taluk2": "Kilpennathur",
+      "block2": "Thellar",
+      "verdict": "error",
+      "villageCodes": [
+        "231216",
+        "231442"
+      ],
+      "taluks": [
+        "Polur",
+        "Kilpennathur"
+      ],
+      "blocks": [
+        "Kilpennathur",
+        "Thellar"
+      ]
+    },
+    {
+      "village": "Kalpoondi",
+      "district": "Tiruvannamalai",
+      "taluk1": "Kilpennathur",
+      "block1": "Kilpennathur",
+      "taluk2": "Arni",
+      "block2": "Arni",
+      "verdict": "error",
+      "villageCodes": [
+        "231219",
+        "230973"
+      ],
+      "taluks": [
+        "Kilpennathur",
+        "Arni"
+      ],
+      "blocks": [
+        "Kilpennathur",
+        "Arni"
+      ]
+    },
+    {
+      "village": "Kampattu",
+      "district": "Tiruvannamalai",
+      "taluk1": "Kalasapakkam",
+      "block1": "Kalasapakkam",
+      "taluk2": "Chetpet",
+      "block2": "Thandarampet",
+      "verdict": "error",
+      "villageCodes": [
+        "231173",
+        "231391"
+      ],
+      "taluks": [
+        "Kalasapakkam",
+        "Chetpet"
+      ],
+      "blocks": [
+        "Kalasapakkam",
+        "Thandarampet"
+      ]
+    },
+    {
+      "village": "Karanai",
+      "district": "Tiruvannamalai",
+      "taluk1": "Vandavasi",
+      "block1": "Anakkavoor",
+      "taluk2": "Arni",
+      "block2": "Vandavasi",
+      "verdict": "error",
+      "villageCodes": [
+        "230923",
+        "231624"
+      ],
+      "taluks": [
+        "Vandavasi",
+        "Arni"
+      ],
+      "blocks": [
+        "Anakkavoor",
+        "Vandavasi"
+      ]
+    },
+    {
+      "village": "Kolakkaravadi",
+      "district": "Tiruvannamalai",
+      "taluk1": "Kilpennathur",
+      "block1": "Thurinjapuram",
+      "taluk2": "Chetpet",
+      "block2": "Chetpet",
+      "verdict": "error",
+      "villageCodes": [
+        "231505",
+        "231065"
+      ],
+      "taluks": [
+        "Kilpennathur",
+        "Chetpet"
+      ],
+      "blocks": [
+        "Thurinjapuram",
+        "Chetpet"
+      ]
+    },
+    {
+      "village": "Kolathur",
+      "district": "Tiruvannamalai",
+      "taluk1": "Kilpennathur",
+      "block1": "Kilpennathur",
+      "taluk2": "Arni",
+      "block2": "Arni West",
+      "verdict": "error",
+      "villageCodes": [
+        "231227",
+        "231746"
+      ],
+      "taluks": [
+        "Kilpennathur",
+        "Arni"
+      ],
+      "blocks": [
+        "Kilpennathur",
+        "Arni West"
+      ]
+    },
+    {
+      "village": "Kovilur",
+      "district": "Tiruvannamalai",
+      "taluk1": "Chengam",
+      "block1": "Jawadhu Hills",
+      "taluk2": "Arni",
+      "block2": "Anakkavoor",
+      "verdict": "error",
+      "villageCodes": [
+        "231151",
+        "230930"
+      ],
+      "taluks": [
+        "Chengam",
+        "Arni"
+      ],
+      "blocks": [
+        "Jawadhu Hills",
+        "Anakkavoor"
+      ]
+    },
+    {
+      "village": "Kunnathur",
+      "district": "Tiruvannamalai",
+      "taluk1": "Polur",
+      "block1": "Polur",
+      "taluk2": "Cheyyar",
+      "block2": "Cheyyar",
+      "verdict": "error",
+      "villageCodes": [
+        "231323",
+        "231109",
+        "231748"
+      ],
+      "taluks": [
+        "Polur",
+        "Cheyyar",
+        "Arni"
+      ],
+      "blocks": [
+        "Polur",
+        "Cheyyar",
+        "Arni West"
+      ]
+    },
+    {
+      "village": "Ladavaram",
+      "district": "Tiruvannamalai",
+      "taluk1": "Kalasapakkam",
+      "block1": "Kalasapakkam",
+      "taluk2": "Arni",
+      "block2": "Arni",
+      "verdict": "error",
+      "villageCodes": [
+        "231182",
+        "230977"
+      ],
+      "taluks": [
+        "Kalasapakkam",
+        "Arni"
+      ],
+      "blocks": [
+        "Kalasapakkam",
+        "Arni"
+      ]
+    },
+    {
+      "village": "Madam",
+      "district": "Tiruvannamalai",
+      "taluk1": "Polur",
+      "block1": "Thellar",
+      "taluk2": "Kalasapakkam",
+      "block2": "Pernamallur",
+      "verdict": "error",
+      "villageCodes": [
+        "231454",
+        "231275"
+      ],
+      "taluks": [
+        "Polur",
+        "Kalasapakkam"
+      ],
+      "blocks": [
+        "Thellar",
+        "Pernamallur"
+      ]
+    },
+    {
+      "village": "Mamandur",
+      "district": "Tiruvannamalai",
+      "taluk1": "Vembakkam",
+      "block1": "Vembakkam",
+      "taluk2": "Arni",
+      "block2": "Arni",
+      "verdict": "error",
+      "villageCodes": [
+        "231691",
+        "230978"
+      ],
+      "taluks": [
+        "Vembakkam",
+        "Arni"
+      ],
+      "blocks": [
+        "Vembakkam",
+        "Arni"
+      ]
+    },
+    {
+      "village": "Mambattu",
+      "district": "Tiruvannamalai",
+      "taluk1": "Vandavasi",
+      "block1": "Polur",
+      "taluk2": "Polur",
+      "block2": "Vandavasi",
+      "verdict": "error",
+      "villageCodes": [
+        "231326",
+        "231638"
+      ],
+      "taluks": [
+        "Vandavasi",
+        "Polur"
+      ],
+      "blocks": [
+        "Polur",
+        "Vandavasi"
+      ]
+    },
+    {
+      "village": "Maruthuvambadi",
+      "district": "Tiruvannamalai",
+      "taluk1": "Kilpennathur",
+      "block1": "Thurinjapuram",
+      "taluk2": "Chetpet",
+      "block2": "Chetpet",
+      "verdict": "error",
+      "villageCodes": [
+        "231513",
+        "231072"
+      ],
+      "taluks": [
+        "Kilpennathur",
+        "Chetpet"
+      ],
+      "blocks": [
+        "Thurinjapuram",
+        "Chetpet"
+      ]
+    },
+    {
+      "village": "Meyyur",
+      "district": "Tiruvannamalai",
+      "taluk1": "Tiruvannamalai",
+      "block1": "Tiruvannamalai",
+      "taluk2": "Arni",
+      "block2": "Arni",
+      "verdict": "error",
+      "villageCodes": [
+        "231572",
+        "230980"
+      ],
+      "taluks": [
+        "Tiruvannamalai",
+        "Arni"
+      ],
+      "blocks": [
+        "Tiruvannamalai",
+        "Arni"
+      ]
+    },
+    {
+      "village": "Nadukuppam",
+      "district": "Tiruvannamalai",
+      "taluk1": "Polur",
+      "block1": "Thellar",
+      "taluk2": "Arni",
+      "block2": "Arni West",
+      "verdict": "error",
+      "villageCodes": [
+        "231461",
+        "231755"
+      ],
+      "taluks": [
+        "Polur",
+        "Arni"
+      ],
+      "blocks": [
+        "Thellar",
+        "Arni West"
+      ]
+    },
+    {
+      "village": "Nambedu",
+      "district": "Tiruvannamalai",
+      "taluk1": "Kalasapakkam",
+      "block1": "Chetpet",
+      "taluk2": "Chetpet",
+      "block2": "Pernamallur",
+      "verdict": "error",
+      "villageCodes": [
+        "231075",
+        "231286"
+      ],
+      "taluks": [
+        "Kalasapakkam",
+        "Chetpet"
+      ],
+      "blocks": [
+        "Chetpet",
+        "Pernamallur"
+      ]
+    },
+    {
+      "village": "Narayanamangalam",
+      "district": "Tiruvannamalai",
+      "taluk1": "Polur",
+      "block1": "Polur",
+      "taluk2": "Kalasapakkam",
+      "block2": "Pernamallur",
+      "verdict": "error",
+      "villageCodes": [
+        "231329",
+        "231287"
+      ],
+      "taluks": [
+        "Polur",
+        "Kalasapakkam"
+      ],
+      "blocks": [
+        "Polur",
+        "Pernamallur"
+      ]
+    },
+    {
+      "village": "Panaiyur",
+      "district": "Tiruvannamalai",
+      "taluk1": "Tiruvannamalai",
+      "block1": "Tiruvannamalai",
+      "taluk2": "Arni",
+      "block2": "Arni",
+      "verdict": "error",
+      "villageCodes": [
+        "231582",
+        "230987"
+      ],
+      "taluks": [
+        "Tiruvannamalai",
+        "Arni"
+      ],
+      "blocks": [
+        "Tiruvannamalai",
+        "Arni"
+      ]
+    },
+    {
+      "village": "Pudupalayam",
+      "district": "Tiruvannamalai",
+      "taluk1": "Vembakkam",
+      "block1": "Polur",
+      "taluk2": "Polur",
+      "block2": "Vembakkam",
+      "verdict": "error",
+      "villageCodes": [
+        "231334",
+        "231707",
+        "231758"
+      ],
+      "taluks": [
+        "Vembakkam",
+        "Polur",
+        "Arni"
+      ],
+      "blocks": [
+        "Polur",
+        "Vembakkam",
+        "Arni West"
+      ]
+    },
+    {
+      "village": "Pudupattu",
+      "district": "Tiruvannamalai",
+      "taluk1": "Chengam",
+      "block1": "Chengam",
+      "taluk2": "Arni",
+      "block2": "Arni",
+      "verdict": "error",
+      "villageCodes": [
+        "231036",
+        "230989"
+      ],
+      "taluks": [
+        "Chengam",
+        "Arni"
+      ],
+      "blocks": [
+        "Chengam",
+        "Arni"
+      ]
+    },
+    {
+      "village": "Punnai",
+      "district": "Tiruvannamalai",
+      "taluk1": "Vembakkam",
+      "block1": "Vembakkam",
+      "taluk2": "Vandavasi",
+      "block2": "Vandavasi",
+      "verdict": "error",
+      "villageCodes": [
+        "231710",
+        "231650"
+      ],
+      "taluks": [
+        "Vembakkam",
+        "Vandavasi"
+      ],
+      "blocks": [
+        "Vembakkam",
+        "Vandavasi"
+      ]
+    },
+    {
+      "village": "Randam",
+      "district": "Tiruvannamalai",
+      "taluk1": "Kilpennathur",
+      "block1": "Thurinjapuram",
+      "taluk2": "Chetpet",
+      "block2": "Chetpet",
+      "verdict": "error",
+      "villageCodes": [
+        "231523",
+        "231082"
+      ],
+      "taluks": [
+        "Kilpennathur",
+        "Chetpet"
+      ],
+      "blocks": [
+        "Thurinjapuram",
+        "Chetpet"
+      ]
+    },
+    {
+      "village": "Rantham",
+      "district": "Tiruvannamalai",
+      "taluk1": "Vembakkam",
+      "block1": "Vembakkam",
+      "taluk2": "Arni",
+      "block2": "Arni West",
+      "verdict": "error",
+      "villageCodes": [
+        "231711",
+        "231762"
+      ],
+      "taluks": [
+        "Vembakkam",
+        "Arni"
+      ],
+      "blocks": [
+        "Vembakkam",
+        "Arni West"
+      ]
+    },
+    {
+      "village": "Thandarai",
+      "district": "Tiruvannamalai",
+      "taluk1": "Tiruvannamalai",
+      "block1": "Tiruvannamalai",
+      "taluk2": "Cheyyar",
+      "block2": "Cheyyar",
+      "verdict": "error",
+      "villageCodes": [
+        "231599",
+        "231136"
+      ],
+      "taluks": [
+        "Tiruvannamalai",
+        "Cheyyar"
+      ],
+      "blocks": [
+        "Tiruvannamalai",
+        "Cheyyar"
+      ]
+    },
+    {
+      "village": "Thellur",
+      "district": "Tiruvannamalai",
+      "taluk1": "Vandavasi",
+      "block1": "Vandavasi",
+      "taluk2": "Arni",
+      "block2": "Arni West",
+      "verdict": "error",
+      "villageCodes": [
+        "231658",
+        "231767"
+      ],
+      "taluks": [
+        "Vandavasi",
+        "Arni"
+      ],
+      "blocks": [
+        "Vandavasi",
+        "Arni West"
+      ]
+    },
+    {
+      "village": "Vinnamangalam",
+      "district": "Tiruvannamalai",
+      "taluk1": "Cheyyar",
+      "block1": "Cheyyar",
+      "taluk2": "Arni",
+      "block2": "Arni West",
+      "verdict": "error",
+      "villageCodes": [
+        "231147",
+        "231769"
+      ],
+      "taluks": [
+        "Cheyyar",
+        "Arni"
+      ],
+      "blocks": [
+        "Cheyyar",
+        "Arni West"
+      ]
+    },
+    {
+      "village": "Alathur",
+      "district": "Tiruvarur",
+      "taluk1": "Thiruthuraipoondi",
+      "block1": "Kudavaasal",
+      "taluk2": "Kudavasal",
+      "block2": "Kottur",
+      "verdict": "error",
+      "villageCodes": [
+        "229655",
+        "229747"
+      ],
+      "taluks": [
+        "Thiruthuraipoondi",
+        "Kudavasal"
+      ],
+      "blocks": [
+        "Kudavaasal",
+        "Kottur"
+      ]
+    },
+    {
+      "village": "Kalathur",
+      "district": "Tiruvarur",
+      "taluk1": "Valangaiman",
+      "block1": "Valangaiman",
+      "taluk2": "Kodavasal",
+      "block2": "Koradacheri",
+      "verdict": "error",
+      "villageCodes": [
+        "230044",
+        "229711"
+      ],
+      "taluks": [
+        "Valangaiman",
+        "Kodavasal"
+      ],
+      "blocks": [
+        "Valangaiman",
+        "Koradacheri"
+      ]
+    },
+    {
+      "village": "KALLIKUDI",
+      "district": "Tiruvarur",
+      "taluk1": "Tiruvarur",
+      "block1": "Thiruvarur",
+      "taluk2": "Mannargudi",
+      "block2": "Muthupettai",
+      "verdict": "error",
+      "villageCodes": [
+        "229969",
+        "229848"
+      ],
+      "taluks": [
+        "Tiruvarur",
+        "Mannargudi"
+      ],
+      "blocks": [
+        "Thiruvarur",
+        "Muthupettai"
+      ]
+    },
+    {
+      "village": "KOTTUR",
+      "district": "Tiruvarur",
+      "taluk1": "Thiruthuraipoondi",
+      "block1": "Nannilam",
+      "taluk2": "Nannilam",
+      "block2": "Kottur",
+      "verdict": "error",
+      "villageCodes": [
+        "229888",
+        "229757"
+      ],
+      "taluks": [
+        "Thiruthuraipoondi",
+        "Nannilam"
+      ],
+      "blocks": [
+        "Nannilam",
+        "Kottur"
+      ]
+    },
+    {
+      "village": "KUNNIYUR",
+      "district": "Tiruvarur",
+      "taluk1": "Tiruvarur",
+      "block1": "Thiruvarur",
+      "taluk2": "Thiruthuraipoondi",
+      "block2": "Kottur",
+      "verdict": "error",
+      "villageCodes": [
+        "229974",
+        "229760"
+      ],
+      "taluks": [
+        "Tiruvarur",
+        "Thiruthuraipoondi"
+      ],
+      "blocks": [
+        "Thiruvarur",
+        "Kottur"
+      ]
+    },
+    {
+      "village": "Manakkal",
+      "district": "Tiruvarur",
+      "taluk1": "Valangaiman",
+      "block1": "Valangaiman",
+      "taluk2": "Kodavasal",
+      "block2": "Koradacheri",
+      "verdict": "error",
+      "villageCodes": [
+        "230051",
+        "229721"
+      ],
+      "taluks": [
+        "Valangaiman",
+        "Kodavasal"
+      ],
+      "blocks": [
+        "Valangaiman",
+        "Koradacheri"
+      ]
+    },
+    {
+      "village": "MANGUDI",
+      "district": "Tiruvarur",
+      "taluk1": "Tiruvarur",
+      "block1": "Thiruvarur",
+      "taluk2": "Mannargudi",
+      "block2": "Muthupettai",
+      "verdict": "error",
+      "villageCodes": [
+        "229976",
+        "229853"
+      ],
+      "taluks": [
+        "Tiruvarur",
+        "Mannargudi"
+      ],
+      "blocks": [
+        "Thiruvarur",
+        "Muthupettai"
+      ]
+    },
+    {
+      "village": "Nallur",
+      "district": "Tiruvarur",
+      "taluk1": "Valangaiman",
+      "block1": "Valangaiman",
+      "taluk2": "Thiruthuraipoondi",
+      "block2": "Kottur",
+      "verdict": "error",
+      "villageCodes": [
+        "230059",
+        "229767"
+      ],
+      "taluks": [
+        "Valangaiman",
+        "Thiruthuraipoondi"
+      ],
+      "blocks": [
+        "Valangaiman",
+        "Kottur"
+      ]
+    },
+    {
+      "village": "Paruthiyur",
+      "district": "Tiruvarur",
+      "taluk1": "Nannilam",
+      "block1": "Nannilam",
+      "taluk2": "Kudavasal",
+      "block2": "Kudavaasal",
+      "verdict": "error",
+      "villageCodes": [
+        "229901",
+        "229677",
+        "229729"
+      ],
+      "taluks": [
+        "Nannilam",
+        "Kudavasal",
+        "Kodavasal"
+      ],
+      "blocks": [
+        "Nannilam",
+        "Kudavaasal",
+        "Koradacheri"
+      ]
+    },
+    {
+      "village": "Perungudi",
+      "district": "Tiruvarur",
+      "taluk1": "Valangaiman",
+      "block1": "Valangaiman",
+      "taluk2": "Tiruvarur",
+      "block2": "Thiruvarur",
+      "verdict": "error",
+      "villageCodes": [
+        "230063",
+        "229982"
+      ],
+      "taluks": [
+        "Valangaiman",
+        "Tiruvarur"
+      ],
+      "blocks": [
+        "Valangaiman",
+        "Thiruvarur"
+      ]
+    },
+    {
+      "village": "Serugalathur",
+      "district": "Tiruvarur",
+      "taluk1": "Thiruthuraipoondi",
+      "block1": "Kudavaasal",
+      "taluk2": "Kudavasal",
+      "block2": "Kottur",
+      "verdict": "error",
+      "villageCodes": [
+        "229686",
+        "229781"
+      ],
+      "taluks": [
+        "Thiruthuraipoondi",
+        "Kudavasal"
+      ],
+      "blocks": [
+        "Kudavaasal",
+        "Kottur"
+      ]
+    },
+    {
+      "village": "Serugudi",
+      "district": "Tiruvarur",
+      "taluk1": "Tiruvarur",
+      "block1": "Kudavaasal",
+      "taluk2": "Kudavasal",
+      "block2": "Thiruvarur",
+      "verdict": "error",
+      "villageCodes": [
+        "229685",
+        "229988"
+      ],
+      "taluks": [
+        "Tiruvarur",
+        "Kudavasal"
+      ],
+      "blocks": [
+        "Kudavaasal",
+        "Thiruvarur"
+      ]
+    },
+    {
+      "village": "Velangudi",
+      "district": "Tiruvarur",
+      "taluk1": "Valangaiman",
+      "block1": "Valangaiman",
+      "taluk2": "Tiruvarur",
+      "block2": "Nannilam",
+      "verdict": "error",
+      "villageCodes": [
+        "230078",
+        "229918",
+        "229997"
+      ],
+      "taluks": [
+        "Valangaiman",
+        "Tiruvarur",
+        "Nannilam"
+      ],
+      "blocks": [
+        "Valangaiman",
+        "Nannilam",
+        "Thiruvarur"
+      ]
+    },
+    {
+      "village": "Puthur",
+      "district": "Vellore",
+      "taluk1": "Katpadi",
+      "block1": "Anaicut",
+      "taluk2": "Anaicut",
+      "block2": "Katpadi",
+      "verdict": "error",
+      "villageCodes": [
+        "232228",
+        "232500"
+      ],
+      "taluks": [
+        "Katpadi",
+        "Anaicut"
+      ],
+      "blocks": [
+        "Anaicut",
+        "Katpadi"
+      ]
+    },
+    {
+      "village": "Sembedu",
+      "district": "Vellore",
+      "taluk1": "Vellore",
+      "block1": "Vellore",
+      "taluk2": "Gudiyatham",
+      "block2": "Gudiyatham",
+      "verdict": "error",
+      "villageCodes": [
+        "232875",
+        "232338"
+      ],
+      "taluks": [
+        "Vellore",
+        "Gudiyatham"
+      ],
+      "blocks": [
+        "Vellore",
+        "Gudiyatham"
+      ]
+    },
+    {
+      "village": "ALANKUPPAM",
+      "district": "Villupuram",
+      "taluk1": "Tirukkoyilur",
+      "block1": "Thiruvennainallur",
+      "taluk2": "Marakanam",
+      "block2": "Merkanam",
+      "verdict": "error",
+      "villageCodes": [
+        "233636",
+        "233275"
+      ],
+      "taluks": [
+        "Tirukkoyilur",
+        "Marakanam"
+      ],
+      "blocks": [
+        "Thiruvennainallur",
+        "Merkanam"
+      ]
+    },
+    {
+      "village": "ALATHUR",
+      "district": "Villupuram",
+      "taluk1": "Rishivandiyam",
+      "block1": "Koliyanur",
+      "taluk2": "Marakanam",
+      "block2": "Merkanam",
+      "verdict": "error",
+      "villageCodes": [
+        "233183",
+        "233277"
+      ],
+      "taluks": [
+        "Rishivandiyam",
+        "Marakanam"
+      ],
+      "blocks": [
+        "Koliyanur",
+        "Merkanam"
+      ]
+    },
+    {
+      "village": "ANATHUR",
+      "district": "Villupuram",
+      "taluk1": "Tirukkoyilur",
+      "block1": "Thiruvennainallur",
+      "taluk2": "Tindivanam",
+      "block2": "Vallam",
+      "verdict": "error",
+      "villageCodes": [
+        "233639",
+        "233836"
+      ],
+      "taluks": [
+        "Tirukkoyilur",
+        "Tindivanam"
+      ],
+      "blocks": [
+        "Thiruvennainallur",
+        "Vallam"
+      ]
+    },
+    {
+      "village": "ASOOR",
+      "district": "Villupuram",
+      "taluk1": "Vikravandi",
+      "block1": "Vikkiravandi",
+      "taluk2": "Mugaiyur",
+      "block2": "Mailam",
+      "verdict": "error",
+      "villageCodes": [
+        "233965",
+        "233228"
+      ],
+      "taluks": [
+        "Vikravandi",
+        "Mugaiyur"
+      ],
+      "blocks": [
+        "Vikkiravandi",
+        "Mailam"
+      ]
+    },
+    {
+      "village": "BRAMMADESAM",
+      "district": "Villupuram",
+      "taluk1": "Vikravandi",
+      "block1": "Vikkiravandi",
+      "taluk2": "Marakanam",
+      "block2": "Merkanam",
+      "verdict": "error",
+      "villageCodes": [
+        "233968",
+        "233282"
+      ],
+      "taluks": [
+        "Vikravandi",
+        "Marakanam"
+      ],
+      "blocks": [
+        "Vikkiravandi",
+        "Merkanam"
+      ]
+    },
+    {
+      "village": "KOLATHUR",
+      "district": "Villupuram",
+      "taluk1": "Rishivandiyam",
+      "block1": "Koliyanur",
+      "taluk2": "Marakanam",
+      "block2": "Merkanam",
+      "verdict": "error",
+      "villageCodes": [
+        "233199",
+        "233297"
+      ],
+      "taluks": [
+        "Rishivandiyam",
+        "Marakanam"
+      ],
+      "blocks": [
+        "Koliyanur",
+        "Merkanam"
+      ]
+    },
+    {
+      "village": "NAGAR",
+      "district": "Villupuram",
+      "taluk1": "Vikravandi",
+      "block1": "Vikkiravandi",
+      "taluk2": "Marakanam",
+      "block2": "Merkanam",
+      "verdict": "error",
+      "villageCodes": [
+        "233986",
+        "233306"
+      ],
+      "taluks": [
+        "Vikravandi",
+        "Marakanam"
+      ],
+      "blocks": [
+        "Vikkiravandi",
+        "Merkanam"
+      ]
+    },
+    {
+      "village": "OTHIYATHUR",
+      "district": "Villupuram",
+      "taluk1": "Mugaiyur",
+      "block1": "Mugaiyur",
+      "taluk2": "Gingee",
+      "block2": "Gingee",
+      "verdict": "error",
+      "villageCodes": [
+        "233426",
+        "232994"
+      ],
+      "taluks": [
+        "Mugaiyur",
+        "Gingee"
+      ],
+      "blocks": [
+        "Mugaiyur",
+        "Gingee"
+      ]
+    },
+    {
+      "village": "PAKKAM",
+      "district": "Villupuram",
+      "taluk1": "Marakanam",
+      "block1": "Kandamangalam",
+      "taluk2": "Gingee",
+      "block2": "Gingee",
+      "verdict": "error",
+      "villageCodes": [
+        "233161",
+        "232997"
+      ],
+      "taluks": [
+        "Marakanam",
+        "Gingee"
+      ],
+      "blocks": [
+        "Kandamangalam",
+        "Gingee"
+      ]
+    },
+    {
+      "village": "Palapattu",
+      "district": "Villupuram",
+      "taluk1": "Mugaiyur",
+      "block1": "Mailam",
+      "taluk2": "Gingee",
+      "block2": "Gingee",
+      "verdict": "error",
+      "villageCodes": [
+        "233251",
+        "232998"
+      ],
+      "taluks": [
+        "Mugaiyur",
+        "Gingee"
+      ],
+      "blocks": [
+        "Mailam",
+        "Gingee"
+      ]
+    },
+    {
+      "village": "PANAPAKKAM",
+      "district": "Villupuram",
+      "taluk1": "Vikravandi",
+      "block1": "Thiruvennainallur",
+      "taluk2": "Tirukkoyilur",
+      "block2": "Vikkiravandi",
+      "verdict": "error",
+      "villageCodes": [
+        "233668",
+        "233992"
+      ],
+      "taluks": [
+        "Vikravandi",
+        "Tirukkoyilur"
+      ],
+      "blocks": [
+        "Thiruvennainallur",
+        "Vikkiravandi"
+      ]
+    },
+    {
+      "village": "PONNANKUPPAM",
+      "district": "Villupuram",
+      "taluk1": "Vikravandi",
+      "block1": "Vikkiravandi",
+      "taluk2": "Gingee",
+      "block2": "Gingee",
+      "verdict": "error",
+      "villageCodes": [
+        "233996",
+        "233002"
+      ],
+      "taluks": [
+        "Vikravandi",
+        "Gingee"
+      ],
+      "blocks": [
+        "Vikkiravandi",
+        "Gingee"
+      ]
+    },
+    {
+      "village": "PUDUPALAYAM .T",
+      "district": "Villupuram",
+      "taluk1": "Vikravandi",
+      "block1": "Thiruvennainallur",
+      "taluk2": "Tirukkoyilur",
+      "block2": "Vikkiravandi",
+      "verdict": "error",
+      "villageCodes": [
+        "233674",
+        "233997"
+      ],
+      "taluks": [
+        "Vikravandi",
+        "Tirukkoyilur"
+      ],
+      "blocks": [
+        "Thiruvennainallur",
+        "Vikkiravandi"
+      ]
+    },
+    {
+      "village": "SEMANGALAM",
+      "district": "Villupuram",
+      "taluk1": "Vanur",
+      "block1": "Thiruvennainallur",
+      "taluk2": "Tirukkoyilur",
+      "block2": "Vanur",
+      "verdict": "error",
+      "villageCodes": [
+        "233676",
+        "233949"
+      ],
+      "taluks": [
+        "Vanur",
+        "Tirukkoyilur"
+      ],
+      "blocks": [
+        "Thiruvennainallur",
+        "Vanur"
+      ]
+    },
+    {
+      "village": "SEMMEDU",
+      "district": "Villupuram",
+      "taluk1": "Tindivanam",
+      "block1": "Kanai",
+      "taluk2": "Gingee",
+      "block2": "Gingee",
+      "verdict": "error",
+      "villageCodes": [
+        "233124",
+        "233011"
+      ],
+      "taluks": [
+        "Tindivanam",
+        "Gingee"
+      ],
+      "blocks": [
+        "Kanai",
+        "Gingee"
+      ]
+    },
+    {
+      "village": "SITHERI",
+      "district": "Villupuram",
+      "taluk1": "Tindivanam",
+      "block1": "Kanai",
+      "taluk2": "Rishivandiyam",
+      "block2": "Melmalayanur",
+      "verdict": "error",
+      "villageCodes": [
+        "233127",
+        "233372"
+      ],
+      "taluks": [
+        "Tindivanam",
+        "Rishivandiyam"
+      ],
+      "blocks": [
+        "Kanai",
+        "Melmalayanur"
+      ]
+    },
+    {
+      "village": "VENMANIYATHUR",
+      "district": "Villupuram",
+      "taluk1": "Tindivanam",
+      "block1": "Kanai",
+      "taluk2": "Gingee",
+      "block2": "Olakkur",
+      "verdict": "error",
+      "villageCodes": [
+        "233137",
+        "233498"
+      ],
+      "taluks": [
+        "Tindivanam",
+        "Gingee"
+      ],
+      "blocks": [
+        "Kanai",
+        "Olakkur"
+      ]
+    },
+    {
+      "village": "Alagapuri",
+      "district": "Virudhunagar",
+      "taluk1": "Virudhunagar",
+      "block1": "Virudhunagar",
+      "taluk2": "Aruppukkottai",
+      "block2": "Narikudi",
+      "verdict": "error",
+      "villageCodes": [
+        "234380",
+        "234085"
+      ],
+      "taluks": [
+        "Virudhunagar",
+        "Aruppukkottai"
+      ],
+      "blocks": [
+        "Virudhunagar",
+        "Narikudi"
+      ]
+    },
+    {
+      "village": "Ammapatti",
+      "district": "Virudhunagar",
+      "taluk1": "Watrap",
+      "block1": "Watrap",
+      "taluk2": "Sattur",
+      "block2": "Sattur",
+      "verdict": "error",
+      "villageCodes": [
+        "234439",
+        "234164"
+      ],
+      "taluks": [
+        "Watrap",
+        "Sattur"
+      ],
+      "blocks": [
+        "Watrap",
+        "Sattur"
+      ]
+    },
+    {
+      "village": "Appayanaickenpatti",
+      "district": "Virudhunagar",
+      "taluk1": "Virudhunagar",
+      "block1": "Virudhunagar",
+      "taluk2": "Rajapalayam",
+      "block2": "Vembakottai",
+      "verdict": "error",
+      "villageCodes": [
+        "234382",
+        "234334"
+      ],
+      "taluks": [
+        "Virudhunagar",
+        "Rajapalayam"
+      ],
+      "blocks": [
+        "Virudhunagar",
+        "Vembakottai"
+      ]
+    },
+    {
+      "village": "Gopalapuram",
+      "district": "Virudhunagar",
+      "taluk1": "Rajapalayam",
+      "block1": "Aruppukottai",
+      "taluk2": "Aruppukkottai",
+      "block2": "Rajapalayam",
+      "verdict": "error",
+      "villageCodes": [
+        "234020",
+        "234134"
+      ],
+      "taluks": [
+        "Rajapalayam",
+        "Aruppukkottai"
+      ],
+      "blocks": [
+        "Aruppukottai",
+        "Rajapalayam"
+      ]
+    },
+    {
+      "village": "Inam Reddiapatti",
+      "district": "Virudhunagar",
+      "taluk1": "Virudhunagar",
+      "block1": "Virudhunagar",
+      "taluk2": "Rajapalayam",
+      "block2": "Vembakottai",
+      "verdict": "error",
+      "villageCodes": [
+        "234393",
+        "234341"
+      ],
+      "taluks": [
+        "Virudhunagar",
+        "Rajapalayam"
+      ],
+      "blocks": [
+        "Virudhunagar",
+        "Vembakottai"
+      ]
+    },
+    {
+      "village": "Kottaipatti",
+      "district": "Virudhunagar",
+      "taluk1": "Srivilliputhur",
+      "block1": "Srivilliputhur",
+      "taluk2": "Rajapalayam",
+      "block2": "Vembakottai",
+      "verdict": "error",
+      "villageCodes": [
+        "234276",
+        "234353"
+      ],
+      "taluks": [
+        "Srivilliputhur",
+        "Rajapalayam"
+      ],
+      "blocks": [
+        "Srivilliputhur",
+        "Vembakottai"
+      ]
+    },
+    {
+      "village": "Kottaiyur",
+      "district": "Virudhunagar",
+      "taluk1": "Watrap",
+      "block1": "Virudhunagar",
+      "taluk2": "Virudhunagar",
+      "block2": "Watrap",
+      "verdict": "error",
+      "villageCodes": [
+        "234398",
+        "234449"
+      ],
+      "taluks": [
+        "Watrap",
+        "Virudhunagar"
+      ],
+      "blocks": [
+        "Virudhunagar",
+        "Watrap"
+      ]
+    },
+    {
+      "village": "Krishnapuram",
+      "district": "Virudhunagar",
+      "taluk1": "Sivakasi",
+      "block1": "Rajapalayam",
+      "taluk2": "Rajapalayam",
+      "block2": "Sivakasi",
+      "verdict": "error",
+      "villageCodes": [
+        "234138",
+        "234225"
+      ],
+      "taluks": [
+        "Sivakasi",
+        "Rajapalayam"
+      ],
+      "blocks": [
+        "Rajapalayam",
+        "Sivakasi"
+      ]
+    },
+    {
+      "village": "Muthusamypuram",
+      "district": "Virudhunagar",
+      "taluk1": "Sattur",
+      "block1": "Rajapalayam",
+      "taluk2": "Rajapalayam",
+      "block2": "Sattur",
+      "verdict": "error",
+      "villageCodes": [
+        "234145",
+        "234182"
+      ],
+      "taluks": [
+        "Sattur",
+        "Rajapalayam"
+      ],
+      "blocks": [
+        "Rajapalayam",
+        "Sattur"
+      ]
+    },
+    {
+      "village": "Nallamanaickenpatti",
+      "district": "Virudhunagar",
+      "taluk1": "Virudhunagar",
+      "block1": "Virudhunagar",
+      "taluk2": "Rajapalayam",
+      "block2": "Rajapalayam",
+      "verdict": "error",
+      "villageCodes": [
+        "234411",
+        "234147"
+      ],
+      "taluks": [
+        "Virudhunagar",
+        "Rajapalayam"
+      ],
+      "blocks": [
+        "Virudhunagar",
+        "Rajapalayam"
+      ]
+    },
+    {
+      "village": "Pillaiyarkulam",
+      "district": "Virudhunagar",
+      "taluk1": "Srivilliputhur",
+      "block1": "Narikudi",
+      "taluk2": "Aruppukkottai",
+      "block2": "Srivilliputhur",
+      "verdict": "error",
+      "villageCodes": [
+        "234108",
+        "234283"
+      ],
+      "taluks": [
+        "Srivilliputhur",
+        "Aruppukkottai"
+      ],
+      "blocks": [
+        "Narikudi",
+        "Srivilliputhur"
+      ]
+    },
+    {
+      "village": "Pillaiyarnatham",
+      "district": "Virudhunagar",
+      "taluk1": "Srivilliputhur",
+      "block1": "Narikudi",
+      "taluk2": "Aruppukkottai",
+      "block2": "Srivilliputhur",
+      "verdict": "error",
+      "villageCodes": [
+        "234109",
+        "234284"
+      ],
+      "taluks": [
+        "Srivilliputhur",
+        "Aruppukkottai"
+      ],
+      "blocks": [
+        "Narikudi",
+        "Srivilliputhur"
+      ]
+    },
+    {
+      "village": "Rengappanaickenpatti",
+      "district": "Virudhunagar",
+      "taluk1": "Watrap",
+      "block1": "Watrap",
+      "taluk2": "Sattur",
+      "block2": "Sattur",
+      "verdict": "error",
+      "villageCodes": [
+        "234457",
+        "234199"
+      ],
+      "taluks": [
+        "Watrap",
+        "Sattur"
+      ],
+      "blocks": [
+        "Watrap",
+        "Sattur"
+      ]
+    },
+    {
+      "village": "Thulukkapatti",
+      "district": "Virudhunagar",
+      "taluk1": "Watrap",
+      "block1": "Virudhunagar",
+      "taluk2": "Virudhunagar",
+      "block2": "Watrap",
+      "verdict": "error",
+      "villageCodes": [
+        "234429",
+        "234460"
+      ],
+      "taluks": [
+        "Watrap",
+        "Virudhunagar"
+      ],
+      "blocks": [
+        "Virudhunagar",
+        "Watrap"
+      ]
+    },
+    {
+      "village": "Valayapatti",
+      "district": "Virudhunagar",
+      "taluk1": "Watrap",
+      "block1": "Virudhunagar",
+      "taluk2": "Virudhunagar",
+      "block2": "Watrap",
+      "verdict": "error",
+      "villageCodes": [
+        "234433",
+        "234463",
+        "234375"
+      ],
+      "taluks": [
+        "Watrap",
+        "Virudhunagar",
+        "Rajapalayam"
+      ],
+      "blocks": [
+        "Virudhunagar",
+        "Watrap",
+        "Vembakottai"
+      ]
+    },
+    {
+      "village": "PACHAPALAYAM",
+      "district": "Coimbatore",
+      "taluk1": "",
+      "block1": "Annur",
+      "taluk2": "",
+      "block2": "Sultanpet",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "221971",
+        "222228"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Annur",
+        "Sultanpet"
+      ]
+    },
+    {
+      "village": "VADAVALLI",
+      "district": "Coimbatore",
+      "taluk1": "",
+      "block1": "Annur",
+      "taluk2": "",
+      "block2": "Sultanpet",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "221976",
+        "222236"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Annur",
+        "Sultanpet"
+      ]
+    },
+    {
+      "village": "Thoppampatti",
+      "district": "Dindigul",
+      "taluk1": "",
+      "block1": "Athoor",
+      "taluk2": "",
+      "block2": "Thoppampatty",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "223267",
+        "223495"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Athoor",
+        "Thoppampatty"
+      ]
+    },
+    {
+      "village": "Thandalam",
+      "district": "Kancheepuram",
+      "taluk1": "",
+      "block1": "Sriperumbudur",
+      "taluk2": "",
+      "block2": "Kundrathur",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "224265",
+        "224109"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Sriperumbudur",
+        "Kundrathur"
+      ]
+    },
+    {
+      "village": "MAHARAJAPURAM",
+      "district": "Mayiladuthurai",
+      "taluk1": "",
+      "block1": "Mayiladuthurai",
+      "taluk2": "",
+      "block2": "Kollidam",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "225716",
+        "225622"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Mayiladuthurai",
+        "Kollidam"
+      ]
+    },
+    {
+      "village": "Kuppandapalayam",
+      "district": "Namakkal",
+      "taluk1": "",
+      "block1": "Elachipalayam",
+      "taluk2": "",
+      "block2": "Pallipalayam",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "225982",
+        "226158"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Elachipalayam",
+        "Pallipalayam"
+      ]
+    },
+    {
+      "village": "Vettivayal",
+      "district": "Pudukkottai",
+      "taluk1": "",
+      "block1": "Arantangi",
+      "taluk2": "",
+      "block2": "Manamelkudi",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "226708",
+        "226915"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Arantangi",
+        "Manamelkudi"
+      ]
+    },
+    {
+      "village": "DASANAICKENPATTI",
+      "district": "Salem",
+      "taluk1": "",
+      "block1": "Panamarathupatti",
+      "taluk2": "",
+      "block2": "Ayothiyapattinam",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "227730",
+        "227569"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Panamarathupatti",
+        "Ayothiyapattinam"
+      ]
+    },
+    {
+      "village": "Maharajapuram",
+      "district": "Thanjavur",
+      "taluk1": "Thiruvaiyaru",
+      "block1": "Thiruvaiyaru",
+      "taluk2": "",
+      "block2": "Kumbakonam",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "228858",
+        "228480",
+        "228817"
+      ],
+      "taluks": [
+        "Thiruvaiyaru"
+      ],
+      "blocks": [
+        "Thiruvaiyaru",
+        "Kumbakonam",
+        "Thiruppanandal"
+      ]
+    },
+    {
+      "village": "Manalur",
+      "district": "Thanjavur",
+      "taluk1": "",
+      "block1": "Thiruppanandal",
+      "taluk2": "",
+      "block2": "Papanasam",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "228819",
+        "228608"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Thiruppanandal",
+        "Papanasam"
+      ]
+    },
+    {
+      "village": "Sarabojirajapuram",
+      "district": "Thanjavur",
+      "taluk1": "",
+      "block1": "Thiruppanandal",
+      "taluk2": "",
+      "block2": "Papanasam",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "228829",
+        "228617"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Thiruppanandal",
+        "Papanasam"
+      ]
+    },
+    {
+      "village": "Alagappapuram",
+      "district": "Thoothukkudi",
+      "taluk1": "",
+      "block1": "Alwarthirunagari",
+      "taluk2": "",
+      "block2": "Sattankulam",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "231770",
+        "232019"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Alwarthirunagari",
+        "Sattankulam"
+      ]
+    },
+    {
+      "village": "Arumbakkam",
+      "district": "Tiruvallur",
+      "taluk1": "",
+      "block1": "Tiruvalangadu",
+      "taluk2": "",
+      "block2": "Tiruvallur",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "229597",
+        "229561"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Tiruvalangadu",
+        "Tiruvallur"
+      ]
+    },
+    {
+      "village": "Illuppur",
+      "district": "Tiruvallur",
+      "taluk1": "",
+      "block1": "Tiruvalangadu",
+      "taluk2": "",
+      "block2": "Kadambathur",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "229605",
+        "229243"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Tiruvalangadu",
+        "Kadambathur"
+      ]
+    },
+    {
+      "village": "Neiveli",
+      "district": "Tiruvallur",
+      "taluk1": "",
+      "block1": "Poondi",
+      "taluk2": "",
+      "block2": "Ellapuram",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "229421",
+        "229151"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Poondi",
+        "Ellapuram"
+      ]
+    },
+    {
+      "village": "Veeraragavapuram",
+      "district": "Tiruvallur",
+      "taluk1": "",
+      "block1": "Tiruvalangadu",
+      "taluk2": "",
+      "block2": "Tiruvallur",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "229635",
+        "229592"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Tiruvalangadu",
+        "Tiruvallur"
+      ]
+    },
+    {
+      "village": "Eraiyur",
+      "district": "Tiruvannamalai",
+      "taluk1": "",
+      "block1": "Pudupalayam",
+      "taluk2": "",
+      "block2": "Cheyyar",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "231354",
+        "231101"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Pudupalayam",
+        "Cheyyar"
+      ]
+    },
+    {
+      "village": "Panaiyur",
+      "district": "Tiruvarur",
+      "taluk1": "",
+      "block1": "Kottur",
+      "taluk2": "",
+      "block2": "Thiruthuraipoondi",
+      "verdict": "legitimate",
+      "villageCodes": [
+        "229774",
+        "230021"
+      ],
+      "taluks": [],
+      "blocks": [
+        "Kottur",
+        "Thiruthuraipoondi"
+      ]
+    }
+  ],
+  "bleedErrors": [],
+  "orphans": {
+    "villages": [],
+    "blocks": [],
+    "taluks": [
+      "Chennai"
+    ]
+  },
+  "districtSummary": [
+    {
+      "district": "Chengalpattu",
+      "taluks": 4,
+      "blocks": 8,
+      "villages": 359,
+      "unmatched": 0,
+      "conflicts": 11,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Chennai",
+      "taluks": 0,
+      "blocks": 0,
+      "villages": 0,
+      "unmatched": 0,
+      "conflicts": 0,
+      "status": "FAIL",
+      "missingDistrict": true
+    },
+    {
+      "district": "Coimbatore",
+      "taluks": 5,
+      "blocks": 12,
+      "villages": 224,
+      "unmatched": 2,
+      "conflicts": 5,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Cuddalore",
+      "taluks": 8,
+      "blocks": 14,
+      "villages": 683,
+      "unmatched": 0,
+      "conflicts": 12,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Dharmapuri",
+      "taluks": 6,
+      "blocks": 10,
+      "villages": 251,
+      "unmatched": 0,
+      "conflicts": 2,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Dindigul",
+      "taluks": 8,
+      "blocks": 14,
+      "villages": 304,
+      "unmatched": 1,
+      "conflicts": 9,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Erode",
+      "taluks": 8,
+      "blocks": 14,
+      "villages": 225,
+      "unmatched": 0,
+      "conflicts": 2,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Kallakurichi",
+      "taluks": 6,
+      "blocks": 9,
+      "villages": 412,
+      "unmatched": 0,
+      "conflicts": 1,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Kancheepuram",
+      "taluks": 4,
+      "blocks": 5,
+      "villages": 272,
+      "unmatched": 1,
+      "conflicts": 2,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Krishnagiri",
+      "taluks": 8,
+      "blocks": 10,
+      "villages": 333,
+      "unmatched": 0,
+      "conflicts": 2,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Madurai",
+      "taluks": 8,
+      "blocks": 13,
+      "villages": 420,
+      "unmatched": 0,
+      "conflicts": 8,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Mayiladuthurai",
+      "taluks": 3,
+      "blocks": 5,
+      "villages": 239,
+      "unmatched": 2,
+      "conflicts": 8,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Nagapattinam",
+      "taluks": 3,
+      "blocks": 6,
+      "villages": 193,
+      "unmatched": 0,
+      "conflicts": 1,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Namakkal",
+      "taluks": 8,
+      "blocks": 15,
+      "villages": 320,
+      "unmatched": 1,
+      "conflicts": 4,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Perambalur",
+      "taluks": 4,
+      "blocks": 4,
+      "villages": 121,
+      "unmatched": 0,
+      "conflicts": 1,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Pudukkottai",
+      "taluks": 9,
+      "blocks": 13,
+      "villages": 495,
+      "unmatched": 1,
+      "conflicts": 11,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Ramanathapuram",
+      "taluks": 7,
+      "blocks": 11,
+      "villages": 429,
+      "unmatched": 0,
+      "conflicts": 3,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Ranipet",
+      "taluks": 5,
+      "blocks": 7,
+      "villages": 288,
+      "unmatched": 0,
+      "conflicts": 9,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Salem",
+      "taluks": 8,
+      "blocks": 20,
+      "villages": 383,
+      "unmatched": 2,
+      "conflicts": 1,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Sivagangai",
+      "taluks": 6,
+      "blocks": 12,
+      "villages": 445,
+      "unmatched": 0,
+      "conflicts": 6,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Tenkasi",
+      "taluks": 6,
+      "blocks": 10,
+      "villages": 221,
+      "unmatched": 0,
+      "conflicts": 3,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Thanjavur",
+      "taluks": 7,
+      "blocks": 14,
+      "villages": 583,
+      "unmatched": 5,
+      "conflicts": 10,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Theni",
+      "taluks": 5,
+      "blocks": 8,
+      "villages": 130,
+      "unmatched": 0,
+      "conflicts": 1,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Thoothukkudi",
+      "taluks": 7,
+      "blocks": 12,
+      "villages": 401,
+      "unmatched": 2,
+      "conflicts": 5,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Tiruchirappalli",
+      "taluks": 6,
+      "blocks": 14,
+      "villages": 404,
+      "unmatched": 0,
+      "conflicts": 5,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Tirunelveli",
+      "taluks": 6,
+      "blocks": 9,
+      "villages": 216,
+      "unmatched": 0,
+      "conflicts": 4,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Tirupathur",
+      "taluks": 4,
+      "blocks": 6,
+      "villages": 208,
+      "unmatched": 0,
+      "conflicts": 1,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Tiruppur",
+      "taluks": 9,
+      "blocks": 13,
+      "villages": 265,
+      "unmatched": 0,
+      "conflicts": 10,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Tiruvallur",
+      "taluks": 9,
+      "blocks": 14,
+      "villages": 518,
+      "unmatched": 4,
+      "conflicts": 18,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Tiruvannamalai",
+      "taluks": 10,
+      "blocks": 18,
+      "villages": 858,
+      "unmatched": 1,
+      "conflicts": 35,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Tiruvarur",
+      "taluks": 8,
+      "blocks": 10,
+      "villages": 428,
+      "unmatched": 1,
+      "conflicts": 13,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Vellore",
+      "taluks": 6,
+      "blocks": 7,
+      "villages": 247,
+      "unmatched": 0,
+      "conflicts": 2,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Villupuram",
+      "taluks": 8,
+      "blocks": 13,
+      "villages": 688,
+      "unmatched": 0,
+      "conflicts": 17,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Virudhunagar",
+      "taluks": 9,
+      "blocks": 11,
+      "villages": 450,
+      "unmatched": 0,
+      "conflicts": 15,
+      "status": "FAIL",
+      "missingDistrict": false
+    },
+    {
+      "district": "Ariyalur",
+      "taluks": 4,
+      "blocks": 6,
+      "villages": 201,
+      "unmatched": 0,
+      "conflicts": 0,
+      "status": "OK",
+      "missingDistrict": false
+    },
+    {
+      "district": "Kanniyakumari",
+      "taluks": 5,
+      "blocks": 9,
+      "villages": 95,
+      "unmatched": 0,
+      "conflicts": 0,
+      "status": "OK",
+      "missingDistrict": false
+    },
+    {
+      "district": "Karur",
+      "taluks": 6,
+      "blocks": 8,
+      "villages": 157,
+      "unmatched": 0,
+      "conflicts": 0,
+      "status": "OK",
+      "missingDistrict": false
+    },
+    {
+      "district": "The Nilgiris",
+      "taluks": 4,
+      "blocks": 4,
+      "villages": 35,
+      "unmatched": 0,
+      "conflicts": 0,
+      "status": "OK",
+      "missingDistrict": false
+    }
+  ],
+  "statewideTotals": {
+    "districts": 38,
+    "taluks": 237,
+    "blocks": 388,
+    "villages": 12501,
+    "unmatched": 23,
+    "conflicts": 237
+  },
+  "mappingObject": {
+    "Ariyalur": {
+      "Ariyalur": [
+        "Andimadam",
+        "Ariyalur"
+      ],
+      "Jayankondam": [
+        "Jayamkondam"
+      ],
+      "Sendurai": [
+        "Sendurai"
+      ],
+      "Udayarpalayam": [
+        "T.Palur",
+        "Thirumanur"
+      ]
+    },
+    "Chengalpattu": {
+      "Chengalpattu": [
+        "Chithamur",
+        "Kattankolathur",
+        "Lathur"
+      ],
+      "Madurantakam": [
+        "Acharapakkam",
+        "Madurantakam"
+      ],
+      "Thirukalukundram": [
+        "Thirukalukundram",
+        "Thomas Malai"
+      ],
+      "Thiruporur": [
+        "Thiruporur"
+      ]
+    },
+    "Coimbatore": {
+      "Annur": [
+        "Annur",
+        "Sultanpet",
+        "Thondamuthur"
+      ],
+      "Coimbatore North": [
+        "P.N.Palayam",
+        "S.S.Kulam"
+      ],
+      "Coimbatore South": [
+        "Sulur"
+      ],
+      "Mettupalayam": [
+        "Karamadai"
+      ],
+      "Pollachi": [
+        "Anaimalai",
+        "Kinathukadavu",
+        "Madukkarai",
+        "Pollachi(N)",
+        "Pollachi(S)"
+      ]
+    },
+    "Cuddalore": {
+      "Bhuvanagiri": [
+        "Melbhuvanagiri",
+        "Parangipettai"
+      ],
+      "Chidambaram": [
+        "Kumaratchi",
+        "Srimushnam"
+      ],
+      "Cuddalore": [
+        "Annagramam",
+        "Cuddalore",
+        "Mangalur"
+      ],
+      "Kattumannarkoil": [
+        "Kattumannar Koil"
+      ],
+      "Kurinjipadi": [
+        "Keerapalayam",
+        "Kurinjipadi"
+      ],
+      "Panruti": [
+        "Panruti"
+      ],
+      "Tittakudi": [
+        "Nallur"
+      ],
+      "Vriddhachalam": [
+        "Kammapuram",
+        "Vridhachalam"
+      ]
+    },
+    "Dharmapuri": {
+      "Dharmapuri": [
+        "Dharmapuri",
+        "Pappireddipatti"
+      ],
+      "Harur": [
+        "Eriyur",
+        "Harur"
+      ],
+      "Karimangalam": [
+        "Karimangalam"
+      ],
+      "Nallampalli": [
+        "Nallampalli"
+      ],
+      "Palacode": [
+        "Morappur",
+        "Palacode"
+      ],
+      "Pennagaram": [
+        "Kadathur",
+        "Pennagaram"
+      ]
+    },
+    "Dindigul": {
+      "Dindigul": [
+        "Dindigul",
+        "Natham"
+      ],
+      "Gujiliamparai": [
+        "Guziliamparai",
+        "Shanarpatti"
+      ],
+      "Kodaikanal": [
+        "Kodaikanal"
+      ],
+      "Natham": [
+        "Athoor",
+        "Thoppampatty"
+      ],
+      "Nilakottai": [
+        "Nilakottai",
+        "Reddiarchatram"
+      ],
+      "Oddanchatram": [
+        "Batlagundu",
+        "Oddanchatram"
+      ],
+      "Palani": [
+        "Palani",
+        "Vadamadurai"
+      ],
+      "Vedasandur": [
+        "Vedasandur"
+      ]
+    },
+    "Erode": {
+      "Anthiyur": [
+        "Anthiyur",
+        "Thookanaickanpalayam"
+      ],
+      "Bhavani": [
+        "Ammapet",
+        "Bhavani",
+        "Bhavanisagar"
+      ],
+      "Erode": [
+        "Chennimalai",
+        "Erode"
+      ],
+      "Gobichettipalayam": [
+        "Gobi",
+        "Nambiyur"
+      ],
+      "Kodumudi": [
+        "Kodumudi"
+      ],
+      "Modakurichi": [
+        "Modakkuruchi"
+      ],
+      "Perundurai": [
+        "Perundurai"
+      ],
+      "Sathyamangalam": [
+        "Sathyamangalam",
+        "Talavadi"
+      ]
+    },
+    "Kallakurichi": {
+      "Chinnasalem": [
+        "Chinnasalem"
+      ],
+      "Kallakurichi": [
+        "Kallakurichi"
+      ],
+      "Kalrayan Hills": [
+        "Kalrayan Hills"
+      ],
+      "Sankarapuram": [
+        "Sankarapuram"
+      ],
+      "Tirukkoilur": [
+        "Thiyagadurgam",
+        "Tirukoilur",
+        "Tirunavalur"
+      ],
+      "Ulundurpet": [
+        "Rishivandiyam",
+        "Ulundurpet"
+      ]
+    },
+    "Kancheepuram": {
+      "Kancheepuram": [
+        "Kancheepuram"
+      ],
+      "Sriperumbudur": [
+        "Kundrathur",
+        "Sriperumbudur"
+      ],
+      "Uthiramerur": [
+        "Uthiramerur"
+      ],
+      "Walajabad": [
+        "Walajabad"
+      ]
+    },
+    "Kanniyakumari": {
+      "Agastheeswaram": [
+        "Agastheeswaram",
+        "Rajakkamangalam"
+      ],
+      "Kalkulam": [
+        "Munchirai",
+        "Thuckalay"
+      ],
+      "Killiyur": [
+        "Killiyoor",
+        "Thiruvattar"
+      ],
+      "Thovalai": [
+        "Melpuram",
+        "Thovalai"
+      ],
+      "Vilavancode": [
+        "Kurunthancode"
+      ]
+    },
+    "Karur": {
+      "Aravakurichi": [
+        "Aravakurichi"
+      ],
+      "Kadavur": [
+        "Kadavur",
+        "Thogamalai"
+      ],
+      "Karur": [
+        "Karur"
+      ],
+      "Krishnarayapuram": [
+        "Krishnarayapuram"
+      ],
+      "Kulithalai": [
+        "K.Paramathi",
+        "Kulithalai"
+      ],
+      "Punjaipugalur": [
+        "Thanthoni"
+      ]
+    },
+    "Krishnagiri": {
+      "Bargur": [
+        "Bargur"
+      ],
+      "Denkanikottai": [
+        "Mathur"
+      ],
+      "Hosur": [
+        "Hosur",
+        "Thally"
+      ],
+      "Krishnagiri": [
+        "Kaveripattanam",
+        "Krishnagiri"
+      ],
+      "Pochampalli": [
+        "Kelamangalam"
+      ],
+      "Shoolagiri": [
+        "Shoolagiri"
+      ],
+      "Uthangarai": [
+        "Uthangarai"
+      ],
+      "Veppanahalli": [
+        "Veppanapalli"
+      ]
+    },
+    "Madurai": {
+      "Kallupatti": [
+        "Kallikudi",
+        "T.Kallupatti"
+      ],
+      "Madurai North": [
+        "Madurai East",
+        "Madurai West"
+      ],
+      "Madurai South": [
+        "Thirupparankundram"
+      ],
+      "Melur": [
+        "Kottampatti",
+        "Melur",
+        "Sedapatti"
+      ],
+      "Peraiyur": [
+        "Chellampatti"
+      ],
+      "Thirumangalam": [
+        "Alanganallur",
+        "Thirumangalam"
+      ],
+      "Usilampatti": [
+        "Usilampatti"
+      ],
+      "Vadipatti": [
+        "Vadipatti"
+      ]
+    },
+    "Mayiladuthurai": {
+      "Kuthalam": [
+        "Kuthalam"
+      ],
+      "Mayiladuthurai": [
+        "Kollidam",
+        "Mayiladuthurai"
+      ],
+      "Sirkazhi": [
+        "Sembanarkoil",
+        "Sirkali"
+      ]
+    },
+    "Nagapattinam": {
+      "Kilvelur": [
+        "Keelaiyur",
+        "Kilvelur"
+      ],
+      "Nagapattinam": [
+        "Nagapattinam",
+        "Thalainayar"
+      ],
+      "Vedaranyam": [
+        "Thirumarugal",
+        "Vedaranyam"
+      ]
+    },
+    "Namakkal": {
+      "Kolli Hills": [
+        "Kabilarmalai",
+        "Kollihills"
+      ],
+      "Kumarapalayam": [
+        "Elachipalayam",
+        "Pallipalayam"
+      ],
+      "Mohanur": [
+        "Mallasamudram",
+        "Mohanur"
+      ],
+      "Namakkal": [
+        "Namagiripet",
+        "Namakkal"
+      ],
+      "Paramathi-Velur": [
+        "Paramathy",
+        "Puduchatram"
+      ],
+      "Rasipuram": [
+        "Rasipuram"
+      ],
+      "Sendamangalam": [
+        "Erumapatty",
+        "Sendamangalam"
+      ],
+      "Tiruchengode": [
+        "Tiruchengode",
+        "Vennandur"
+      ]
+    },
+    "Perambalur": {
+      "Alathur": [
+        "Alathur"
+      ],
+      "Kunnam": [
+        "Veppur"
+      ],
+      "Perambalur": [
+        "Perambalur"
+      ],
+      "Veppanthattai": [
+        "Veppanthattai"
+      ]
+    },
+    "Pudukkottai": {
+      "Alangudi": [
+        "Annavasal",
+        "Kunnandarkoil"
+      ],
+      "Aranthangi": [
+        "Arantangi",
+        "Manamelkudi"
+      ],
+      "Avudaiyarkoil": [
+        "Avudayarkoil"
+      ],
+      "Gandarvakottai": [
+        "Gandarvakottai"
+      ],
+      "Illuppur": [
+        "Arimalam"
+      ],
+      "Karambakudi": [
+        "Karambakkudi",
+        "Ponnamaravathi"
+      ],
+      "Kulathur": [
+        "Thiruvarankulam"
+      ],
+      "Thirumayam": [
+        "Thirumayam"
+      ],
+      "Viralimalai": [
+        "Pudukkottai",
+        "Viralimalai"
+      ]
+    },
+    "Ramanathapuram": {
+      "Kadaladi": [
+        "Kadaladi",
+        "R.S. Mangalam"
+      ],
+      "Kamudhi": [
+        "Bogalur",
+        "Kamuthi"
+      ],
+      "Mudukulathur": [
+        "Mudukulathur"
+      ],
+      "Paramakudi": [
+        "Nainarkoil",
+        "Paramakudi"
+      ],
+      "Ramanathapuram": [
+        "Ramanathapuram"
+      ],
+      "Rameswaram": [
+        "Mandapam",
+        "Thiruppullani"
+      ],
+      "Tiruvadanai": [
+        "Thiruvadanai"
+      ]
+    },
+    "Ranipet": {
+      "Arakkonam": [
+        "Arakonam",
+        "Kaveripakkam"
+      ],
+      "Arcot": [
+        "Arcot",
+        "Thimiri"
+      ],
+      "Nemili": [
+        "Nemili"
+      ],
+      "Sholinghur": [
+        "Sholinghur"
+      ],
+      "Walajah": [
+        "Walajah"
+      ]
+    },
+    "Salem": {
+      "Attur": [
+        "Attur",
+        "Gangavalli",
+        "Peddanaickenpalayam",
+        "Thalaivasal"
+      ],
+      "Edappadi": [
+        "Idappady",
+        "Konganapuram"
+      ],
+      "Mettur": [
+        "Mecheri",
+        "Nangavalli"
+      ],
+      "Omalur": [
+        "Kolathur",
+        "Omalur",
+        "Tharamangalam"
+      ],
+      "Salem": [
+        "Ayothiyapattinam",
+        "Mac. Choultry",
+        "Panamarathupatti",
+        "Salem",
+        "Veerapandy"
+      ],
+      "Sangagiri": [
+        "Sankari"
+      ],
+      "Valapady": [
+        "Kadayaampatti",
+        "Valapady"
+      ],
+      "Yercaud": [
+        "Yercaud"
+      ]
+    },
+    "Sivagangai": {
+      "Devakottai": [
+        "Devakottai",
+        "Sakkottai"
+      ],
+      "Ilayangudi": [
+        "Ilayangudi",
+        "Kallal"
+      ],
+      "Karaikudi": [
+        "Kannangudi",
+        "S.Pudur"
+      ],
+      "Manamadurai": [
+        "Manamadurai",
+        "Thiruppuvanam"
+      ],
+      "Sivagangai": [
+        "Kalaiyarkovil",
+        "Sivaganga"
+      ],
+      "Tiruppattur": [
+        "Singampunari",
+        "Thiruppathur"
+      ]
+    },
+    "Tenkasi": {
+      "Alangulam": [
+        "Alankulam",
+        "Kuruvikulam"
+      ],
+      "Kadayanallur": [
+        "Kadayanallur",
+        "Vasudevanallur"
+      ],
+      "Sankarankovil": [
+        "Melaneelithanallur",
+        "Sankarankoil"
+      ],
+      "Shencottah": [
+        "Shencottai"
+      ],
+      "Tenkasi": [
+        "Keelapavoor",
+        "Tenkasi"
+      ],
+      "Veerakeralampudur": [
+        "Kadayam"
+      ]
+    },
+    "Thanjavur": {
+      "Kumbakonam": [
+        "Ammapet",
+        "Kumbakonam",
+        "Papanasam",
+        "Thiruppanandal"
+      ],
+      "Orathanadu": [
+        "Budalur",
+        "Orathanadu",
+        "Thiruvonam"
+      ],
+      "Pattukkottai": [
+        "Madukkur",
+        "Pattukkottai"
+      ],
+      "Peravurani": [
+        "Peravurani",
+        "Sethubavachatram"
+      ],
+      "Thanjavur": [
+        "Thanjavur"
+      ],
+      "Thiruvaiyaru": [
+        "Thiruvaiyaru"
+      ],
+      "Thiruvidaimarudur": [
+        "Thiruvidaimarudur"
+      ]
+    },
+    "The Nilgiris": {
+      "Coonoor": [
+        "Coonoor"
+      ],
+      "Gudalur": [
+        "Gudalur"
+      ],
+      "Kotagiri": [
+        "Kotagiri"
+      ],
+      "Ooty": [
+        "Udhagai"
+      ]
+    },
+    "Theni": {
+      "Andipatti": [
+        "Andipatti",
+        "K Myladumparai"
+      ],
+      "Bodinayakanur": [
+        "Bodinaickanur",
+        "Chinnamanur"
+      ],
+      "Periyakulam": [
+        "Periyakulam"
+      ],
+      "Theni": [
+        "Theni"
+      ],
+      "Uthamapalayam": [
+        "Cumbum",
+        "Uthamapalayam"
+      ]
+    },
+    "Thoothukkudi": {
+      "Ettayapuram": [
+        "Karungulam",
+        "Kayathar"
+      ],
+      "Kovilpatti": [
+        "Kovilpatti",
+        "Pudur",
+        "Vilathikulam"
+      ],
+      "Ottapidaram": [
+        "Ottapidaram",
+        "Udangudi"
+      ],
+      "Sathankulam": [
+        "Alwarthirunagari",
+        "Sattankulam"
+      ],
+      "Thoothukkudi": [
+        "Thoothukudi"
+      ],
+      "Tiruchendur": [
+        "Tiruchendur"
+      ],
+      "Tiruvaikuntam": [
+        "Srivaikundam"
+      ]
+    },
+    "Tiruchirappalli": {
+      "Lalgudi": [
+        "Lalgudi",
+        "Manachanallur"
+      ],
+      "Manapparai": [
+        "Manapparai",
+        "Vaiyampatty"
+      ],
+      "Musiri": [
+        "Musiri",
+        "Pullampady",
+        "Thottiam"
+      ],
+      "Srirangam": [
+        "Manikandam",
+        "Thiruverambur"
+      ],
+      "Thuraiyur": [
+        "Marungapuri",
+        "Thuraiyur",
+        "Uppiliyapuram"
+      ],
+      "Tiruchirappalli": [
+        "Andhanallur",
+        "Thanthaiyangarpet"
+      ]
+    },
+    "Tirunelveli": {
+      "Ambasamudram": [
+        "Ambasamudram"
+      ],
+      "Cheranmahadevi": [
+        "Pappakudi"
+      ],
+      "Manur": [
+        "Manur"
+      ],
+      "Nanguneri": [
+        "Nanguneri",
+        "Valliyoor"
+      ],
+      "Palayamkottai": [
+        "Palayamkottai"
+      ],
+      "Radhapuram": [
+        "Kalakadu",
+        "Radhapuram"
+      ]
+    },
+    "Tirupathur": {
+      "Ambur": [
+        "Kandhili",
+        "Madhanur"
+      ],
+      "Jolarpet": [
+        "Jolarpet"
+      ],
+      "Natrampalli": [
+        "Alangayam",
+        "Natrampalli"
+      ],
+      "Tirupathur": [
+        "Thirupathur"
+      ]
+    },
+    "Tiruppur": {
+      "Avinashi": [
+        "Avinashi"
+      ],
+      "Dharapuram": [
+        "Dharapuram",
+        "Kundadam",
+        "Mulanur"
+      ],
+      "Gudimangalam": [
+        "Gudimangalam",
+        "Pongalur"
+      ],
+      "Kangeyam": [
+        "Kangayam",
+        "Vellakoil"
+      ],
+      "Madathukulam": [
+        "Madathukulam"
+      ],
+      "Palladam": [
+        "Palladam"
+      ],
+      "Tiruppur": [
+        "Tiruppur"
+      ],
+      "Udumalaipettai": [
+        "Udumalpet"
+      ],
+      "Uthukuli": [
+        "Uthukuli"
+      ]
+    },
+    "Tiruvallur": {
+      "Ambattur": [
+        "Puzhal",
+        "Villivakkam"
+      ],
+      "Avadi": [
+        "Poonamallee",
+        "Sholavaram"
+      ],
+      "Gummidipoondi": [
+        "Gummidipoondi"
+      ],
+      "Minjur": [
+        "Minjur"
+      ],
+      "Pallipattu": [
+        "Pallipet"
+      ],
+      "Ponneri": [
+        "Ellapuram",
+        "Poondi"
+      ],
+      "Tiruttani": [
+        "Tiruttani"
+      ],
+      "Tiruvallur": [
+        "Kadambathur",
+        "Tiruvalangadu",
+        "Tiruvallur"
+      ],
+      "Uthukottai": [
+        "R.K.Pet"
+      ]
+    },
+    "Tiruvannamalai": {
+      "Arni": [
+        "Anakkavoor",
+        "Arni",
+        "Arni West"
+      ],
+      "Chengam": [
+        "Chengam",
+        "Jawadhu Hills"
+      ],
+      "Chetpet": [
+        "Chetpet",
+        "Thandarampet"
+      ],
+      "Cheyyar": [
+        "Cheyyar",
+        "Pudupalayam"
+      ],
+      "Kalasapakkam": [
+        "Kalasapakkam",
+        "Pernamallur"
+      ],
+      "Kilpennathur": [
+        "Kilpennathur",
+        "Thurinjapuram"
+      ],
+      "Polur": [
+        "Polur",
+        "Thellar"
+      ],
+      "Tiruvannamalai": [
+        "Tiruvannamalai"
+      ],
+      "Vandavasi": [
+        "Vandavasi"
+      ],
+      "Vembakkam": [
+        "Vembakkam"
+      ]
+    },
+    "Tiruvarur": {
+      "Kodavasal": [
+        "Koradacheri"
+      ],
+      "Kudavasal": [
+        "Kudavaasal"
+      ],
+      "Mannargudi": [
+        "Mannargudi",
+        "Muthupettai"
+      ],
+      "Nannilam": [
+        "Nannilam"
+      ],
+      "Needamangalam": [
+        "Needamangalam"
+      ],
+      "Thiruthuraipoondi": [
+        "Kottur",
+        "Thiruthuraipoondi"
+      ],
+      "Tiruvarur": [
+        "Thiruvarur"
+      ],
+      "Valangaiman": [
+        "Valangaiman"
+      ]
+    },
+    "Vellore": {
+      "Anaicut": [
+        "Anaicut"
+      ],
+      "Gudiyatham": [
+        "Gudiyatham",
+        "K.V. Kuppam"
+      ],
+      "Katpadi": [
+        "Katpadi"
+      ],
+      "Pernambut": [
+        "Pernambet"
+      ],
+      "Vaniyambadi": [
+        "Kaniyambadi"
+      ],
+      "Vellore": [
+        "Vellore"
+      ]
+    },
+    "Villupuram": {
+      "Gingee": [
+        "Gingee",
+        "Olakkur"
+      ],
+      "Marakanam": [
+        "Kandamangalam",
+        "Merkanam"
+      ],
+      "Mugaiyur": [
+        "Mailam",
+        "Mugaiyur"
+      ],
+      "Rishivandiyam": [
+        "Koliyanur",
+        "Melmalayanur"
+      ],
+      "Tindivanam": [
+        "Kanai",
+        "Vallam"
+      ],
+      "Tirukkoyilur": [
+        "Thiruvennainallur"
+      ],
+      "Vanur": [
+        "Vanur"
+      ],
+      "Vikravandi": [
+        "Vikkiravandi"
+      ]
+    },
+    "Virudhunagar": {
+      "Aruppukkottai": [
+        "Aruppukottai",
+        "Narikudi"
+      ],
+      "Kariapatti": [
+        "Kariapatti"
+      ],
+      "Rajapalayam": [
+        "Rajapalayam",
+        "Vembakottai"
+      ],
+      "Sattur": [
+        "Sattur"
+      ],
+      "Sivakasi": [
+        "Sivakasi"
+      ],
+      "Srivilliputhur": [
+        "Srivilliputhur"
+      ],
+      "Tiruchuli": [
+        "Tiruchuli"
+      ],
+      "Virudhunagar": [
+        "Virudhunagar"
+      ],
+      "Watrap": [
+        "Watrap"
+      ]
+    }
+  }
+}

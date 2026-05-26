@@ -1,12 +1,26 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://127.0.0.1:8000/api',
+  baseURL: process.env.REACT_APP_API_BASE_URL || 'http://localhost:5000/api',
   withCredentials: false,
 });
 
-// Skip auth header for login and register endpoints
-const PUBLIC_URLS = ['/auth/login/', '/auth/register/'];
+// Public endpoints for the Smart RTI flow.
+const PUBLIC_URLS = [
+  '/auth/login',
+  '/auth/register',
+  '/auth/request-otp',
+  '/auth/verify-otp',
+  '/rti/generate',
+  '/rti/submit',
+  '/departments',
+  '/hods',
+  '/districts',
+  '/taluks',
+  '/villages',
+  '/categories',
+  '/sample-questions',
+];
 
 API.interceptors.request.use((req) => {
   const isPublic = PUBLIC_URLS.some(url => req.url.includes(url));
