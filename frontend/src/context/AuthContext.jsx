@@ -21,10 +21,17 @@ export const AuthProvider = ({ children }) => {
     setUser(null);
   };
 
+  // Update user data in state + localStorage (e.g. after profile edit)
+  const updateUser = (updatedFields) => {
+    const merged = { ...user, ...updatedFields };
+    localStorage.setItem('user', JSON.stringify(merged));
+    setUser(merged);
+  };
+
   const isAuthenticated = !!user && !!localStorage.getItem('access_token');
 
   return (
-    <AuthContext.Provider value={{ user, login, logout, isAuthenticated }}>
+    <AuthContext.Provider value={{ user, login, logout, updateUser, isAuthenticated }}>
       {children}
     </AuthContext.Provider>
   );

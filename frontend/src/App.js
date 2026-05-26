@@ -1,38 +1,38 @@
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
-import { AuthProvider, useAuth } from './context/AuthContext';
+import { HashRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import { AuthProvider } from './context/AuthContext';
+import { LanguageProvider } from './context/LanguageContext';
 import Login from './pages/Login';
 import Register from './pages/Register';
-import Dashboard from './pages/Dashboard';
-import FileRTI from './pages/FileRTI';
-import MyApplications from './pages/MyApplications';
-import TrackStatus from './pages/TrackStatus';
-import AdminPanel from './pages/AdminPanel';
-
-function ProtectedRoute({ children }) {
-  const { isAuthenticated } = useAuth();
-  if (!isAuthenticated) {
-    return <Navigate to="/login" replace />;
-  }
-  return children;
-}
+import NewRTIRequest from './pages/NewRTIRequest';
+import ReviewDraft from './pages/ReviewDraft';
+import FAQ from './pages/FAQ';
+import Guidelines from './pages/Guidelines';
+import TrackApplication from './pages/TrackApplication';
+import Home from './pages/Home';
+import PublicAuthority from './pages/PublicAuthority';
+import SubmittedRequest from './pages/SubmittedRequest';
 
 function App() {
   return (
-    <AuthProvider>
-      <Router>
-        <Routes>
-          <Route path="/" element={<Navigate to="/login" />} />
-          <Route path="/login" element={<Login />} />
-          <Route path="/register" element={<Register />} />
-          <Route path="/dashboard" element={<ProtectedRoute><Dashboard /></ProtectedRoute>} />
-          <Route path="/file-rti" element={<ProtectedRoute><FileRTI /></ProtectedRoute>} />
-          <Route path="/my-applications" element={<ProtectedRoute><MyApplications /></ProtectedRoute>} />
-          <Route path="/track/:application_no" element={<ProtectedRoute><TrackStatus /></ProtectedRoute>} />
-          <Route path="/admin-panel" element={<ProtectedRoute><AdminPanel /></ProtectedRoute>} />
-          <Route path="/super-admin" element={<ProtectedRoute><AdminPanel /></ProtectedRoute>} />
-        </Routes>
-      </Router>
-    </AuthProvider>
+    <LanguageProvider>
+      <AuthProvider>
+        <Router>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="/register" element={<Register />} />
+            <Route path="/smart-assistant" element={<NewRTIRequest />} />
+            <Route path="/review-draft" element={<ReviewDraft />} />
+            <Route path="/faq" element={<FAQ />} />
+            <Route path="/guidelines" element={<Guidelines />} />
+            <Route path="/public-authority" element={<PublicAuthority />} />
+            <Route path="/track-smart-rti" element={<TrackApplication />} />
+            <Route path="/submitted-request" element={<SubmittedRequest />} />
+            <Route path="*" element={<Navigate to="/" replace />} />
+          </Routes>
+        </Router>
+      </AuthProvider>
+    </LanguageProvider>
   );
 }
 
